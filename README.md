@@ -8,5 +8,6 @@ A repository for stuff while Lead TA for cs7
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 
 
+
 ### "We all float down here"
-![We all float down here](/art/penywise.gif)
+![We all float down here](/art/pennywise.jpeg)
