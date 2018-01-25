@@ -78,8 +78,8 @@ Per Emily:
 - The total number of _possible_ combination of three terms which each have two possible states is...?
 - Number of _states_ raised to the power of the number of _terms_, i.e. 2<sup>3</sup>, or (2 * 2 * 2), a.k.a. _eight_:
 
-| # |phi | psi | fry | phi or psi or fry |
-|---:---:|:---:|:---:|:---:|
+| # | phi | psi | fry | phi or psi or fry |
+|:---|:---:|:---:|:---:|:---:|
 | 1) | T | T | T | True |
 | 2) | T | T | F | True |
 | 3) | T | F | T | True |
