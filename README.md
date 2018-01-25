@@ -10,10 +10,10 @@
 
 ***
 
-##### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
-1. Wanna know how to make these expandable sections in markdown?
-2. Click on this [README.md files](README.md), then
-3. click the `edit` icon:
+#### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
+##### Wanna know how to make these expandable sections in markdown?
+1. Click on this [README.md files](README.md), then
+2. click the `edit` icon:
 
 ![Look, a pencil!](art/look-a-pencil.png)
 
