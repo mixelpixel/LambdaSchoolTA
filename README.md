@@ -10,8 +10,9 @@
 
 ***
 
-# Lambda School Teaching Assistant
-A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm not actually serious about Students not looking at this.
+# Lambda School Teaching Assistant: Patrick Kennedy
+A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort.
+I'm not actually serious about students not looking at this.
 
 - [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
@@ -38,7 +39,7 @@ A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm n
 
 <details><summary>Set Up Notes</summary><p>
 
-#### Setting up repl.it code challenges
+#### Setting up [repl.it](https://repl.it/teacher) code challenges
 Per Emily:
 1. Log into repl.it - you should see the classrooms
 2. When you click on CS7's classroom there should be 3 tabs: published, scheduled, and drafts.
@@ -48,7 +49,7 @@ Per Emily:
 6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
 
 #### Slack `/polly` polls
-- oh, it's a thing now with a web interface... templates... all that.
+- oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
 
 #### Slack `/jibble` timeclock
 - who comes up with these names?
