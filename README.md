@@ -16,10 +16,10 @@ A repository for stuff while Lead TA for cs7
 # Month 1
 ## Week 03: Jan. 22 - 26
 ### Wednesday, Jan. 24
-#### [Code Challenge](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE
-#### [1st Lecture](VIDEO_RECORDED_NOT_POSTED) w/Speaker: NEW_CODE_CHALLENGE Solution
-#### [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
-#### [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
+- [Code Challenge](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE
+- [Code Challenge Solution](VIDEO_RECORDED_NOT_POSTED) w/Speaker
+- [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
+- [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
 
 <!-- </p></details> -->
