@@ -57,3 +57,7 @@ A repository for stuff while Lead TA for cs7
 
 ### "We all float down here"
 ![We all float down here](/art/pennywise.jpeg)
+
+<h1>WARNING</h1>
+<h2>IF YOU ARE A STUDENT AT LAMBDA SCHOOL</h2>
+<h6>Don't look at ANY of this!!!!!!</h6>
