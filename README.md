@@ -1,17 +1,24 @@
-# CS7
-<img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px">
+<h1 align="center">CS7</h1>
+<div  align="center"><img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px"></div>
 <!-- ![CS7](art/cs7.png) -->
 
+<h1 align="center">WARNING</h1>
+<h2 align="center">~ If you are a student at Lambda School ~</h2>
+<h3 align="center">NO lookie-loo @ ANY of this!!!!!!</h3>
+<h4 align="center">No, really: SRS BSNS!!</h4>
+<h5 align="center">Y U STILL LOOKIE LOOKIE??????</h5>
+<h6 align="center">u r in BIG trubble.</h6>
 
-# LambdaSchoolTA
-A repository for stuff while Lead TA for cs7
+
+# Lambda School Teaching Assistant
+A repository for stuff while Lead TA for cs7. I'm not actually serious about Students not looking at this.
 
 - [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
-- [Weekly breakdown](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
-![Weekly Schedule](/art/weeklySchedule.png)
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 - The CS7 Calendar is available on Google Calendars per invite.
+- [Weekly schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
+![Weekly Schedule](/art/weeklySchedule.png)
 
 #### Setting up repl.it code challenges
 1. Log into repl.it - you should see the classrooms
@@ -42,6 +49,20 @@ A repository for stuff while Lead TA for cs7
 <!-- ![pepper it up with console logs!](art/consolelog.png) -->
 <img src="https://i.imgur.com/zxZdEug.png" height="300px" width="300px">
 
+#### Truth Table: Inclusive Or
+If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
+
+phi | psi | fry | phi or psi or fry
+:---:|:---:|:---:|:---:
+T | T | T | True
+T | T | F | True
+T | F | T | True
+T | F | F | True
+F | T | T | True
+F | T | F | True
+F | F | T | True
+F | F | F | False | <--------- 
+
 - [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
 - [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
 - [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
@@ -57,7 +78,3 @@ A repository for stuff while Lead TA for cs7
 
 ### "We all float down here"
 ![We all float down here](/art/pennywise.jpeg)
-
-<h1>WARNING</h1>
-<h2>IF YOU ARE A STUDENT AT LAMBDA SCHOOL</h2>
-<h6>Don't look at ANY of this!!!!!!</h6>
