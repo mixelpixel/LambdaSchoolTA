@@ -75,19 +75,19 @@ Per Emily:
 - If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
 - There are three terms: `phi`, `psi` & `fry`.
 - Each term has two possible states: `true` or `false`.
-- The total number of _possible_ combination of three terms which each have two possible states is:
-- 2<sup>3</sup>, or eight:
+- The total number of _possible_ combination of three terms which each have two possible states is...?
+- Number of _states_ raised to the power of the number of _terms_, i.e. 2<sup>3</sup>, or (2 * 2 * 2), a.k.a. _eight_:
 
-phi | psi | fry | phi or psi or fry
-:---:|:---:|:---:|:---:
-T | T | T | True
-T | T | F | True
-T | F | T | True
-T | F | F | True
-F | T | T | True
-F | T | F | True
-F | F | T | True
-F | F | F | False
+| # |phi | psi | fry | phi or psi or fry |
+|---:---:|:---:|:---:|:---:|
+| 1) | T | T | T | True |
+| 2) | T | T | F | True |
+| 3) | T | F | T | True |
+| 4) | T | F | F | True |
+| 5) | F | T | T | True |
+| 6) | F | T | F | True |
+| 7) | F | F | T | True |
+| 8) | F | F | F | False |
 
 - [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
 - [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
