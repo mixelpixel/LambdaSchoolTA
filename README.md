@@ -39,6 +39,7 @@ A repository for stuff while Lead TA for cs7
 ### Thursday, Jan. 25
 - [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
 - [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+![pepper it up with console log!](art/consolelog.png)
 - [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
 - [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
 ***
