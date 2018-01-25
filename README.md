@@ -22,6 +22,13 @@ A repository for stuff while Lead TA for cs7
 - [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
 
+### Thursday, Jan. 25
+- [Code Challenge](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE
+- [Code Challenge Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+- [LECTURE](LINK) w/Speaker
+- [LECTURE](LINK) w/Speaker
+***
+
 <!-- </p></details> -->
 
 ### "We all float down here"
