@@ -10,8 +10,15 @@
 <h6 align="center">u r in BIG trubble.</h6>
 
 
+***
+##### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
+Wanna know how to make these ▶︎ expandable sections ▶︎ in markdown? Click on this [README.md files](README.md) and click the `edit` icon:
+
+![Look, a pencil!](art/look-a-pencil.png)
+***
+
 # Lambda School Teaching Assistant
-A repository for stuff while Lead TA for cs7. I'm not actually serious about Students not looking at this.
+A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm not actually serious about Students not looking at this.
 
 - [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
@@ -19,6 +26,9 @@ A repository for stuff while Lead TA for cs7. I'm not actually serious about Stu
 - The CS7 Calendar is available on Google Calendars per invite.
 - [Weekly schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 ![Weekly Schedule](/art/weeklySchedule.png)
+
+<details><summary>Set Up</summary><p>
+
 
 #### Setting up repl.it code challenges
 1. Log into repl.it - you should see the classrooms
@@ -31,9 +41,7 @@ A repository for stuff while Lead TA for cs7. I'm not actually serious about Stu
 #### Slack `/polly` polls
 - oh, it's a thing with a web interface...
 
-<!-- ***
-### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
-*** -->
+</p></details>
 
 <!-- <details><summary>Month 1: January, 2018</summary><p> -->
 
@@ -61,7 +69,7 @@ T | F | F | True
 F | T | T | True
 F | T | F | True
 F | F | T | True
-F | F | F | False | <--------- 
+F | F | F | False | <---------
 
 - [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
 - [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
