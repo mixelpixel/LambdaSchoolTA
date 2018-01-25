@@ -23,11 +23,16 @@ A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm n
 ***
 
 #### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
+
+<details><summary>How U Do Da'????</summary><p>
+
 ##### Wanna know how to make these expandable sections in markdown?
 1. Click on this [README.md file](README.md), then
 2. click the `edit` icon:
 
 ![Look, a pencil!](art/look-a-pencil.png)
+
+</p></details>
 
 ***
 
@@ -91,7 +96,7 @@ Per Emily:
 
 #### Exclusive Or (with only two terms)
 - Just a quick explanation of the difference between exclusive and inclusive or logic.
-- AN _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
+- An _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
 - i.e. "I will have either a cheese burger, or pizza, but _not both_"
 
 | # | phi | psi | "phi exclusive_or psi" |
