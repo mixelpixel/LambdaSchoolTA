@@ -78,7 +78,7 @@ Per Emily:
 - The total number of _possible_ combination of three terms which each have two possible states is...?
 - Number of _states_ raised to the power of the number of _terms_, i.e. 2<sup>3</sup>, or (2 * 2 * 2), a.k.a. _eight_:
 
-| # | phi | psi | fry | phi or psi or fry |
+| # | phi | psi | fry | "phi inclusive_or psi inclusive_or fry" |
 |:---|:---:|:---:|:---:|:---:|
 | 1) | T | T | T | True |
 | 2) | T | T | F | True |
@@ -88,6 +88,19 @@ Per Emily:
 | 6) | F | T | F | True |
 | 7) | F | F | T | True |
 | 8) | F | F | F | False |
+
+#### Exclusive Or (with only two terms)
+- Just a quick explanation of the difference between exclusive and inclusive or logic.
+- AN _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
+- i.e. "I will have either a cheese burger, or pizza, but _not both_"
+
+| # | phi | psi | "phi exclusive_or psi" |
+|:---|:---:|:---:|:---:|
+| 1) | T | T | False |
+| 2) | T | F | True |
+| 3) | F | T | True |
+| 4) | F | F | False |
+
 
 - [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
 - [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
