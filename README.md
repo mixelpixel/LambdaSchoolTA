@@ -1,5 +1,7 @@
 # CS7
-![CS7](art/cs7.png)
+<img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px">
+<!-- ![CS7](art/cs7.png) -->
+
 
 # LambdaSchoolTA
 A repository for stuff while Lead TA for cs7
@@ -35,19 +37,16 @@ A repository for stuff while Lead TA for cs7
 ***
 
 ### Thursday, Jan. 25
-- [Code Challenge](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE
-- [Code Challenge Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
-- [LECTURE](LINK) w/SPEAKER
-- [LECTURE](LINK) w/SPEAKER
+- [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
+- [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+- [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
+- [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
 ***
 
 ### Friday, Jan. 26
-- [Code Challenge](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE
-- [Code Challenge Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+- [Sprint Challenge](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
 - [Brown Bag](LINK) w/SPEAKER: TOPIC
-- [LECTURE](LINK) w/SPEAKER
-- [LECTURE](LINK) w/SPEAKER
-***
+- [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
 
 <!-- </p></details> -->
 
