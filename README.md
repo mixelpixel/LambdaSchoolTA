@@ -1,3 +1,6 @@
+# CS7
+![CS7](art/cs7.png)
+
 # LambdaSchoolTA
 A repository for stuff while Lead TA for cs7
 
