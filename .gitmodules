@@ -1,0 +1,3 @@
+[submodule "Code-Review-Checklist"]
+	path = Code-Review-Checklist
+	url = https://github.com/mixelpixel/Code-Review-Checklist.git
