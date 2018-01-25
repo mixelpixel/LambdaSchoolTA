@@ -76,7 +76,7 @@ Per Emily:
 - There are three terms: `phi`, `psi` & `fry`.
 - Each term has two possible states: `true` or `false`.
 - The total number of _possible_ combination of three terms which each have two possible states is:
-- 2<super>3</super>, or eight:
+- 2<sup>3</sup>, or eight:
 
 phi | psi | fry | phi or psi or fry
 :---:|:---:|:---:|:---:
