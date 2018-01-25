@@ -69,7 +69,7 @@ T | F | F | True
 F | T | T | True
 F | T | F | True
 F | F | T | True
-F | F | F | False | <---------
+F | F | F | False
 
 - [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
 - [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
@@ -83,6 +83,8 @@ F | F | F | False | <---------
 - [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
 
 <!-- </p></details> -->
+
+***
 
 ### "We all float down here"
 ![We all float down here](/art/pennywise.jpeg)
