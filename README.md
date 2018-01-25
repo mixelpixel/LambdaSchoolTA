@@ -72,7 +72,7 @@ Per Emily:
 
 ### Day 13: Thursday, Jan. 25
 
-- [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
+- [Code Challenge 11](https://repl.it/student/submissions/#) Consecutive Strings
 - [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
 
 <img src="https://i.imgur.com/zxZdEug.png" height="200px" width="200px">
