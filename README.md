@@ -7,6 +7,17 @@ A repository for stuff while Lead TA for cs7
 ![Weekly Schedule](/art/weeklySchedule.png)
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 
+#### Setting up repl.it code challenges
+1. Log into repl.it - you should see the classrooms
+2. When you click on CS7's classroom there should be 3 tabs: published, scheduled, and drafts.
+3. Under drafts, find the code challenge and click on it.
+4. On it's main page on the top right you can schedule it.
+5. Select tomorrow and set the time to 7:59 AM (I do 8, but I'm a rebel)
+6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
+
+#### Slack `/polly` polls
+- oh, it's a thing with a web interface...
+
 <!-- ***
 ### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
 *** -->
