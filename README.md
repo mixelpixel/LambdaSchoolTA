@@ -11,7 +11,7 @@ A repository for stuff while Lead TA for cs7
 ### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
 ***
 
-<details><summary>Month 1: January, 2018</summary><p>
+<!-- <details><summary>Month 1: January, 2018</summary><p> -->
 
 # Month 1
 ## Week 03: Jan. 22 - 26
@@ -22,7 +22,7 @@ A repository for stuff while Lead TA for cs7
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
 
-</p></details>
+<!-- </p></details> -->
 
 ### "We all float down here"
 ![We all float down here](/art/pennywise.jpeg)
