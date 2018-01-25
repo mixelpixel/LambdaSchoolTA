@@ -23,8 +23,16 @@ A repository for stuff while Lead TA for cs7
 ### Thursday, Jan. 25
 - [Code Challenge](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE
 - [Code Challenge Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
-- [LECTURE](LINK) w/Speaker
-- [LECTURE](LINK) w/Speaker
+- [LECTURE](LINK) w/SPEAKER
+- [LECTURE](LINK) w/SPEAKER
+***
+
+### Friday, Jan. 26
+- [Code Challenge](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE
+- [Code Challenge Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+- [Brown Bag](LINK) w/SPEAKER: TOPIC
+- [LECTURE](LINK) w/SPEAKER
+- [LECTURE](LINK) w/SPEAKER
 ***
 
 <!-- </p></details> -->
