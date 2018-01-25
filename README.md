@@ -29,7 +29,7 @@ A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm n
 - [Weekly schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 ![Weekly Schedule](/art/weeklySchedule.png)
 
-<details><h1><summary>Set Up</summary></h1><p>
+<details><summary>Set Up</summary><p>
 
 #### Setting up repl.it code challenges
 Per Emily:
