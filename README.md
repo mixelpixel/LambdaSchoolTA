@@ -37,6 +37,15 @@
 
 ![Look, a pencil!](art/look-a-pencil.png)
 
+3. wrap a section in this HTML:
+```html
+<details><summary>Displayed Text</summary><p>
+
+Nested text/markdown
+
+</p></details>
+```
+
 </p></details>
 
 ***
