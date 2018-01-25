@@ -11,8 +11,8 @@
 ***
 
 # Lambda School Teaching Assistant: Patrick Kennedy
-A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort.
-I'm not actually serious about students not looking at this.
+<p>A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort.</p>
+<p>I'm not actually serious about students not looking at this stuff. OR, am I???????.</p>
 
 - [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
