@@ -100,13 +100,16 @@ Per Emily:
 - An _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
 - i.e. "I will have either a cheese burger, or pizza, but _not both_"
 
-| # | phi | psi | "phi exclusive_or psi" |
+| # | Φ | Ψ | "phi exclusive_or psi" |
 |:---|:---:|:---:|:---:|
 | 1) | T | T | False |
 | 2) | T | F | True |
 | 3) | F | T | True |
 | 4) | F | F | False |
 
+$$
+\phi
+$$
 
 - [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
 - [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
