@@ -82,7 +82,7 @@ Per Emily:
 - There are three terms: `phi`, `psi` & `fry`.
 - Each term has two possible states: `true` or `false`.
 - The total number of _possible_ combination of three terms which each have two possible states is...?
-- Number of _states_ raised to the power of the number of _terms_, i.e. 2<sup>3</sup>, or (2 * 2 * 2), a.k.a. _eight_:
+- Number of ***states*** (either true or false) raised to the power of the number of ***terms*** (phi, psi & fry), i.e. 2<sup>3</sup>, or (2 \* 2 \* 2), a.k.a. *eight*:
 
 | # | phi | psi | fry | "phi inclusive_or psi inclusive_or fry" |
 |:---|:---:|:---:|:---:|:---:|
