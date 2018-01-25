@@ -10,15 +10,6 @@
 
 ***
 
-#### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
-##### Wanna know how to make these expandable sections in markdown?
-1. Click on this [README.md files](README.md), then
-2. click the `edit` icon:
-
-![Look, a pencil!](art/look-a-pencil.png)
-
-***
-
 # Lambda School Teaching Assistant
 A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm not actually serious about Students not looking at this.
 
@@ -29,7 +20,18 @@ A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm n
 - [Weekly schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 ![Weekly Schedule](/art/weeklySchedule.png)
 
-<details><summary>Set Up</summary><p>
+***
+
+#### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
+##### Wanna know how to make these expandable sections in markdown?
+1. Click on this [README.md file](README.md), then
+2. click the `edit` icon:
+
+![Look, a pencil!](art/look-a-pencil.png)
+
+***
+
+<details><summary>Set Up Notes</summary><p>
 
 #### Setting up repl.it code challenges
 Per Emily:
@@ -51,19 +53,23 @@ Per Emily:
 
 </p></details>
 
+***
+
 <!-- <details><summary>Month 1: January, 2018</summary><p> -->
 
 # Month 1
 ## Week 03: Jan. 22 - 26
-### DAY 12: Wednesday, Jan. 24
+### Day 12: Wednesday, Jan. 24
 - [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
 - [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
 
 ### Day 13: Thursday, Jan. 25
 
-<!-- ![pepper it up with console logs!](art/consolelog.png) -->
-<img src="https://i.imgur.com/zxZdEug.png" height="300px" width="300px">
+- [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
+- [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+
+<img src="https://i.imgur.com/zxZdEug.png" height="200px" width="200px">
 
 #### Truth Table: Inclusive Or
 If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
@@ -79,8 +85,6 @@ F | T | F | True
 F | F | T | True
 F | F | F | False
 
-- [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
-- [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
 - [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
 - [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
 ***
