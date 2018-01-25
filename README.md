@@ -1,5 +1,7 @@
-<h1 align="center">CS7</h1>
-<div  align="center"><img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px"></div>
+<h1 align="center">Lambda School CS7</h1>
+
+<div align="center"><img src="https://i.imgur.com/rVVk3pe.png" alt="CS7 Lambda" height="300px" width="300px"></div>
+
 
 <h1 align="center"><b>WARNING</b></h1>
 <h2 align="center">~ If you are a student at Lambda School ~</h2>
@@ -7,6 +9,8 @@
 <h4 align="center">No, really: SRS BSNS!!</h4>
 <h5 align="center">Y U STILL LOOKIE LOOKIE??????</h5>
 <h6 align="center">u r in BIG trubble.</h6>
+
+<div align="center"><img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px"></div>
 
 ***
 
@@ -53,9 +57,36 @@ Per Emily:
 
 #### Slack `/jibble` timeclock
 - who comes up with these names?
+- How do we edit previous hours?
 
 #### [Code Review Checklist](https://github.com/mixelpixel/Code-Review-Checklist)
 - Get on it!
+
+</p></details>
+
+<details><summary>CS7 Teaching Assistants</summary><p>
+
+### CS7 TA's
+1. Manisha LaL (Chicago, IL) CST
+2. Wesley "Pine Cone" Harvey (Vancouver, BC) PST
+3. Satish Vattikuti (Toledo, OH) EST
+
+<img src="http://www.nationsonline.org/maps/US-timezones.jpg" alt="U.S. Time Zones" width="300">
+
+### CS7 TA Schedules (PST)
+1. Manisha M-F 8-5
+2. Wesley: M-F 8-5
+3. Satish is Part Time: 20hrs total
+  - M Tu W Th F: 8AM - 9AM
+  - M    W    F: NOON - 5PM
+
+#### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
+## In alphabetical order, ask all the TA's
+1. What did you work on yesterday?
+2. What are you working on today?
+3. What is causing you to get stuck?
+
+#### @9:30am PST  Lead TA Stand Up Meeting (5 - 10 Minutes)
 
 </p></details>
 
@@ -72,8 +103,8 @@ Per Emily:
 
 ### Day 13: Thursday, Jan. 25
 
-- [Code Challenge 11](https://repl.it/student/submissions/#) Consecutive Strings
-- [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
+- [Code Challenge 11](https://repl.it/student/submissions/623210) Consecutive Strings
+- [Code Challenge 11 Solution](https://youtu.be/Ft_nfW8GKiQ) w/Patrick Kennedy
 
 <img src="https://i.imgur.com/zxZdEug.png" height="200px" width="200px">
 
@@ -107,7 +138,7 @@ Per Emily:
 | F | T | True |
 | F | F | False |
 
-- [LECTURE: GUIDED DEMO](LINK) w/SPEAKER
+- [LECTURE: GUIDED DEMO](LINK) w/Ivan Mora
 - [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
 ***
 
