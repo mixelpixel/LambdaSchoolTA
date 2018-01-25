@@ -29,8 +29,7 @@ A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm n
 - [Weekly schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 ![Weekly Schedule](/art/weeklySchedule.png)
 
-<details><summary>Set Up</summary><p>
-
+<details><summary><h1>Set Up</h1></summary><p>
 
 #### Setting up repl.it code challenges
 Per Emily:
@@ -43,6 +42,12 @@ Per Emily:
 
 #### Slack `/polly` polls
 - oh, it's a thing now with a web interface... templates... all that.
+
+#### Slack `/jibble` timeclock
+- who comes up with these names?
+
+#### [Code Review Checklist](Code-Review-Checklist)
+- Get on it!
 
 </p></details>
 
