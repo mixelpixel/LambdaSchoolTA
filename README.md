@@ -1,20 +1,22 @@
 <h1 align="center">CS7</h1>
 <div  align="center"><img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px"></div>
-<!-- ![CS7](art/cs7.png) -->
 
-<h1 align="center">WARNING</h1>
+<h1 align="center"><b>WARNING</b></h1>
 <h2 align="center">~ If you are a student at Lambda School ~</h2>
 <h3 align="center">NO lookie-loo @ ANY of this!!!!!!</h3>
 <h4 align="center">No, really: SRS BSNS!!</h4>
 <h5 align="center">Y U STILL LOOKIE LOOKIE??????</h5>
 <h6 align="center">u r in BIG trubble.</h6>
 
-
 ***
+
 ##### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
-Wanna know how to make these ▶︎ expandable sections ▶︎ in markdown? Click on this [README.md files](README.md) and click the `edit` icon:
+1. Wanna know how to make these expandable sections in markdown?
+2. Click on this [README.md files](README.md), then
+3. click the `edit` icon:
 
 ![Look, a pencil!](art/look-a-pencil.png)
+
 ***
 
 # Lambda School Teaching Assistant
