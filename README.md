@@ -33,6 +33,7 @@ A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm n
 
 
 #### Setting up repl.it code challenges
+Per Emily:
 1. Log into repl.it - you should see the classrooms
 2. When you click on CS7's classroom there should be 3 tabs: published, scheduled, and drafts.
 3. Under drafts, find the code challenge and click on it.
@@ -41,7 +42,7 @@ A repository for stuff while _Lead_ Teaching Assistant for the cs7 cohort. I'm n
 6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
 
 #### Slack `/polly` polls
-- oh, it's a thing with a web interface...
+- oh, it's a thing now with a web interface... templates... all that.
 
 </p></details>
 
