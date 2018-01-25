@@ -11,6 +11,7 @@ A repository for stuff while Lead TA for cs7
 - [Weekly breakdown](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 ![Weekly Schedule](/art/weeklySchedule.png)
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
+- The CS7 Calendar is available on Google Calendars per invite.
 
 #### Setting up repl.it code challenges
 1. Log into repl.it - you should see the classrooms
@@ -31,12 +32,12 @@ A repository for stuff while Lead TA for cs7
 
 # Month 1
 ## Week 03: Jan. 22 - 26
-### Wednesday, Jan. 24
+### DAY 12: Wednesday, Jan. 24
 - [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
 - [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
 
-### Thursday, Jan. 25
+### Day 13: Thursday, Jan. 25
 - [Code Challenge 11](https://repl.it/student/submissions/#) NEW_CODE_CHALLENGE (confirm that this is challenge eleven)
 - [Code Challenge 11 Solution](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
 ![pepper it up with console log!](art/consolelog.png)
@@ -44,7 +45,7 @@ A repository for stuff while Lead TA for cs7
 - [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
 ***
 
-### Friday, Jan. 26
+### Day 14: Friday, Jan. 26
 - [Sprint Challenge](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
 - [Brown Bag](LINK) w/SPEAKER: TOPIC
 - [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
