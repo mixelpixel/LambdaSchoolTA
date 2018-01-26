@@ -99,6 +99,63 @@ Per Emily:
 
 </p></details>
 
+<details><summary>CS7 Students</summary><p>
+
+Ronelle Lawson
+Igor Yermak
+Ashlei Jones
+Steven Magadan
+Glenn-David Daniel
+Dixie Korley
+Giraud Julemis
+Anthony Catalfo
+Mike Streltsoff
+Maximo Delarosa
+John Spraul
+Charlie Sparks
+Richard Reis
+Michael Marshalkovich
+Daniel Lara
+Cliff Kang
+Courtney Seitz
+Russell Stinson
+Tommy Coleman
+Daniel Abbott
+Shobana Ramesh
+Peter Gray
+Punit Rawal
+Jonathan Brunt
+David Loveday
+Nikhil Kamineni
+Dani Tacheny
+Boeun Kim
+Lokesh Patel
+Nathaniel Flory
+Eileen Eddy
+Jon Anderson
+Sergey Nam
+Eric Hechavarria
+Lo Saephan
+Roy Tan
+Nathan Flood
+Christopher Beards
+Amanda Phillips
+Cody Windeknecht
+Aaron Burk
+Kevin Chan
+Russell Bates
+Jonathan Bry
+German Go
+DEVIN BALDWIN
+Tyson Williams
+Ronnie Miksch
+Sagdi Formanov
+Walter Woodward
+David Soudry
+Young L
+
+</p></details>
+
 ***
 
 <!-- <details><summary>Month 1: January, 2018</summary><p> -->
@@ -147,8 +204,9 @@ Per Emily:
 | F | T | True |
 | F | F | False |
 
-- [LECTURE: GUIDED DEMO](LINK) w/Ivan Mora
-- [LECTURE: Q&A/REVIEW](LINK) w/SPEAKER
+- [Introduction to DOM and manipulation with Vanilla JS - Q&A 2](https://youtu.be/qpI5z1DAiuY) w/Ivan Mora
+- [Introduction to DOM and manipulation with Vanilla JS - Q&A 3](https://youtu.be/7qi6vrzgyNE) w/Ivan Mora
+
 ***
 
 ### Day 14: Friday, Jan. 26
