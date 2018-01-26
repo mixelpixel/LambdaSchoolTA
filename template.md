@@ -1,4 +1,3 @@
-# Month 1
 ## Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
 - GitHub Repositories
