@@ -228,8 +228,8 @@ Nested text/markdown
 ### Day 10: Monday, Jan. 22
 ### Day 11: Tuesday, Jan. 23
 ### Day 12: Wednesday, Jan. 24
-- [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
-- [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
+#### [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
+#### [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
 
 ### Day 13: Thursday, Jan. 25
@@ -313,15 +313,15 @@ function longestConsecutive(arr, k) {
 
 </p></details>
 
-- [Introduction to DOM and manipulation with Vanilla JS - Q&A 2](https://youtu.be/qpI5z1DAiuY) w/Ivan Mora
-- [Introduction to DOM and manipulation with Vanilla JS - Q&A 3](https://youtu.be/7qi6vrzgyNE) w/Ivan Mora
+#### [Introduction to DOM and manipulation with Vanilla JS - Q&A 2](https://youtu.be/qpI5z1DAiuY) w/Ivan Mora
+#### [Introduction to DOM and manipulation with Vanilla JS - Q&A 3](https://youtu.be/7qi6vrzgyNE) w/Ivan Mora
 
 ***
 
 ### Day 14: Friday, Jan. 26
-- [Sprint Challenge](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
-- [Brown Bag](LINK) w/SPEAKER: TOPIC
-- [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
+#### [Sprint Challenge](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
+#### [Brown Bag](LINK) w/SPEAKER: TOPIC
+#### [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
 
 ***
 
