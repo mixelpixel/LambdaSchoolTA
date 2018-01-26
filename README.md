@@ -200,6 +200,21 @@ Great job!
 
 </p></details>
 
+<details><summary>How U Do Da'????</summary><p>
+
+### Chat
+1. Slack chat supports mouse sharing and screen drawing
+2. Zoom
+
+### Screen recording
+1. Zoom
+2. Linux: http://www.maartenbaert.be/simplescreenrecorder/ (pic and sound)
+3. macOS: QuickTime Player does screen captures. To record sound, I installed [SoundFlower](https://rogueamoeba.com/freebies/soundflower/) (Got to the GitHub link)
+4. Windows: ???
+
+
+</p></details>
+
 #### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
 
 <details><summary>How U Do Da'????</summary><p>
@@ -269,6 +284,7 @@ Nested text/markdown
 - https://github.com/LambdaSchool/LS-Web-Intro-I (???)
 - https://github.com/LambdaSchool/DOM-JavaScript-mini
 - https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution (PR review???)
+- https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript
 ### Day 10: Monday, Jan. 22
 ### Day 11: Tuesday, Jan. 23
 ### Day 12: Wednesday, Jan. 24
@@ -363,7 +379,7 @@ function longestConsecutive(arr, k) {
 ***
 
 ### Day 14: Friday, Jan. 26
-#### [Sprint Challenge](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
 #### [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
 
