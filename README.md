@@ -35,6 +35,47 @@
 
 ***
 
+<details><summary>TA Daily Schedule (PST)</summary><p>
+
+1. 8am `/jibble in`
+2. 8 code challenge
+3. 915 cs7 TA standup
+5. 930 code reviews & student help
+6. 11 `/jibble out`
+7. 11 - 12 LUNCH
+8. 12 `jibble in`
+9. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
+10. 5p `jibble off`
+
+</p></details>
+
+<details><summary>Lead TA Daily Schedule (PST)</summary><p>
+
+1. 450p day before or 750a: Schedule Code Challenge
+2. 8a `/jibble in`
+3. 8a code challenge
+4. 845 code challenge review: 15 minutes ONLY
+5. 915 cs7 TA standup
+6. 930 Lead TA mtg: https://zoom.us/j/4558930151
+7. 945-11 code reviews & student help
+8. `/jibble out`
+9. 11 - 12 LUNCH
+10. `jibble in`
+11. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
+12. 5p `jibble off`
+
+#### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
+## In alphabetical order, ask all the TA's
+1. What did you work on yesterday?
+2. What are you working on today?
+3. What is causing you to get stuck?
+
+#### @9:30am PST  Lead TA Stand Up Meeting (5 - 10 Minutes)
+
+</p></details>
+
+***
+
 <details><summary>Set Up Notes</summary><p>
 
 #### Setting up [repl.it](https://repl.it/teacher) code challenges
@@ -75,14 +116,6 @@ Per Emily:
 4. Satish is Part Time: 20hrs total
   - M Tu W Th F: 8AM - 9AM
   - M    W    F: NOON - 5PM
-
-#### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
-## In alphabetical order, ask all the TA's
-1. What did you work on yesterday?
-2. What are you working on today?
-3. What is causing you to get stuck?
-
-#### @9:30am PST  Lead TA Stand Up Meeting (5 - 10 Minutes)
 
 </p></details>
 
@@ -140,39 +173,6 @@ Per Emily:
 50. Walter Woodward
 51. David Soudry
 52. Young L
-
-</p></details>
-
-***
-
-<details><summary>TA Daily Schedule (PST)</summary><p>
-
-1. 8am `/jibble in`
-2. 8 code challenge
-3. 915 cs7 TA standup
-5. 930 code reviews & student help
-6. 11 `/jibble out`
-7. 11 - 12 LUNCH
-8. 12 `jibble in`
-9. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
-10. 5p `jibble off`
-
-</p></details>
-
-<details><summary>Lead TA Daily Schedule (PST)</summary><p>
-
-1. 450p day before or 750a: Schedule Code Challenge
-2. 8a `/jibble in`
-3. 8a code challenge
-4. 845 code challenge review: 15 minutes ONLY
-5. 915 cs7 TA standup
-6. 930 Lead TA mtg: https://zoom.us/j/4558930151
-7. 945-11 code reviews & student help
-8. `/jibble out`
-9. 11 - 12 LUNCH
-10. `jibble in`
-11. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
-12. 5p `jibble off`
 
 </p></details>
 
