@@ -175,7 +175,10 @@ Per Emily:
 ### DOM-JavaScript-mini
 - [Erich Hechavarria](https://github.com/LambdaSchool/DOM-JavaScript-mini/pull/60)
 ```
-Looks great - buttons work, layout's on point. I opened the page in Chrome, Firefox, Safari & Opera and the buttons all worked and the page layout looked good while resizing the browser. No console warnings in the Chrome Dev Tools, well done!
+Looks great - buttons work, layout's on point.
+I opened the page in Chrome, Firefox, Safari & Opera and the buttons all worked.
+Page layout looked good while resizing the browser.
+No console warnings in the Chrome Dev Tools, well done!
 
 Suggestion for GitHub Pull Requests and commits:
 - Get in the habit of committing more often!
