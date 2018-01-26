@@ -1,3 +1,40 @@
+# Month 1
+## Week ##: Mon. ## - ##
+## WEEKLY_SUBJECT
+- GitHub Repositories
+### Day ##: Mon, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Tue, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Wed, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Thu, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Fri, Mon. ##
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Brown Bag](LINK) w/SPEAKER: TOPIC
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+***
+
+
+
+
+
+
+***
+
 # Lambda University - MONTH ##, 2017: Day ###, WEEKday
 ## Coding Challenge #
 - "NEW_CODE_CHALLENGE" available in https://repl.it/student/submissions/#
