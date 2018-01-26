@@ -74,8 +74,6 @@
 
 </p></details>
 
-***
-
 <details><summary>Set Up Notes</summary><p>
 
 #### Setting up [repl.it](https://repl.it/teacher) code challenges
@@ -175,8 +173,6 @@ Per Emily:
 52. Young L
 
 </p></details>
-
-***
 
 #### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
 
