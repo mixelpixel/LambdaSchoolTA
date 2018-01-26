@@ -204,45 +204,88 @@ Nested text/markdown
 
 # Month 1
 
-<details><summary>Prior to Week 3</summary><p>
+<details><summary>Prior to Starting mid-Week 3</summary><p>
 
 ##### THIS LIST IS JUST A GUESS
 
 #### Pre-Coursework
 - https://github.com/LambdaSchool/Precourse
 - https://github.com/LambdaSchool/Pre-Course-Git-Fu
-#### Week 1
+#### Week 1: JavaScript
 - https://github.com/LambdaSchool/JavaScript-I-Mini
 - https://github.com/LambdaSchool/JavaScript-I
 - https://github.com/LambdaSchool/JavaScript-II-Mini
 - https://github.com/LambdaSchool/JavaScript-II
 - https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
-#### Week 2
+#### Week 2: Data Structures
 - https://github.com/LambdaSchool/Data-Structures-I
 - https://github.com/LambdaSchool/LS-Data-Structures-I-Solution
 - https://github.com/LambdaSchool/Data-Structures-II
 - https://github.com/LambdaSchool/LS-Data-Structures-II-Solution
-#### Week 3
-- https://github.com/LambdaSchool/LS-Web-Intro-I
-- https://github.com/LambdaSchool/DOM-JavaScript-mini
-- https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution
-#### Week 4
-- https://github.com/lambdaschool/preprocessing-one
+
 
 </p></details>
 
 ## Week 03: Jan. 22 - 26
+## HTML/CSS and DOM Manipulation
+- https://github.com/LambdaSchool/LS-Web-Intro-I
+- https://github.com/LambdaSchool/DOM-JavaScript-mini
+- https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution
+### Day 10: Monday, Jan. 22
+### Day 11: Tuesday, Jan. 23
 ### Day 12: Wednesday, Jan. 24
 - [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
 - [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
 
 ### Day 13: Thursday, Jan. 25
+#### [Code Challenge 11: Consecutive Strings](https://youtu.be/Ft_nfW8GKiQ) w/Patrick Kennedy
 
-- [Code Challenge 11](https://repl.it/student/submissions/623210) Consecutive Strings
-- [Code Challenge 11 Solution](https://youtu.be/Ft_nfW8GKiQ) w/Patrick Kennedy
+<details><summary>Consecutive Strings Solution</summary><p>
 
 <img src="https://i.imgur.com/zxZdEug.png" height="200px" width="200px">
+
+- https://piazza.com/class/jc6vhnh8mdl5pw?cid=40
+
+```js
+/*
+  You are given an array of strings called arr and an integer k.
+  Your task is to return the longest string consisting of k consecutive
+  strings from the array.
+
+  n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
+ */
+ 
+function longestConsecutive(arr, k) {
+  // n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
+  // n = arr.length
+  if (arr.length === 0 || arr.length < k || k <= 0) return '';
+
+  // return the longest string consisting of k consecutive strings from the array.
+  return arr
+    .map((value, index) => (
+      arr.slice(index, index + k).join('')
+      ))
+    .reduce((longest, current) => (current.length > longest.length) ? current : longest);
+}
+
+// TEST SUITE - swEEt!
+// console.log(longestConsecutive([], 1), "empty string")      // <--- '' - arr.length === 0
+// console.log(longestConsecutive(["one"], 2), "empty string") // <--- '' - arr.length < k
+// console.log(longestConsecutive(['something'], -1), "empty string")     // <--- '' - k <= 0
+
+// const array = ['1', '22', '333', '55555', '4444', 'xx', '666666', 'ggg', 'q', 'kk'];
+// console.log(array.length);      // <--- 10
+// console.log(array.slice(3, 6)); // <--- [ '55555', '4444', 'xx' ]
+// console.log(array.join(''));    // <--- 122333555554444xx666666gggqkk
+// console.log(array.map((value, index) => (array.slice(index, index + 2).join('')))); // <--- ugly
+// console.log(array.reduce((longest, current) => current.length > longest.length ? current : longest)); // <--- six sixes
+
+
+// console.log(longestConsecutive(["zone", "abigail", "theta", "form", "libe", "zas"], 2)) // <--- "abigailtheta"
+// console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "form", "libe", "zas"], 3)) // <--- abi theta anti
+// console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
+```
 
 #### Truth Table: Inclusive Or
 - If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
@@ -274,6 +317,8 @@ Nested text/markdown
 | F | T | True |
 | F | F | False |
 
+</p></details>
+
 - [Introduction to DOM and manipulation with Vanilla JS - Q&A 2](https://youtu.be/qpI5z1DAiuY) w/Ivan Mora
 - [Introduction to DOM and manipulation with Vanilla JS - Q&A 3](https://youtu.be/7qi6vrzgyNE) w/Ivan Mora
 
@@ -283,6 +328,12 @@ Nested text/markdown
 - [Sprint Challenge](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
 - [Brown Bag](LINK) w/SPEAKER: TOPIC
 - [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
+
+***
+
+## Week 04: Jan. 29 - February 2
+## Responsive Design and Pre-Processors
+- https://github.com/lambdaschool/preprocessing-one
 
 <!-- </p></details> -->
 
