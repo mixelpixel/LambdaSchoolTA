@@ -30,9 +30,9 @@
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 - The CS7 Calendar is available on Google Calendars per invite.
-![Google calendar doesn't like 15 min increments](art/google-cal.png)
+![Google calendar doesn't like 15 min increments](art/google-calendar.png)
 - [Weekly cs7 student schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
-![Weekly CS7 Student Schedule](/art/weeklySchedule.png)
+![Weekly CS7 Student Schedule](art/weeklySchedule.png)
 
 ***
 
