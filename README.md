@@ -22,6 +22,8 @@
 ***
 
 ## SRS BSNS
+#### my mantra as a TA is this:
+> I don’t need to know a single thing about the students code, or objectives, or what they are working on. I just need to help them to help themselves.
 
 - [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
 - [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
@@ -83,6 +85,12 @@ Per Emily:
 4. On it's main page on the top right you can schedule it.
 5. Select tomorrow and set the time to 7:59 AM (I do 8, but I'm a rebel)
 6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
+
+### Setting up BrownBags
+Per Emily:
+1. So right now I'm scheduling them a week at a time. I contact students individually and occasionally ask for volunteers in the channels. When I get a volunteer I add them to the calendar. The next two weeks are reserved for Sean and Caleb.
+2. The reason I do a week in advance is because sometimes we have to reschedule to make room for guests, and it makes it easier to just move the students back one week as opposed to scheduling them all out three months and having to figure out where to put them
+3. They're 20 minutes long, we aim for 3 per Friday
 
 #### Slack `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
