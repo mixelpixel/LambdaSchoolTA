@@ -36,7 +36,7 @@
 ![Lambda School Sprint Structure](art/weeklySchedule.png)
 - The CS7 Calendar is available on Google Calendars per invite.
 
-<i>    • </i><details><summary>Google Calendar Week Example</summary><p>
+<details>    • <summary>Google Calendar Week Example</summary><p>
 
 ![CS& Google Calendar](art/google-calendar.png)
 
