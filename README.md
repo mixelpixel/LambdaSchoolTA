@@ -12,7 +12,7 @@
 <div align="center"><img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px"></div>
 
 <h1 align="center">CS7 Teaching Assistants</h1>
-<p align="center"><i><b>A repository for stuff while a Teaching Assistant for the CS7 cohort.</b></i></p>
+<p align="center"><b>A repository for stuff while a Teaching Assistant for the CS7 cohort.</b></p>
 <p align="center">(I'm not actually serious about students not looking at this stuff.)</p>
 
 <div align="center"><img src="https://i.imgur.com/rrQsSj7.jpg" alt="What a dork."></div>
