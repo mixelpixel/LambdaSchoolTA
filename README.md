@@ -88,8 +88,8 @@ Per Emily:
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
 
 #### Slack `/jibble` timeclock
-- who comes up with these names?
-- How do we edit previous hours?
+- In the jibble App channel, use `in` and `out`, see also: `help`
+- https://app.jibble.io/ to access your time sheet and edit times if need be.
 
 </p></details>
 
@@ -212,6 +212,18 @@ Great job!
 3. macOS: QuickTime Player does screen captures. To record sound, I installed [SoundFlower](https://rogueamoeba.com/freebies/soundflower/) (Got to the GitHub link)
 4. Windows: ???
 
+### Markdown Preview
+#### GitHub Flavored Markdown (GFM)
+- Manual: https://github.github.com/gfm/
+- CheatSheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+#### How to get Markdown previews in text editors (for example in ANSWER.md or ReadMe.md files):
+- Markdown Preview in Atom: https://flight-manual.atom.io/using-atom/sections/writing-in-atom/#previews
+- Markdown Preview in VSC: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
+- You can also edit the markdown text file, commit the changes, push it to GitHub and view the file online in the browser
+- macOS: Xcode will display markdown
+- Win: ???
+- 'nix: ???
 
 </p></details>
 
@@ -262,7 +274,7 @@ Nested text/markdown
 - https://github.com/LambdaSchool/LS-Data-Structures-II-Solution (PR review???)
 - https://github.com/LambdaSchool/Sprint-Challenge--Data-Structures
 
-#### Code Challenges
+#### Code Challenges 1 through 10
 1. [reverseString](https://piazza.com/class/jc6vhnh8mdl5pw?cid=10)
 2. longestString
 3. [reverseCase](https://piazza.com/class/jc6vhnh8mdl5pw?cid=14)
