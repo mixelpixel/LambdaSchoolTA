@@ -20,8 +20,8 @@
 <p align="center">OR, am I???????<p>
 <p></p>
 <h2 align="center">My mantra as a TA is this:</h2>
-<p align="center">I don’t need to know a single thing about the students code, or even their project.</p>
-<p align="center">I just need to help them to help themselves.</p>
+<p align="center"><i><b>I don’t need to know a single thing about the students code, or even their project.</b></i></p>
+<p align="center"><i><b>I just need to help them to help themselves.</b></i></p>
 
 
 ***
