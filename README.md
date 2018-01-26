@@ -21,9 +21,11 @@
 
 ***
 
+#### My mantra as a TA is this:
+> I don’t need to know a single thing about the students code, or even their project.
+> I just need to help them to help themselves.
+
 ## SRS BSNS
-#### my mantra as a TA is this:
-> I don’t need to know a single thing about the students code, or objectives, or what they are working on. I just need to help them to help themselves.
 
 - [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
 - [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
