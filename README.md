@@ -16,7 +16,13 @@
 
 # Lambda School Teaching Assistant: Patrick Kennedy
 - A repository for stuff while _Lead_ Teaching Assistant for the CS7 cohort.
-- I'm not actually serious about students not looking at this stuff. OR, am I???????.
+- I'm not actually serious about students not looking at this stuff.
+
+1[What a dork](art/what-a-dork.jpg)
+
+- OR, am I???????.
+
+***
 
 - [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
@@ -24,29 +30,6 @@
 - The CS7 Calendar is available on Google Calendars per invite.
 - [Weekly schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 ![Weekly Schedule](/art/weeklySchedule.png)
-
-***
-
-#### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
-
-<details><summary>How U Do Da'????</summary><p>
-
-##### Wanna know how to make these expandable sections in markdown?
-1. Click on this [README.md file](README.md), then
-2. click the `edit` icon:
-
-![Look, a pencil!](art/look-a-pencil.png)
-
-3. wrap a section in this HTML:
-```html
-<details><summary>Displayed Text</summary><p>
-
-Nested text/markdown
-
-</p></details>
-```
-
-</p></details>
 
 ***
 
@@ -155,6 +138,29 @@ Per Emily:
 50. Walter Woodward
 51. David Soudry
 52. Young L
+
+</p></details>
+
+***
+
+#### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
+
+<details><summary>How U Do Da'????</summary><p>
+
+##### Wanna know how to make these expandable sections in markdown?
+1. Click on this [README.md file](README.md), then
+2. click the `edit` icon:
+
+![Look, a pencil!](art/look-a-pencil.png)
+
+3. wrap a section in this HTML:
+```html
+<details><summary>Displayed Text</summary><p>
+
+Nested text/markdown
+
+</p></details>
+```
 
 </p></details>
 
