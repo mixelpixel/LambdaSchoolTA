@@ -305,14 +305,15 @@ Nested text/markdown
 - https://github.com/LambdaSchool/DOM-JavaScript-mini
 - https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution (PR review???)
 - https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript
-### Day 10: Monday, Jan. 22
-### Day 11: Tuesday, Jan. 23
-### Day 12: Wednesday, Jan. 24
+### Day 10: Mon, Jan. 22
+***
+### Day 11: Tue, Jan. 23
+***
+### Day 12: Wed, Jan. 24
 #### [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
-
-### Day 13: Thursday, Jan. 25
+### Day 13: Thu, Jan. 25
 #### [Code Challenge 11: Consecutive Strings](https://youtu.be/Ft_nfW8GKiQ) w/Patrick Kennedy
 
 <details><summary>Consecutive Strings Solution</summary><p>
@@ -405,21 +406,86 @@ function longestConsecutive(arr, k) {
 
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A 2](https://youtu.be/qpI5z1DAiuY) w/Ivan Mora
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A 3](https://youtu.be/7qi6vrzgyNE) w/Ivan Mora
-
 ***
-
-### Day 14: Friday, Jan. 26
+### Day 14: Fri, Jan. 26
 #### [Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript) NEW_SPRINT_CHALLENGE
-#### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE***
+#### [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
 
 ***
 
-## Week 04: Jan. 29 - February 2
+## Week 04: Jan. 29 - Feb. 2
 ## Responsive Design and CSS Pre-Processors
 - https://github.com/lambdaschool/preprocessing-one
+### Day 15: Mon, Jan. 29
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day 16: Tue, Jan. 30
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day 17: Wed, Jan. 31
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day 18: Thu, Feb. 1
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day 19: Fri, Feb. 2
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Brown Bag](LINK) w/SPEAKER: TOPIC
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+***
 
 <!-- </p></details> -->
+
+<details><summary>Month 2: February, 2018</summary><p>
+
+## Week ##: Mon. ## - ##
+## WEEKLY_SUBJECT
+- GitHub Repositories
+### Day ##: Mon, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Tue, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Wed, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Thu, Mon. ##
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+***
+### Day ##: Fri, Mon. ##
+#### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
+#### [Brown Bag](LINK) w/SPEAKER: TOPIC
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+***
+
+</p></details>
+
+
+
+
+
+
+
+
+
+
 
 ***
 
