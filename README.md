@@ -18,7 +18,7 @@
 - A repository for stuff while _Lead_ Teaching Assistant for the CS7 cohort.
 - I'm not actually serious about students not looking at this stuff.
 
-1[What a dork](art/what-a-dork.jpg)
+![What a dork](art/what-a-dork.jpg)
 
 - OR, am I???????.
 
