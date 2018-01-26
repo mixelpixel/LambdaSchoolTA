@@ -258,7 +258,7 @@ Nested text/markdown
 
 ***
 
-<!-- <details><summary>Month 1: January, 2018</summary><p> -->
+<details><summary>Month 1: January, 2018</summary><p>
 
 # Month 1
 
@@ -442,7 +442,7 @@ function longestConsecutive(arr, k) {
 #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
 ***
 
-<!-- </p></details> -->
+</p></details>
 
 <details><summary>Month 2: February, 2018</summary><p>
 
