@@ -35,11 +35,8 @@
 - [Lambda School Sprint Structure](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 ![Lambda School Sprint Structure](art/weeklySchedule.png)
 - The CS7 Calendar is available on Google Calendars per invite.
-
-<details><summary>TA Daily Schedule (PST)</summary><p>
-
+<details><summary>Google Calendar Week Example</summary><p>
 ![CS& Google Calendar](art/google-calendar.png)
-
 </p></details>
 
 ***
