@@ -21,7 +21,7 @@ console.log(array.length);      // <--- 10
 console.log(array.slice(3, 6)); // <--- [ '55555', '4444', 'xx' ]
 console.log(array.join(''));    // <--- 122333555554444xx666666gggqkk
 console.log(array.map((value, index) => (array.slice(index, index + 2).join('')))); // <--- ugly
-console.log(array.reduce((longest, current) => current.length > longest.length ? current : longest)); // <--- six sixes
+console.log(array.reduce((longest, current) => (current.length > longest.length) ? current : longest)); // <--- six sixes
 console.log(false || false || true);  // <--- true
 console.log(false || true || false);  // <--- true
 console.log(true || false || false);  // <--- true
