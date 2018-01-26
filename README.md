@@ -101,6 +101,7 @@ Per Emily:
 #### Slack `/jibble` timeclock
 - In the jibble App channel, use `in` and `out`, see also: `help`
 - https://app.jibble.io/ to access your time sheet and edit times if need be.
+- http://help.jibble.io/timesheets/how-can-i-add-or-edit-time-manually
 
 </p></details>
 
@@ -362,6 +363,16 @@ function longestConsecutive(arr, k) {
 // console.log(longestConsecutive(["zone", "abigail", "theta", "form", "libe", "zas"], 2)) // <--- "abigailtheta"
 // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "form", "libe", "zas"], 3)) // <--- abi theta anti
 // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
+
+/*
+ RESOURCES: google search "MDN <method name>", W3 schools, Free Code Camp
+ ARRAY METHODS
+ SLICE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+ JOIN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+ MAP: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+ REDUCE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+ ALSO GOOD: https://medium.freecodecamp.org/reduce-f47a7da511a9
+ */
 ```
 
 #### Truth Table: Inclusive Or
