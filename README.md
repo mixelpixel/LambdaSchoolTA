@@ -29,7 +29,7 @@
 ## SRS BSNS
 
 - [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
-- [LS Syllabus: Computer Science](http://ls-training-kit.netlify.com/cs-master)
+- [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 - [Lambda School Sprint Structure](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
