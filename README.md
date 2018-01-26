@@ -18,12 +18,13 @@
 <div align="center"><img src="https://i.imgur.com/rrQsSj7.jpg" alt="What a dork."></div>
 
 <p align="center">OR, am I???????<p>
+<p></p>
+<h2 align="center">My mantra as a TA is this:</h2>
+<p align="center">I don’t need to know a single thing about the students code, or even their project.</p>
+<p align="center">I just need to help them to help themselves.</p>
+
 
 ***
-
-#### My mantra as a TA is this:
-> I don’t need to know a single thing about the students code, or even their project.
-> I just need to help them to help themselves.
 
 ## SRS BSNS
 
