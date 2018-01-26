@@ -212,9 +212,9 @@ Nested text/markdown
 - https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
 #### Week 2: Data Structures
 - https://github.com/LambdaSchool/Data-Structures-I
-- https://github.com/LambdaSchool/LS-Data-Structures-I-Solution
+- https://github.com/LambdaSchool/LS-Data-Structures-I-Solution  (???)
 - https://github.com/LambdaSchool/Data-Structures-II
-- https://github.com/LambdaSchool/LS-Data-Structures-II-Solution
+- https://github.com/LambdaSchool/LS-Data-Structures-II-Solution  (???)
 
 #### Code Challenges
 1. [reverseString](https://piazza.com/class/jc6vhnh8mdl5pw?cid=10)
@@ -234,7 +234,7 @@ Nested text/markdown
 
 ## Week 03: Jan. 22 - 26
 ## HTML/CSS and DOM Manipulation
-- https://github.com/LambdaSchool/LS-Web-Intro-I
+- https://github.com/LambdaSchool/LS-Web-Intro-I (???)
 - https://github.com/LambdaSchool/DOM-JavaScript-mini
 - https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution
 ### Day 10: Monday, Jan. 22
