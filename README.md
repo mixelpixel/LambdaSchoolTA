@@ -161,6 +161,27 @@ Per Emily:
 <!-- <details><summary>Month 1: January, 2018</summary><p> -->
 
 # Month 1
+
+<details><summary>Prior to Week 3</summary><p>
+
+- https://github.com/LambdaSchool/Precourse
+- https://github.com/LambdaSchool/Pre-Course-Git-Fu
+- https://github.com/LambdaSchool/JavaScript-I-Mini
+- https://github.com/LambdaSchool/JavaScript-I
+- https://github.com/LambdaSchool/JavaScript-II-Mini
+- https://github.com/LambdaSchool/JavaScript-II
+- https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
+- https://github.com/LambdaSchool/Data-Structures-I
+- https://github.com/LambdaSchool/LS-Data-Structures-I-Solution
+- https://github.com/LambdaSchool/Data-Structures-II
+- https://github.com/LambdaSchool/LS-Data-Structures-II-Solution
+- https://github.com/LambdaSchool/LS-Web-Intro-I
+- https://github.com/LambdaSchool/DOM-JavaScript-mini
+- https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution
+- https://github.com/lambdaschool/preprocessing-one
+
+</p></details>
+
 ## Week 03: Jan. 22 - 26
 ### Day 12: Wednesday, Jan. 24
 - [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
