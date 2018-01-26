@@ -22,7 +22,8 @@
 <h2 align="center">My mantra as a TA is this:</h2>
 <p align="center"><i><b>I don’t need to know a single thing about the students code, or even their project.</b></i></p>
 <p align="center"><i><b>I just need to help them to help themselves.</b></i></p>
-
+<br><br><br>
+<p align="center"><b>!EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!</b></p>
 
 ***
 
@@ -36,15 +37,13 @@
 ![Lambda School Sprint Structure](art/weeklySchedule.png)
 - The CS7 Calendar is available on Google Calendars per invite.
 
-<details>    • <summary>Google Calendar Week Example</summary><p>
+<details><summary>Google Calendar Week Example</summary><p>
 
 ![CS& Google Calendar](art/google-calendar.png)
 
 </p></details>
 
 ***
-
-##### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
