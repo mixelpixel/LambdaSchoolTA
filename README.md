@@ -16,6 +16,7 @@
 # Lambda School Teaching Assistant
 - A repository for stuff while a Teaching Assistant for the CS7 cohort.
 - I'm not actually serious about students not looking at this stuff.
+
 ![What a dork](art/what-a-dork.jpg)
 
 - OR, am I???????.
