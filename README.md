@@ -39,6 +39,8 @@
 
 ***
 
+##### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
+
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
 1. 8am `/jibble in`
@@ -236,12 +238,6 @@ Great job!
 - macOS: Xcode will display markdown
 - Win: ???
 - 'nix: ???
-
-</p></details>
-
-#### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
-
-<details><summary>How U Do Da'????</summary><p>
 
 ##### Wanna know how to make these expandable sections in markdown?
 1. Click on this [README.md file](README.md), then
