@@ -79,13 +79,15 @@ Per Emily:
 1. Manisha LaL (Chicago, IL) CST
 2. Wesley "Pine Cone" Harvey (Vancouver, BC) PST
 3. Satish Vattikuti (Toledo, OH) EST
+4. Patrick Kennedy (Madison, NH) EST
 
 <img src="http://www.nationsonline.org/maps/US-timezones.jpg" alt="U.S. Time Zones" width="300">
 
 ### CS7 TA Schedules (PST)
 1. Manisha M-F 8-5
 2. Wesley: M-F 8-5
-3. Satish is Part Time: 20hrs total
+3. Patrick: M-F 8-5
+4. Satish is Part Time: 20hrs total
   - M Tu W Th F: 8AM - 9AM
   - M    W    F: NOON - 5PM
 
@@ -164,20 +166,27 @@ Per Emily:
 
 <details><summary>Prior to Week 3</summary><p>
 
+##### THIS LIST IS JUST A GUESS
+
+#### Pre-Coursework
 - https://github.com/LambdaSchool/Precourse
 - https://github.com/LambdaSchool/Pre-Course-Git-Fu
+#### Week 1
 - https://github.com/LambdaSchool/JavaScript-I-Mini
 - https://github.com/LambdaSchool/JavaScript-I
 - https://github.com/LambdaSchool/JavaScript-II-Mini
 - https://github.com/LambdaSchool/JavaScript-II
 - https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
+#### Week 2
 - https://github.com/LambdaSchool/Data-Structures-I
 - https://github.com/LambdaSchool/LS-Data-Structures-I-Solution
 - https://github.com/LambdaSchool/Data-Structures-II
 - https://github.com/LambdaSchool/LS-Data-Structures-II-Solution
+#### Week 3
 - https://github.com/LambdaSchool/LS-Web-Intro-I
 - https://github.com/LambdaSchool/DOM-JavaScript-mini
 - https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution
+#### Week 4
 - https://github.com/lambdaschool/preprocessing-one
 
 </p></details>
