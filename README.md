@@ -2,7 +2,6 @@
 
 <div align="center"><img src="https://i.imgur.com/rVVk3pe.png" alt="CS7 Lambda" height="300px" width="300px"></div>
 
-
 <h1 align="center"><b>WARNING</b></h1>
 <h2 align="center">~ If you are a student at Lambda School ~</h2>
 <h3 align="center">NO lookie-loo @ ANY of this!!!!!!</h3>
@@ -14,10 +13,9 @@
 
 ***
 
-# Lambda School Teaching Assistant: Patrick Kennedy
-- A repository for stuff while _Lead_ Teaching Assistant for the CS7 cohort.
+# Lambda School Teaching Assistant
+- A repository for stuff while a Teaching Assistant for the CS7 cohort.
 - I'm not actually serious about students not looking at this stuff.
-
 ![What a dork](art/what-a-dork.jpg)
 
 - OR, am I???????.
@@ -84,7 +82,7 @@ Per Emily:
 
 </p></details>
 
-<details><summary>52 CS7 Students</summary><p>
+<details><summary>There are 52 CS7 students (list from repl.it)</summary><p>
 
 1. Ronelle Lawson
 2. Igor Yermak
@@ -138,6 +136,39 @@ Per Emily:
 50. Walter Woodward
 51. David Soudry
 52. Young L
+
+</p></details>
+
+***
+
+<details><summary>TA Daily Schedule (PST)</summary><p>
+
+1. 8am `/jibble in`
+2. 8 code challenge
+3. 915 cs7 TA standup
+5. 930 code reviews & student help
+6. 11 `/jibble out`
+7. 11 - 12 LUNCH
+8. 12 `jibble in`
+9. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
+10. 5p `jibble off`
+
+</p></details>
+
+<details><summary>Lead TA Daily Schedule (PST)</summary><p>
+
+1. 450p day before or 750a: Schedule Code Challenge
+2. 8a `/jibble in`
+3. 8a code challenge
+4. 845 code challenge review: 15 minutes ONLY
+5. 915 cs7 TA standup
+6. 930 Lead TA mtg: https://zoom.us/j/4558930151
+7. 945-11 code reviews & student help
+8. `/jibble out`
+9. 11 - 12 LUNCH
+10. `jibble in`
+11. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
+12. 5p `jibble off`
 
 </p></details>
 
