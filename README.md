@@ -202,8 +202,8 @@ Nested text/markdown
 ##### THIS LIST IS JUST A GUESS
 
 #### Pre-Coursework
-- https://github.com/LambdaSchool/Precourse
-- https://github.com/LambdaSchool/Pre-Course-Git-Fu
+- https://github.com/LambdaSchool/Precourse (PR review???)
+- https://github.com/LambdaSchool/Pre-Course-Git-Fu - Is this issued to students?
 #### Week 1: JavaScript
 - https://github.com/LambdaSchool/JavaScript-I-Mini
 - https://github.com/LambdaSchool/JavaScript-I
@@ -212,9 +212,10 @@ Nested text/markdown
 - https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
 #### Week 2: Data Structures
 - https://github.com/LambdaSchool/Data-Structures-I
-- https://github.com/LambdaSchool/LS-Data-Structures-I-Solution  (???)
+- https://github.com/LambdaSchool/LS-Data-Structures-I-Solution (PR review???)
 - https://github.com/LambdaSchool/Data-Structures-II
-- https://github.com/LambdaSchool/LS-Data-Structures-II-Solution  (???)
+- https://github.com/LambdaSchool/LS-Data-Structures-II-Solution (PR review???)
+- https://github.com/LambdaSchool/Sprint-Challenge--Data-Structures
 
 #### Code Challenges
 1. [reverseString](https://piazza.com/class/jc6vhnh8mdl5pw?cid=10)
@@ -234,9 +235,10 @@ Nested text/markdown
 
 ## Week 03: Jan. 22 - 26
 ## HTML/CSS and DOM Manipulation
+- https://github.com/LambdaSchool/HTML-CSS-mini
 - https://github.com/LambdaSchool/LS-Web-Intro-I (???)
 - https://github.com/LambdaSchool/DOM-JavaScript-mini
-- https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution
+- https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution (PR review???)
 ### Day 10: Monday, Jan. 22
 ### Day 11: Tuesday, Jan. 23
 ### Day 12: Wednesday, Jan. 24
@@ -338,7 +340,7 @@ function longestConsecutive(arr, k) {
 ***
 
 ## Week 04: Jan. 29 - February 2
-## Responsive Design and Pre-Processors
+## Responsive Design and CSS Pre-Processors
 - https://github.com/lambdaschool/preprocessing-one
 
 <!-- </p></details> -->
