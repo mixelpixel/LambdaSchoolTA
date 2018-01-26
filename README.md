@@ -29,8 +29,9 @@
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 - The CS7 Calendar is available on Google Calendars per invite.
-- [Weekly schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
-![Weekly Schedule](/art/weeklySchedule.png)
+![Google calendar doesn't like 15 min increments](art/google-cal.png)
+- [Weekly cs7 student schedule](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
+![Weekly CS7 Student Schedule](/art/weeklySchedule.png)
 
 ***
 
@@ -223,8 +224,9 @@ Nested text/markdown
 - https://github.com/LambdaSchool/Data-Structures-II
 - https://github.com/LambdaSchool/LS-Data-Structures-II-Solution
 
-
 </p></details>
+
+***
 
 ## Week 03: Jan. 22 - 26
 ## HTML/CSS and DOM Manipulation
@@ -255,7 +257,7 @@ Nested text/markdown
 
   n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
  */
- 
+
 function longestConsecutive(arr, k) {
   // n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
   // n = arr.length
