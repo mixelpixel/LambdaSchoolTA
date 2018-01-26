@@ -239,7 +239,7 @@ Great job!
 - Win: ???
 - 'nix: ???
 
-##### Wanna know how to make these expandable sections in markdown?
+#### Wanna know how to make these expandable sections in markdown?
 1. Click on this [README.md file](README.md), then
 2. click the `edit` icon:
 
