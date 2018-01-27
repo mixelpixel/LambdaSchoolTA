@@ -55,7 +55,7 @@
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
 1. 8am `/jibble in`
-2. 8 code challenge
+2. 8 code challenge help
 3. 915 cs7 TA standup
 5. 930 code reviews & student help
 6. 11 `/jibble out`
@@ -70,7 +70,7 @@
 
 1. 450p day before or 750a: Schedule Code Challenge
 2. 8a `/jibble in`
-3. 8a code challenge
+3. 8a code challenge help
 4. 845 code challenge review: 15 minutes ONLY
 5. 915 cs7 TA standup
 6. 930 Lead TA mtg: https://zoom.us/j/4558930151
