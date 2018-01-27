@@ -82,8 +82,7 @@
 |:---|:---|:---|
 | 1.  | 450p day before or 750a | Schedule Code Challenge |
 | 2.  | 8        | `/jibble in` |
-| 3.  | 8 - 845  | 1) GitHub PR code reviews
-2) code challenge help |
+| 3.  | 8 - 845  | 1) GitHub PR code reviews, \n 2) code challenge help |
 | 4.  | 845 - 9  | Lecture: code challenge review: 15 min ONLY |
 | 5.  | 915      | cs7 TA standup |
 | 6.  | 930      | Lead TA mtg: https://zoom.us/j/4558930151 |
