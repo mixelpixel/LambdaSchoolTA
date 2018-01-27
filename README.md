@@ -79,11 +79,11 @@
 | 4.  | 845 - 9  | code challenge review: 15 minutes ONLY |
 | 5.  | 915      | cs7 TA standup |
 | 6.  | 930      | Lead TA mtg: https://zoom.us/j/4558930151 |
-| 7.  | 945-11   | code reviews & student help |
+| 7.  | 945 - 11 | code reviews & student help |
 | 8.  | 11       | `/jibble out` |
 | 9.  | 11 - 12  | LUNCH |
 | 10. | 12       | `jibble in` |
-| 11. | 12 -5    | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, code reviews |
+| 11. | 12 - 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, code reviews |
 | 12. | 5        | `jibble out` |
 
 #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
@@ -440,7 +440,7 @@ function longestConsecutive(arr, k) {
 ## Week 04: Jan. 29 - Feb. 2
 ## Responsive Design and CSS Pre-Processors
 - https://github.com/lambdaschool/preprocessing-one
-```
+```html
 Day 1 - Preprocessors Intro
            - Required: https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
            - Documentation: http://lesscss.org/3.x/
