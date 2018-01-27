@@ -318,10 +318,13 @@ Nested text/markdown
 - https://github.com/LambdaSchool/DOM-JavaScript-mini-Solution (PR review???)
 - https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript
 ### Day 10: Mon, Jan. 22
+#### [Code Challenge 8: Roman Numerals](https://youtu.be/Q5T0Spd69uA)
 ***
 ### Day 11: Tue, Jan. 23
+#### [Code Challenge 9: String Compression](https://youtu.be/5B-3pOd7b2E)
 ***
 ### Day 12: Wed, Jan. 24
+#### [Code Challenge 10: Collatz Sequence](NO_VIDEO_RECORDED)
 #### [Introduction to DOM and manipulation with Vanilla JS - Lecture](https://youtu.be/X8Q1yD1wjig) w/Ivan Mora
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A](https://youtu.be/iuzkSVRJEss) w/Ivan Mora
 ***
@@ -420,15 +423,30 @@ function longestConsecutive(arr, k) {
 #### [Introduction to DOM and manipulation with Vanilla JS - Q&A 3](https://youtu.be/7qi6vrzgyNE) w/Ivan Mora
 ***
 ### Day 14: Fri, Jan. 26
-#### [Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript) NEW_SPRINT_CHALLENGE
-#### [Sprint Challenge Review](https://repl.it/student/submissions/#) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript) Sprint-Challenge-DOM-Javascript
+#### [Introduction to DOM and manipulation with Vanilla JS - Solution](https://youtu.be/LgFy3zAXK_o) w/Ivan Mora
+#### [Introduction to DOM and manipulation with Vanilla JS - Solution 1](https://youtu.be/sCnOgf-PifE) w/Ivan Mora
+
 
 ***
+
 
 ## Week 04: Jan. 29 - Feb. 2
 ## Responsive Design and CSS Pre-Processors
 - https://github.com/lambdaschool/preprocessing-one
+```
+Day 1 - Preprocessors Intro
+           - Required: https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
+           - Documentation: http://lesscss.org/3.x/
+           - Install video (my version will be coming soon): https://www.youtube.com/watch?v=YQYJUeokqOY
+Day 2 - Preprocessors Advanced
+Day 3 - Responsive Web Design Intro
+Day 4 - Responsive Web Design Advanced
+```
 ### Day 15: Mon, Jan. 29
+
+# NOTE: Post `@channel If you haven't already, join #cs6-cs7 for this week's lesson`
+
 #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
@@ -451,10 +469,14 @@ function longestConsecutive(arr, k) {
 ### Day 19: Fri, Feb. 2
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
-***
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
 </p></details>
+
+
+***
+
 
 <details><summary>Month 2: February, 2018</summary><p>
 
@@ -484,8 +506,12 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+
 ***
+
 
 ## Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
@@ -513,8 +539,12 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+
 ***
+
 
 ## Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
@@ -542,10 +572,14 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
-***
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
 </p></details>
+
+
+***
+
 
 <details><summary>Month 3: March, 2018</summary><p>
 
@@ -575,8 +609,12 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+
 ***
+
 
 ## Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
@@ -604,8 +642,12 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+
 ***
+
 
 ## Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
@@ -633,10 +675,12 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
-***
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
 </p></details>
+
+***
 
 <details><summary>Month 4: April, 2018</summary><p>
 
@@ -666,8 +710,12 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+
 ***
+
 
 ## Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
@@ -695,8 +743,12 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+
+
 ***
+
 
 ## Week ##: Mon. ## - ##
 ## WEEKLY_SUBJECT
@@ -724,20 +776,10 @@ function longestConsecutive(arr, k) {
 ### Day ##: Fri, Mon. ##
 #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
 #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) NEW_SPRINT_CHALLENGE
-***
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 
 </p></details>
-
-
-
-
-
-
-
-
-
-
 
 ***
 
