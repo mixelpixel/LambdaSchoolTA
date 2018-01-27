@@ -847,6 +847,17 @@ function longestConsecutive(arr, k) {
 <details><summary>Addenda</summary><p>
 
 1. Complete list of relevant LINKS released to class as supplemental/prepatory material.
+2. Deploy arc_hive to LS?
+3. Deploy Hackathon2018 Docker env project/sprint set up:
+```
+Hey Dan, did you watch any of the Hackathon 2018 demos?
+
+There was a group that built an tool for LS students which - across platforms - could be configured to get students the tools they need for projects with minimal setup. If you have ~five minutes to watch the demo, this link is cued up to their presentation: https://youtu.be/Kn3PX0QEK1U?t=28m53s
+
+> There would be a docker file for each lesson; each student would install a docker at the beginning, which would include all dependencies and lesson files, and each student could grab their own personal editor; there would literally be no setup time; the lesson could be started immediately.
+
+I’m thinking this could be useful in Precourse as well? Curious to know what you think - thanks!
+```
 
 </p></details>
 
