@@ -116,38 +116,7 @@
 
 ***
 
-### [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
-### [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
-
-<details><summary>Pull Request Reviews</summary><p>
-
-### DOM-JavaScript-mini
-- [Erich Hechavarria](https://github.com/LambdaSchool/DOM-JavaScript-mini/pull/60)
-```
-Looks great - buttons work, layout's on point.
-I opened the page in Chrome, Firefox, Safari & Opera and the buttons all worked.
-Page layout looked good while resizing the browser.
-No console warnings in the Chrome Dev Tools, well done!
-
-Suggestion for GitHub Pull Requests and commits:
-- Get in the habit of committing more often!
-- Commit messages can be a valuable resource, and also help your focus on each step of the software development process.
-- While `tried` and `done` might be _true_, they don't really describe the state of the project as you were developing it.
-- Commit msgs don't have to be long, but often and succinct is good practice.
-- The command `git log` will show you the history of your project (`space` to page through the longer histories. `q` will get you out of the history display)
-
-As for PRs - it's helpful for TAs/Instructors if you put _your name_ as the title of the PR.
-Also, you can open a PR as soon as you fork and clone a repo.
-As you push commits to your repo, they'll get added to the PR.
-That way your work is available to us as you develop your project :)
-For example, start a PR title with "**Eric Hech: w.i.p.**"
-Then when you are done, you can edit the title to read, "**Eric Hech: done √**"
-Will also be useful when pair programming to put both peeps names in the title.
-
-Great job!
-```
-
-</p></details>
+### Students
 
 <details><summary>There are 52 CS7 students (list from repl.it)</summary><p>
 
@@ -207,6 +176,38 @@ Great job!
 </p></details>
 
 ### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
+### [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
+### [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
+
+<details><summary>Pull Request Reviews</summary><p>
+
+### DOM-JavaScript-mini
+- [Erich Hechavarria](https://github.com/LambdaSchool/DOM-JavaScript-mini/pull/60)
+```
+Looks great - buttons work, layout's on point.
+I opened the page in Chrome, Firefox, Safari & Opera and the buttons all worked.
+Page layout looked good while resizing the browser.
+No console warnings in the Chrome Dev Tools, well done!
+
+Suggestion for GitHub Pull Requests and commits:
+- Get in the habit of committing more often!
+- Commit messages can be a valuable resource, and also help your focus on each step of the software development process.
+- While `tried` and `done` might be _true_, they don't really describe the state of the project as you were developing it.
+- Commit msgs don't have to be long, but often and succinct is good practice.
+- The command `git log` will show you the history of your project (`space` to page through the longer histories. `q` will get you out of the history display)
+
+As for PRs - it's helpful for TAs/Instructors if you put _your name_ as the title of the PR.
+Also, you can open a PR as soon as you fork and clone a repo.
+As you push commits to your repo, they'll get added to the PR.
+That way your work is available to us as you develop your project :)
+For example, start a PR title with "**Eric Hech: w.i.p.**"
+Then when you are done, you can edit the title to read, "**Eric Hech: done √**"
+Will also be useful when pair programming to put both peeps names in the title.
+
+Great job!
+```
+
+</p></details>
 
 <details><summary>Brown Bag Presentation Scheduling</summary><p>
 
