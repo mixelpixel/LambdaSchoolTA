@@ -70,18 +70,20 @@
 
 <details><summary>Lead TA Daily Schedule (PST)</summary><p>
 
-1. 450p day before or 750a: Schedule Code Challenge
-2. 8a `/jibble in`
-3. 8a code challenge help
-4. 845 code challenge review: 15 minutes ONLY
-5. 915 cs7 TA standup
-6. 930 Lead TA mtg: https://zoom.us/j/4558930151
-7. 945-11 code reviews & student help
-8. `/jibble out`
-9. 11 - 12 LUNCH
-10. `jibble in`
-11. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
-12. 5p `jibble out`
+| # | Time (PST) | Activity |
+|:---|:---|:---|
+| 1.  | 450p day before or 750a | Schedule Code Challenge |
+| 2.  | 8 | `/jibble in` |
+| 3.  | 8 | code challenge help |
+| 4.  | 845 - 9 | code challenge review: 15 minutes ONLY |
+| 5.  | 915 | cs7 TA standup |
+| 6.  | 930 | Lead TA mtg: https://zoom.us/j/4558930151 |
+| 7.  | 945-11 | code reviews & student help
+| 8.  | 11 | `/jibble out` |
+| 9.  | 11 - 12 | LUNCH |
+| 10. | 12 | `jibble in` |
+| 11. | 12 -5 | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help |
+| 12. | 5 | `jibble out` |
 
 #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
 ## In alphabetical order, ask all the TA's
@@ -89,7 +91,7 @@
 2. What are you working on today?
 3. What is causing you to get stuck?
 
-#### @9:30am PST  Lead TA Stand Up Meeting (5 - 10 Minutes)
+#### @9:30am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
 
 </p></details>
 
