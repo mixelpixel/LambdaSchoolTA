@@ -806,9 +806,26 @@ function longestConsecutive(arr, k) {
 
 ***
 
-# Errata & Addenda
+# Errata, Addenda & Miscellany
 
-<details><summary>Miscellaneous</summary><p>
+<details><summary>Errata</summary><p>
+
+1. [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
+  - out of sync with cs7
+2. List of students accuracy? Currently gleaned from the repl.it list of students who've completed assignments.
+3. List of Labs/Sprints released to students?
+  - For operational understanding of their knowledge base.
+  - And for Pull Request code reviews
+
+</p></details>
+
+<details><summary>Addenda</summary><p>
+
+1. Complete list of relevant LINKS released to class as supplemental/prepatory material.
+
+</p></details>
+
+<details><summary>Miscellany</summary><p>
 
 1. Helping Dan Frehner with https://github.com/mixelpixel/Getting-Started
 2. 1/2 hour demo video on GitHub.
