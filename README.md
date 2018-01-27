@@ -440,6 +440,7 @@ function longestConsecutive(arr, k) {
 ## Week 04: Jan. 29 - Feb. 2
 ## Responsive Design and CSS Pre-Processors
 - https://github.com/lambdaschool/preprocessing-one
+
 ```html
 Day 1 - Preprocessors Intro
            - Required: https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
@@ -449,6 +450,7 @@ Day 2 - Preprocessors Advanced
 Day 3 - Responsive Web Design Intro
 Day 4 - Responsive Web Design Advanced
 ```
+
 ### Day 15: Mon, Jan. 29
 
 # NOTE: Post `@channel If you haven't already, join #cs6-cs7 for this week's lesson`
