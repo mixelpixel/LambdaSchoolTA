@@ -115,6 +115,80 @@
 
 ***
 
+<details><summary>Set Up Notes</summary><p>
+
+### Setting up [repl.it](https://repl.it/teacher) code challenges
+Per Emily:
+1. Log into repl.it - you should see the classrooms
+2. When you click on CS7's classroom there should be 3 tabs: published, scheduled, and drafts.
+3. Under drafts, find the code challenge and click on it.
+4. On it's main page on the top right you can schedule it.
+5. Select tomorrow and set the time to 7:59 AM (I do 8, but I'm a rebel)
+6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
+
+### Setting up BrownBags
+Per Emily:
+1. So right now I'm scheduling them a week at a time. I contact students individually and occasionally ask for volunteers in the channels. When I get a volunteer I add them to the calendar. The next two weeks are reserved for Sean and Caleb.
+2. The reason I do a week in advance is because sometimes we have to reschedule to make room for guests, and it makes it easier to just move the students back one week as opposed to scheduling them all out three months and having to figure out where to put them
+3. They're 20 minutes long, we aim for 3 per Friday
+
+### Slack `/jibble` timeclock
+- In the jibble App channel, use `in` and `out`, see also: `help`
+- https://app.jibble.io/ to access your time sheet and edit times if need be.
+- http://help.jibble.io/timesheets/how-can-i-add-or-edit-time-manually
+
+### 1099
+- https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee
+
+</p></details>
+
+<details><summary>How U Do Da'????</summary><p>
+
+### Slack `/polly` polls
+- oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
+
+### Chat
+1. Slack chat supports mouse sharing and screen drawing
+2. Zoom
+
+### Screen recording
+1. Zoom
+2. Linux: http://www.maartenbaert.be/simplescreenrecorder/ (pic and sound)
+3. macOS: QuickTime Player does screen captures. To record sound, I installed [SoundFlower](https://rogueamoeba.com/freebies/soundflower/) (Got to the GitHub link)
+4. Windows: ???
+
+### Markdown Preview
+#### GitHub Flavored Markdown (GFM)
+- Manual: https://github.github.com/gfm/
+- CheatSheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+#### How to get Markdown previews in text editors (for example in ANSWER.md or ReadMe.md files):
+- Markdown Preview in Atom: https://flight-manual.atom.io/using-atom/sections/writing-in-atom/#previews
+- Markdown Preview in VSC: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
+- You can also edit the markdown text file, commit the changes, push it to GitHub and view the file online in the browser
+- macOS: Xcode will display markdown
+- Win: ???
+- 'nix: ???
+
+#### Wanna know how to make these expandable sections in markdown?
+1. Click on this [README.md file](README.md), then
+2. click the `edit` icon:
+
+![Look, a pencil!](art/look-a-pencil.png)
+
+3. wrap a section in this HTML:
+```html
+<details><summary>Displayed Text</summary><p>
+
+Nested text/markdown
+
+</p></details>
+```
+
+</p></details>
+
+***
+
 ### Students
 
 <details><summary>There are 52 CS7 students (list from repl.it)</summary><p>
@@ -211,80 +285,6 @@ Great job!
 
 ### Interested
 1. Aaron Burk: soft skills / people skills, request 1/26
-
-</p></details>
-
-***
-
-<details><summary>Set Up Notes</summary><p>
-
-### Setting up [repl.it](https://repl.it/teacher) code challenges
-Per Emily:
-1. Log into repl.it - you should see the classrooms
-2. When you click on CS7's classroom there should be 3 tabs: published, scheduled, and drafts.
-3. Under drafts, find the code challenge and click on it.
-4. On it's main page on the top right you can schedule it.
-5. Select tomorrow and set the time to 7:59 AM (I do 8, but I'm a rebel)
-6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
-
-### Setting up BrownBags
-Per Emily:
-1. So right now I'm scheduling them a week at a time. I contact students individually and occasionally ask for volunteers in the channels. When I get a volunteer I add them to the calendar. The next two weeks are reserved for Sean and Caleb.
-2. The reason I do a week in advance is because sometimes we have to reschedule to make room for guests, and it makes it easier to just move the students back one week as opposed to scheduling them all out three months and having to figure out where to put them
-3. They're 20 minutes long, we aim for 3 per Friday
-
-### Slack `/jibble` timeclock
-- In the jibble App channel, use `in` and `out`, see also: `help`
-- https://app.jibble.io/ to access your time sheet and edit times if need be.
-- http://help.jibble.io/timesheets/how-can-i-add-or-edit-time-manually
-
-### 1099
-- https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee
-
-</p></details>
-
-<details><summary>How U Do Da'????</summary><p>
-
-### Slack `/polly` polls
-- oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
-
-### Chat
-1. Slack chat supports mouse sharing and screen drawing
-2. Zoom
-
-### Screen recording
-1. Zoom
-2. Linux: http://www.maartenbaert.be/simplescreenrecorder/ (pic and sound)
-3. macOS: QuickTime Player does screen captures. To record sound, I installed [SoundFlower](https://rogueamoeba.com/freebies/soundflower/) (Got to the GitHub link)
-4. Windows: ???
-
-### Markdown Preview
-#### GitHub Flavored Markdown (GFM)
-- Manual: https://github.github.com/gfm/
-- CheatSheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-#### How to get Markdown previews in text editors (for example in ANSWER.md or ReadMe.md files):
-- Markdown Preview in Atom: https://flight-manual.atom.io/using-atom/sections/writing-in-atom/#previews
-- Markdown Preview in VSC: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
-- You can also edit the markdown text file, commit the changes, push it to GitHub and view the file online in the browser
-- macOS: Xcode will display markdown
-- Win: ???
-- 'nix: ???
-
-#### Wanna know how to make these expandable sections in markdown?
-1. Click on this [README.md file](README.md), then
-2. click the `edit` icon:
-
-![Look, a pencil!](art/look-a-pencil.png)
-
-3. wrap a section in this HTML:
-```html
-<details><summary>Displayed Text</summary><p>
-
-Nested text/markdown
-
-</p></details>
-```
 
 </p></details>
 
