@@ -51,10 +51,13 @@
 > Emphasis is on the current PR’s, not the past ones.
 > Then the queue of questions should be covered in the afternoon.
 
-- Also, as for the queue, I have been doing this:
+##### Also, as for the queue, I have been doing this:
 1. if there are questions I can address quickly, then I do so in writing.
   - Am trying to fight the urge to jump into a chat. even though it is often easier to verbally explain things.
 2. When given questions in DM’s, I’m in the habit of asking that the question be posted in help channels prior to answering.
+
+#### Again: `Code reviews are literally the most important part of your job.`
+> The afternoon questions are great, but in-depth code reviews have more impact.`
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
