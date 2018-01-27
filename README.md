@@ -64,14 +64,14 @@
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 8        | `/jibble in` |
-| 2.  | 8 - 845  | code challenge help |
-| 3.  | 845 - 9  | code challenge review: 15 minutes ONLY |
-| 4.  | 915      | cs7 TA standup meeting |
-| 5.  | 930 - 11 | GitHub Pull Request code reviews |
+| 2.  | 8 - 845  | 1) GitHub PR code reviews, 2) code challenge help |
+| 3.  | 845 - 9  | Lecture: code challenge review: 15 min ONLY |
+| 4.  | 915      | CS7 TA standup meeting |
+| 5.  | 930 - 11 | 1) GitHub PR code reviews, 2) #cs7_help |
 | 6.  | 11       | `/jibble out` |
 | 7.  | 11 - 12  | LUNCH |
 | 8.  | 12       | `jibble in` |
-| 9.  | 12 - 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, & GitHub Pull Request code reviews |
+| 9.  | 12 - 5   | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms with: `CS7TA@lambdaschool.com` |
 | 10. | 5        | `jibble out` |
 
 </p></details>
@@ -82,15 +82,15 @@
 |:---|:---|:---|
 | 1.  | 450p day before or 750a | Schedule Code Challenge |
 | 2.  | 8        | `/jibble in` |
-| 3.  | 8        | code challenge help |
-| 4.  | 845 - 9  | code challenge review: 15 minutes ONLY |
+| 3.  | 8 - 845  | 1) GitHub PR code reviews, 2) code challenge help |
+| 4.  | 845 - 9  | Lecture: code challenge review: 15 min ONLY |
 | 5.  | 915      | cs7 TA standup |
 | 6.  | 930      | Lead TA mtg: https://zoom.us/j/4558930151 |
-| 7.  | 945 - 11 | GitHub Pull Request code reviews |
+| 7.  | 945 - 11 | 1) GitHub PR code reviews, 2) #cs7_help |
 | 8.  | 11       | `/jibble out` |
 | 9.  | 11 - 12  | LUNCH |
 | 10. | 12       | `jibble in` |
-| 11. | 12 - 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, GitHub Pull Request code reviews |
+| 11. | 12 - 5   | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms with `tai+cs7@lambdaschool.com`|
 | 12. | 5        | `jibble out` |
 
 #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
