@@ -54,15 +54,17 @@
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
-1. 8am `/jibble in`
-2. 8 code challenge help
-3. 915 cs7 TA standup
-5. 930 code reviews & student help
-6. 11 `/jibble out`
-7. 11 - 12 LUNCH
-8. 12 `jibble in`
-9. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
-10. 5p `jibble out`
+| # | Time (PST) | Activity |
+|:---|:---|:---|
+| 1.  | 8        | `/jibble in` |
+| 2.  | 8 - 845  | code challenge help |
+| 3.  | 915 cs7  | TA standup |
+| 5.  | 930 > 11 | code reviews & student help |
+| 6.  | 11       | `/jibble out` |
+| 7.  | 11 - 12  | LUNCH |
+| 8.  | 12       | `jibble in` |
+| 9.  | 12 > 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help |
+| 10. | 5       `| jibble out` |
 
 </p></details>
 
