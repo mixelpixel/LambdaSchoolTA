@@ -460,6 +460,9 @@ function longestConsecutive(arr, k) {
 ## Responsive Design and CSS Pre-Processors
 - https://github.com/lambdaschool/preprocessing-one
 
+##### Prep w/ Josh Knell
+- https://codepen.io/mixelpix/pen/RxXvNR?editors=1100
+
 ##### Day 1 - Preprocessors Intro
 - Required: https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
 - Documentation: http://lesscss.org/3.x/
@@ -472,22 +475,22 @@ function longestConsecutive(arr, k) {
 
 # NOTE: Post `@channel If you haven't already, join #cs6-cs7 for this week's lesson`
 
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge 12: Sum of Digits](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 16: Tue, Jan. 30
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 17: Wed, Jan. 31
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
 ### Day 18: Thu, Feb. 1
-#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+#### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
 ***
