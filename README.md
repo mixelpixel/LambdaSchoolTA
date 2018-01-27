@@ -47,6 +47,14 @@
 
 ### Teaching Assistants
 #### Top Priority: `If they’re clocked in, code review is the top priority.`
+> When possible (which should be almost always…), code reviews should be done during instruction in the morning.
+> Emphasis is on the current PR’s, not the past ones.
+> Then the queue of questions should be covered in the afternoon.
+
+- Also, as for the queue, I have been doing this:
+1. if there are questions I can address quickly, then I do so in writing.
+  - Am trying to fight the urge to jump into a chat. even though it is often easier to verbally explain things.
+2. When given questions in DM’s, I’m in the habit of asking that the question be posted in help channels prior to answering.
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
@@ -56,11 +64,11 @@
 | 2.  | 8 - 845  | code challenge help |
 | 3.  | 845 - 9  | code challenge review: 15 minutes ONLY |
 | 4.  | 915      | cs7 TA standup meeting |
-| 5.  | 930 - 11 | code reviews & student help |
+| 5.  | 930 - 11 | GitHub Pull Request code reviews |
 | 6.  | 11       | `/jibble out` |
 | 7.  | 11 - 12  | LUNCH |
 | 8.  | 12       | `jibble in` |
-| 9.  | 12 - 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, code reviews |
+| 9.  | 12 - 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, & GitHub Pull Request code reviews |
 | 10. | 5        | `jibble out` |
 
 </p></details>
@@ -75,11 +83,11 @@
 | 4.  | 845 - 9  | code challenge review: 15 minutes ONLY |
 | 5.  | 915      | cs7 TA standup |
 | 6.  | 930      | Lead TA mtg: https://zoom.us/j/4558930151 |
-| 7.  | 945 - 11 | code reviews & student help |
+| 7.  | 945 - 11 | GitHub Pull Request code reviews |
 | 8.  | 11       | `/jibble out` |
 | 9.  | 11 - 12  | LUNCH |
 | 10. | 12       | `jibble in` |
-| 11. | 12 - 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, code reviews |
+| 11. | 12 - 5   | Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help, GitHub Pull Request code reviews |
 | 12. | 5        | `jibble out` |
 
 #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
