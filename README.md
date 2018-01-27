@@ -62,7 +62,7 @@
 7. 11 - 12 LUNCH
 8. 12 `jibble in`
 9. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
-10. 5p `jibble off`
+10. 5p `jibble out`
 
 </p></details>
 
@@ -79,7 +79,7 @@
 9. 11 - 12 LUNCH
 10. `jibble in`
 11. 12 Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, student help
-12. 5p `jibble off`
+12. 5p `jibble out`
 
 #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
 ## In alphabetical order, ask all the TA's
@@ -93,7 +93,7 @@
 
 <details><summary>Set Up Notes</summary><p>
 
-#### Setting up [repl.it](https://repl.it/teacher) code challenges
+### Setting up [repl.it](https://repl.it/teacher) code challenges
 Per Emily:
 1. Log into repl.it - you should see the classrooms
 2. When you click on CS7's classroom there should be 3 tabs: published, scheduled, and drafts.
@@ -108,10 +108,10 @@ Per Emily:
 2. The reason I do a week in advance is because sometimes we have to reschedule to make room for guests, and it makes it easier to just move the students back one week as opposed to scheduling them all out three months and having to figure out where to put them
 3. They're 20 minutes long, we aim for 3 per Friday
 
-#### Slack `/polly` polls
+### Slack `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
 
-#### Slack `/jibble` timeclock
+### Slack `/jibble` timeclock
 - In the jibble App channel, use `in` and `out`, see also: `help`
 - https://app.jibble.io/ to access your time sheet and edit times if need be.
 - http://help.jibble.io/timesheets/how-can-i-add-or-edit-time-manually
