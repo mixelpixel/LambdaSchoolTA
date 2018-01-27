@@ -57,7 +57,7 @@
 2. When given questions in DM’s, I’m in the habit of asking that the question be posted in help channels prior to answering.
 
 #### Again: `Code reviews are literally the most important part of your job.`
-> The afternoon questions are great, but in-depth code reviews have more impact.`
+> The afternoon questions are great, but in-depth code reviews have more impact.
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
