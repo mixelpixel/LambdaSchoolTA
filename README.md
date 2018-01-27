@@ -293,6 +293,8 @@ Nested text/markdown
 # CS7 DAY by DAY
 ### [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 
+***
+
 <details><summary>Month 1: January, 2018</summary><p>
 
 <details><summary>Prior to Starting mid-Week 3</summary><p>
