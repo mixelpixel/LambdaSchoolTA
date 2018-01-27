@@ -810,5 +810,18 @@ function longestConsecutive(arr, k) {
 
 ***
 
+<details><summary>Miscellaneous</summary><p>
+
+1. Helping Dan Frehner with https://github.com/mixelpixel/Getting-Started
+2. 1/2 hour demo video on GitHub.
+  - Watch [Pre-Course - Git Fu](https://youtu.be/ZihgMcrHOF4).
+  - Read https://github.com/LambdaSchool/Precourse/tree/master/Lesson1-Git
+3. Implement Arc Hive into LS?
+4. vidpresso???
+
+</p></details>
+
+***
+
 ### "We all float down here"
 ![We all float down here](/art/pennywise.jpeg)
