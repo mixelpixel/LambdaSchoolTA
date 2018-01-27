@@ -239,7 +239,7 @@ Great job!
 <details><summary>Brown Bag Presentation Scheduling</summary><p>
 
 ### Interested
-1. Aaron Burk: soft skills / people skills
+1. Aaron Burk: soft skills / people skills, request 1/26
 
 </p></details>
 
