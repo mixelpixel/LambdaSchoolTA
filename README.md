@@ -810,6 +810,8 @@ function longestConsecutive(arr, k) {
 
 ***
 
+# Errata & Addenda
+
 <details><summary>Miscellaneous</summary><p>
 
 1. Helping Dan Frehner with https://github.com/mixelpixel/Getting-Started
@@ -822,6 +824,8 @@ function longestConsecutive(arr, k) {
 </p></details>
 
 ***
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### "We all float down here"
 ![We all float down here](/art/pennywise.jpeg)
