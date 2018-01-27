@@ -441,14 +441,14 @@ function longestConsecutive(arr, k) {
 ## Responsive Design and CSS Pre-Processors
 - https://github.com/lambdaschool/preprocessing-one
 
-```html
-Day 1 - Preprocessors Intro
-           - Required: https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
-           - Documentation: http://lesscss.org/3.x/
-           - Install video (my version will be coming soon): https://www.youtube.com/watch?v=YQYJUeokqOY
-Day 2 - Preprocessors Advanced
-Day 3 - Responsive Web Design Intro
-Day 4 - Responsive Web Design Advanced
+
+##### Day 1 - Preprocessors Intro
+- Required: https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
+- Documentation: http://lesscss.org/3.x/
+- Install video (my version will be coming soon): https://www.youtube.com/watch?v=YQYJUeokqOY
+##### Day 2 - Preprocessors Advanced
+##### Day 3 - Responsive Web Design Intro
+##### Day 4 - Responsive Web Design Advanced
 ```
 
 ### Day 15: Mon, Jan. 29
