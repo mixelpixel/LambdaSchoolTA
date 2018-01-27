@@ -171,6 +171,10 @@ $ ffmpeg -i PART2.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts temp2.ts
 $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
 ```
 
+  - you'll need this on macOS: `brew install ffmpeg`
+  - for other OS's: https://trac.ffmpeg.org/wiki/CompilationGuide
+  - or just start here: https://ffmpeg.org/
+
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
 - Manual: https://github.github.com/gfm/
