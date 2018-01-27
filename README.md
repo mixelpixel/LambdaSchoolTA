@@ -96,6 +96,28 @@
 
 </p></details>
 
+<details><summary>CS7 Teaching Assistants</summary><p>
+
+### CS7 TA's
+1. Manisha LaL (Chicago, IL) CST
+2. Wesley "Pine Cone" Harvey (Vancouver, BC) PST
+3. Satish Vattikuti (Toledo, OH) EST
+4. Patrick Kennedy (Madison, NH) EST
+
+<img src="http://www.nationsonline.org/maps/US-timezones.jpg" alt="U.S. Time Zones" width="300">
+
+### CS7 TA Schedules (PST)
+1. Manisha M-F 8-5
+2. Wesley: M-F 8-5
+3. Patrick: M-F 8-5
+4. Satish is Part Time: 20hrs total
+  - M Tu W Th F: 8AM - 9AM
+  - M    W    F: NOON - 5PM
+
+</p></details>
+
+***
+
 <details><summary>Set Up Notes</summary><p>
 
 ### Setting up [repl.it](https://repl.it/teacher) code challenges
@@ -123,25 +145,7 @@ Per Emily:
 
 </p></details>
 
-<details><summary>CS7 Teaching Assistants</summary><p>
-
-### CS7 TA's
-1. Manisha LaL (Chicago, IL) CST
-2. Wesley "Pine Cone" Harvey (Vancouver, BC) PST
-3. Satish Vattikuti (Toledo, OH) EST
-4. Patrick Kennedy (Madison, NH) EST
-
-<img src="http://www.nationsonline.org/maps/US-timezones.jpg" alt="U.S. Time Zones" width="300">
-
-### CS7 TA Schedules (PST)
-1. Manisha M-F 8-5
-2. Wesley: M-F 8-5
-3. Patrick: M-F 8-5
-4. Satish is Part Time: 20hrs total
-  - M Tu W Th F: 8AM - 9AM
-  - M    W    F: NOON - 5PM
-
-</p></details>
+***
 
 <details><summary>There are 52 CS7 students (list from repl.it)</summary><p>
 
@@ -230,7 +234,12 @@ Great job!
 
 </p></details>
 
+***
+
 <details><summary>How U Do Da'????</summary><p>
+
+### 1099
+- https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee
 
 ### Chat
 1. Slack chat supports mouse sharing and screen drawing
@@ -273,6 +282,8 @@ Nested text/markdown
 </p></details>
 
 ***
+
+# CS7 DAY by DAY
 
 <details><summary>Month 1: January, 2018</summary><p>
 
