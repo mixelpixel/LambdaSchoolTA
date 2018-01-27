@@ -113,8 +113,6 @@
 
 </p></details>
 
-***
-
 <details><summary>Set Up Notes</summary><p>
 
 ### Setting up [repl.it](https://repl.it/teacher) code challenges
