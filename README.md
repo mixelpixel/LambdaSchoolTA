@@ -29,6 +29,7 @@
 
 # SRS BSNS
 ### OVERVIEW
+#### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 
 <details><summary>Lambda School Sprint Structure</summary><p>
 
@@ -175,7 +176,6 @@
 
 </p></details>
 
-### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ### [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
 ### [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
 
