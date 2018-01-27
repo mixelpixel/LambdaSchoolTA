@@ -29,8 +29,6 @@
 
 # SRS BSNS
 
-
-### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ### [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
 
 <details><summary>Lambda School Sprint Structure</summary><p>
@@ -235,6 +233,8 @@ Great job!
 52. Young L
 
 </p></details>
+
+### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 
 ***
 
