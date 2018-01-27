@@ -1,48 +1,24 @@
 <div align="center">
   <h1>Lambda School CS7</h1>
   <img src="https://i.imgur.com/rVVk3pe.png" alt="CS7 Lambda" height="300px" width="300px">
-  <h1>
-    <b>WARNING</b>
-  </h1>
+  <h1><b>WARNING</b></h1>
   <h2>~ If you are a student at Lambda School ~</h2>
   <h3>NO lookie-loo @ ANY of this!!!!!!</h3>
   <h4>No, really: SRS BSNS!!</h4>
   <h5>Y U STILL LOOKIE LOOKIE??????</h5>
   <h6>u r in BIG trubble.</h6>
-  <div>
-    <img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px">
-  </div>
+  <img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px">
   <h1>CS7 Teaching Assistants</h1>
-  <p>
-    <b>
-      A repository for stuff while a Teaching Assistant for the CS7 cohort.
-    </b>
-  </p>
+  <p><b>A repository for stuff while a Teaching Assistant for the CS7 cohort.</b></p>
   <p>(I'm not actually serious about students not looking at this stuff.)</p>
-  <div><img src="https://i.imgur.com/rrQsSj7.jpg" alt="What a dork."></div>
+  <img src="https://i.imgur.com/rrQsSj7.jpg" alt="What a dork.">
   <p>OR, am I???????</p>
   <br>
   <h2>My mantra as a TA is this:</h2>
-  <p>
-    <i>
-      <b>
-      I don’t need to know a single thing about the students code, or even their project.
-      </b>
-    </i>
-  </p>
-  <p>
-    <i>
-      <b>
-      I just need to help them to help themselves.
-      </b>
-    </i>
-  </p>
+  <p><i><b>I don’t need to know a single thing about the students code, or even their project.</b></i></p>
+  <p><i><b>I just need to help them to help themselves.</b></i></p>
   <br><br><br>
-  <p>
-    <b>
-    !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!
-    </b>
-  </p>
+  <p><b>!EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!</b></p>
 </div>
 
 ***
