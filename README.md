@@ -847,7 +847,7 @@ function longestConsecutive(arr, k) {
 <details><summary>Addenda</summary><p>
 
 1. Complete list of relevant LINKS released to class as supplemental/prepatory material.
-2. Deploy arc_hive to LS?
+2. Deploy [arc_hive](https://youtu.be/uxIYIhiGMcE) to LS?
 3. Deploy Hackathon2018 Docker env project/sprint set up:
 ```
 Hey Dan, did you watch any of the Hackathon 2018 demos?
