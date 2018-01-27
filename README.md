@@ -481,7 +481,7 @@ function longestConsecutive(arr, k) {
 - https://github.com/lambdaschool/preprocessing-one
 
 ##### Prep w/ Josh Knell
-- https://codepen.io/mixelpix/pen/RxXvNR?editors=1100
+- https://codepen.io/bigknell/pen/zpgMbE
 
 ##### Day 1 - Preprocessors Intro
 - Required: https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus
