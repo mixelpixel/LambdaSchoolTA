@@ -33,17 +33,18 @@
 - [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
 - [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 - [CS7 on Piazza](https://piazza.com/class/jc6vhnh8mdl5pw)
-- [Lambda School Sprint Structure](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 
 <details><summary>Lambda School Sprint Structure</summary><p>
+
+- [Lambda School Sprint Structure](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 
 ![Lambda School Sprint Structure](art/weeklySchedule.png)
 
 </p></details>
 
-- The CS7 Calendar is available on Google Calendars per invite.
-
 <details><summary>Google Calendar Week Example</summary><p>
+
+- The CS7 Calendar is available on Google Calendars per invite.
 
 ![CS& Google Calendar](art/google-calendar.png)
 
