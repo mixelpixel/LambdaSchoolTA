@@ -46,8 +46,7 @@
 ***
 
 ### Teaching Assistants
-#### Top Priority
-1. If they’re clocked in, code review is the top priority.
+#### Top Priority: `If they’re clocked in, code review is the top priority.`
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
