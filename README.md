@@ -236,6 +236,13 @@ Great job!
 
 ### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 
+<details><summary>Brown Bag Presentation Scheduling</summary><p>
+
+### Interested
+1. Aaron Burk: soft skills / people skills
+
+</p></details>
+
 ***
 
 <details><summary>How U Do Da'????</summary><p>
