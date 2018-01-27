@@ -164,6 +164,12 @@ Per Emily:
 2. Linux: http://www.maartenbaert.be/simplescreenrecorder/ (pic and sound)
 3. macOS: QuickTime Player does screen captures. To record sound, I installed [SoundFlower](https://rogueamoeba.com/freebies/soundflower/) (Got to the GitHub link)
 4. Windows: ???
+5. Ever need to quickly concatenate two Zoom meeting mp4's? …Like in _30_ seconds?? Can haz FFMPEG???
+```console
+$ ffmpeg -i PART1.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts temp1.ts
+$ ffmpeg -i PART2.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts temp2.ts
+$ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
+```
 
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
