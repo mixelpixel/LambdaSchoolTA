@@ -185,6 +185,8 @@ Per Emily:
 
 #### [So, yeah, for all the work, embedding the content is easier and more effective!](#posting-links-on-piazza)
 
+***
+
 </p></details>
 
 ### Slack `/polly` polls
