@@ -110,7 +110,7 @@
 2. What are you working on today?
 3. What is causing you to get stuck?
 
-#### @9:30am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
+#### DAILY@9:30am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
 
 ## Monday through Thursday: Projects & Code Challenges
 
@@ -280,6 +280,19 @@ Nested text/markdown
 
 </p></details>
 ```
+
+4. make it like this if you want the html collapsable in your text editor:
+```html
+<details>
+  <summary>Displayed Text</summary><p>
+
+  Nested text/markdown
+
+  </p>
+</details>
+```
+
+
 
 </p></details>
 
