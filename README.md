@@ -167,17 +167,17 @@ Per Emily:
 
 ### Just pasting a URL does NOT make a link:
 
-![bOrInG!!!](art/piazza/text.png)
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/text.png" alt="bOrInG!!!" height="100">
 
 ### A couple extra steps to make it a link:
 
-![click](art/piazza/link1.png)
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link1.png" alt="click" height="100">
 
-![paste](art/piazza/link2.png)
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link2.png" alt="paste" height="100">
 
-![so (barely) helpful](art/piazza/link3.png)
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link3.png" alt="so very (barely) helpful" height="100">
 
-![bOrInG!!!](art/piazza/link4.png)
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link4.png" alt="bOrInG!!!" height="100">
 
 ## [So, yeah, for all the work, embedding the content is easier and more effective!](#posting-links-on-piazza)
 
