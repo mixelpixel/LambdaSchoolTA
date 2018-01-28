@@ -7,7 +7,8 @@
   <h4>No, really: SRS BSNS!!</h4>
   <h5>Y U STILL LOOKIE LOOKIE??????</h5>
   <h6>u r in BIG trubble.</h6>
-  <img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="200px" width="200px">
+  <img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="100px" width="100px">
+  <br><br><br><br><br><br><br><br><br><br>
   <h1>CS7 Teaching Assistants</h1>
   <p><b>A repository for stuff while a Teaching Assistant for the CS7 cohort.</b></p>
   <p>(I'm not actually serious about students not looking at this stuff.)</p>
