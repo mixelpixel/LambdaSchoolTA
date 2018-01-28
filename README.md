@@ -53,21 +53,23 @@
 # Teaching Assistants
 #### Top Priority: `If you’re clocked in, code review is the top priority.`
 
-<details><summary>Priorities</summary><p>
+<details>
+  <summary>Priorities</summary><p>
 
-> When possible (which should be almost always…), code reviews should be done during instruction in the morning.
-> Emphasis is on the current PR’s, not the past ones.
-> Then the queue of questions should be covered in the afternoon.
+  > When possible (which should be almost always…), code reviews should be done during instruction in the morning.
+  > Emphasis is on the current PR’s, not the past ones.
+  > Then the queue of questions should be covered in the afternoon.
 
-##### Also, as for the queue, I have been doing this:
-1. if there are questions I can address quickly, then I do so in writing.
-  - Am trying to fight the urge to jump into a chat (even though it is often easier to verbally explain things).
-2. When given questions in DM’s, I’m in the habit of asking that the question be posted in help channels prior to answering. Also, good to confirm that the student with the question is _PAIR PROGRAMMING_.
+  ##### Also, as for the queue, I have been doing this:
+  1. if there are questions I can address quickly, then I do so in writing.
+    - Am trying to fight the urge to jump into a chat (even though it is often easier to verbally explain things).
+  2. When given questions in DM’s, I’m in the habit of asking that the question be posted in help channels prior to answering. Also, good to confirm that the student with the question is _PAIR PROGRAMMING_.
 
-##### `Code reviews are literally the most important part of your job.`
-> The afternoon questions are great, but in-depth code reviews have more impact.
+  ##### `Code reviews are literally the most important part of your job.`
+  > The afternoon questions are great, but in-depth code reviews have more impact.
 
-</p></details>
+  </p>
+</details>
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
