@@ -909,9 +909,10 @@ I’m thinking this could be useful in Precourse as well? Curious to know what y
 1. Helping Dan Frehner with https://github.com/mixelpixel/Getting-Started
 2. 1/2 hour demo video on GitHub.
   - Watch [Pre-Course - Git Fu](https://youtu.be/ZihgMcrHOF4).
-  - Read https://github.com/LambdaSchool/Precourse/tree/master/Lesson1-Git
+  - Review https://github.com/LambdaSchool/Precourse/tree/master/Lesson1-Git
 3. Implement Arc Hive into LS?
-4. vidpresso???
+4. Hackathon2018 Docker project?
+5. vidpresso???
 
 </p></details>
 
