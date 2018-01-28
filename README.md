@@ -76,7 +76,7 @@
 | 6.  | 11       | `/jibble out` |
 | 7.  | 11 - 12  | LUNCH |
 | 8.  | 12       | `jibble in` |
-| 9.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 9.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 10. | 5        | `jibble out` |
 
 </p></details>
@@ -95,7 +95,7 @@
 | 8.  | 11       | `/jibble out` |
 | 9.  | 11 - 12  | LUNCH |
 | 10. | 12       | `jibble in` |
-| 11. | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 11. | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 12. | 5        | `jibble out` |
 
 #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
@@ -158,12 +158,12 @@ Per Emily:
 <details><summary>How U Do Da'????</summary><p>
 
 ### Posting Links on Piazza
-- Just pasting the YouTube link WON't result in an HTML link - it'll just be text.
+- Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
 - MUCH more useful to students: EMBEDDED YouTube content!
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/embed.png" alt="select 'Insert'" height="100">
 
-![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/piazzaEmbedYouTube.gif" alt="How to upload an embedded YouTube links on Piazza" height="338" width-"600">
 
 <details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
 
