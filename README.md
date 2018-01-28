@@ -46,7 +46,10 @@
 ***
 
 # Teaching Assistants
-#### Top Priority: `If they’re clocked in, code review is the top priority.`
+#### Top Priority: `If you’re clocked in, code review is the top priority.`
+
+<details><summary>Priorities</summary><p>
+
 > When possible (which should be almost always…), code reviews should be done during instruction in the morning.
 > Emphasis is on the current PR’s, not the past ones.
 > Then the queue of questions should be covered in the afternoon.
@@ -58,6 +61,8 @@
 
 #### Again: `Code reviews are literally the most important part of your job.`
 > The afternoon questions are great, but in-depth code reviews have more impact.
+
+</p></details>
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
