@@ -1,3 +1,4 @@
+<body style="background-color:powderblue;">
 <div align="center">
   <h1>Lambda School CS7</h1>
   <img src="https://i.imgur.com/rVVk3pe.png" alt="CS7 Lambda" height="300px" width="300px">
@@ -891,3 +892,4 @@ I’m thinking this could be useful in Precourse as well? Curious to know what y
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### "We all float down here"
 ![We all float down here](/art/pennywise.jpeg)
+</body>
