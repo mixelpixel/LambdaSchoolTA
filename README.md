@@ -161,6 +161,8 @@ Per Emily:
 - Just pasting the YouTube link WON't result in an HTML link - it'll just be text.
 - MUCH more useful to students: EMBEDDED YouTube content!
 
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/embed.png" alt="select 'Insert'" height="100">
+
 ![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
 
 <details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
