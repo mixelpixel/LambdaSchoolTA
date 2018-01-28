@@ -193,9 +193,6 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
 - Markdown Preview in Atom: https://flight-manual.atom.io/using-atom/sections/writing-in-atom/#previews
 - Markdown Preview in VSC: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 - You can also edit the markdown text file, commit the changes, push it to GitHub and view the file online in the browser
-- macOS: Xcode will display markdown
-- Win: ???
-- 'nix: ???
 
 #### Wanna know how to make these expandable sections in markdown?
 1. Click on this [README.md file](README.md), then
