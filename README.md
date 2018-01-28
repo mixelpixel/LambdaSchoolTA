@@ -194,7 +194,7 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
 6. ScreenFlow - Caleb has paid version to render w/o watermark
   - an example using Cursor enlargement, click radar, and displaying modifier keystrokes (e.g. `⌘ + v` for `paste`):
 
-![How to upload an embedded YouTube link](gif/piazzaEmbedYouTube.gif)
+![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
 
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
