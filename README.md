@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Lambda School CS7</h1>
-  <img src="https://i.imgur.com/rVVk3pe.png" alt="CS7 Lambda" height="300px" width="300px">
+  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/cs7lambda.png" alt="CS7 Lambda" height="300px" width="300px">
   <h1><b>WARNING</b></h1>
   <h2>~ If you are a student at Lambda School ~</h2>
   <h3>NO lookie-loo @ ANY of this!!!!!!</h3>
@@ -11,7 +11,7 @@
   <h1>CS7 Teaching Assistants</h1>
   <p><b>A repository for stuff while a Teaching Assistant for the CS7 cohort.</b></p>
   <p>(I'm not actually serious about students not looking at this stuff.)</p>
-  <img src="https://i.imgur.com/rrQsSj7.jpg" alt="What a dork.">
+  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/what-a-dork.jpg" alt="What a dork.">
   <p>OR, am I???????</p>
   <br>
   <h2>My mantra as a TA is this:</h2>
@@ -413,7 +413,7 @@ Great job!
 
 <details><summary>Consecutive Strings Solution</summary><p>
 
-<img src="https://i.imgur.com/zxZdEug.png" height="200px" width="200px">
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/pennywise.jpg" height="200px" width="200px">
 
 - https://piazza.com/class/jc6vhnh8mdl5pw?cid=40
 
