@@ -175,6 +175,12 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
   - for other OS's: https://trac.ffmpeg.org/wiki/CompilationGuide
   - or just start here: https://ffmpeg.org/
 
+6. ScreenFlow - Caleb has paid version to render w/o watermark
+  - Posting YouTube links to Piazza with embedded video
+  - waiting for Caleb to convert a ScreenFlow recording.
+
+
+
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
 - Manual: https://github.github.com/gfm/
@@ -187,9 +193,6 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
 - macOS: Xcode will display markdown
 - Win: ???
 - 'nix: ???
-
-#### Posting YouTube links to Piazza with embedded video
-- waiting for Caleb to convert a ScreenFlow recording.
 
 #### Wanna know how to make these expandable sections in markdown?
 1. Click on this [README.md file](README.md), then
