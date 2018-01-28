@@ -184,8 +184,6 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
   - Posting YouTube links to Piazza with embedded video
   - waiting for Caleb to convert a ScreenFlow recording.
 
-
-
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
 - Manual: https://github.github.com/gfm/
