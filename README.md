@@ -69,14 +69,14 @@
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 8        | `/jibble in` |
-| 2.  | 8 - 845  | 1) GitHub PR code reviews, 2) code challenge help |
+| 2.  | 8 - 845  | 1) GitHub PR code reviews 2) code challenge help |
 | 3.  | 845 - 9  | Lecture: code challenge review |
 | 4.  | 915      | CS7 TA standup meeting |
-| 5.  | 930 - 11 | 1) GitHub PR code reviews, 2) #cs7_help |
+| 5.  | 930 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
 | 6.  | 11       | `/jibble out` |
 | 7.  | 11 - 12  | LUNCH |
 | 8.  | 12       | `jibble in` |
-| 9.  | 12 - 5   | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 9.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 10. | 5        | `jibble out` |
 
 </p></details>
@@ -87,15 +87,15 @@
 |:---|:---|:---|
 | 1.  | 450p day before or 750a | Schedule Code Challenge |
 | 2.  | 8        | `/jibble in` |
-| 3.  | 8 - 845  | 1) GitHub PR code reviews, 2) code challenge help |
+| 3.  | 8 - 845  | 1) GitHub PR code reviews 2) code challenge help |
 | 4.  | 845 - 9  | Lecture: code challenge review |
 | 5.  | 915      | cs7 TA standup |
 | 6.  | 930      | Lead TA mtg: https://zoom.us/j/4558930151 |
-| 7.  | 945 - 11 | 1) GitHub PR code reviews, 2) #cs7_help |
+| 7.  | 945 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
 | 8.  | 11       | `/jibble out` |
 | 9.  | 11 - 12  | LUNCH |
 | 10. | 12       | `jibble in` |
-| 11. | 12 - 5   | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 11. | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 12. | 5        | `jibble out` |
 
 #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
@@ -212,6 +212,8 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
   - an example using Cursor enlargement, click radar, and displaying modifier keystrokes (e.g. `⌘ + v` for `paste`):
 
 ![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
+
+7. Convert .mp4 to .gif: https://ezgif.com/video-to-gif
 
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
