@@ -45,7 +45,7 @@
 
 ***
 
-### Teaching Assistants
+# Teaching Assistants
 #### Top Priority: `If they’re clocked in, code review is the top priority.`
 > When possible (which should be almost always…), code reviews should be done during instruction in the morning.
 > Emphasis is on the current PR’s, not the past ones.
@@ -210,7 +210,7 @@ Nested text/markdown
 
 ***
 
-### Students
+# Students
 
 <details><summary>There are 52 CS7 students (list from repl.it)</summary><p>
 
