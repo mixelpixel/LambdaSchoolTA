@@ -163,7 +163,7 @@ Per Emily:
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/embed.png" alt="select 'Insert'" height="100">
 
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/piazzaEmbedYouTube.gif" alt="How to upload an embedded YouTube links on Piazza" height="338" width-"600">
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/piazzaEmbedYouTube.gif" alt="How to embed YouTube links on Piazza" height="338" width="600">
 
 <details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
 
