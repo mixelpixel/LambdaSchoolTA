@@ -38,13 +38,15 @@
   </p>
 </details>
 
-<details><summary>Google Calendar Week Example</summary><p>
+<details>
+  <summary>Google Calendar Week Example</summary><p>
 
-- The CS7 Calendar is available on Google Calendars per invite.
+  - The CS7 Calendar is available on Google Calendars per invite.
 
-![CS& Google Calendar](art/google-calendar.png)
+  ![CS& Google Calendar](art/google-calendar.png)
 
-</p></details>
+  </p>
+</details>
 
 ***
 
