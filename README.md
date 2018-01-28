@@ -130,6 +130,17 @@
 
 <details><summary>Set Up Notes</summary><p>
 
+### Posting Links on Piazza
+- Just pasting the YouTube link won't result in an HTML link - it'll just be text:
+![bOrInG!!!](piazza/text.png)
+- Couple extra steps to make it a link
+![click](piazza/link1.png)
+![paste](piazza/link2.png)
+![so (barely) helpful](piazza/link3.png)
+![bOrInG!!!](piazza/link4.png)
+- MUCH more useful to students: EMBEDDED YouTube content!
+![How to upload an embedded YouTube link](piazza/piazzaEmbedYouTube.gif)
+
 ### Setting up [repl.it](https://repl.it/teacher) code challenges
 Per Emily:
 1. Log into repl.it - you should see the classrooms
@@ -181,8 +192,9 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
   - or just start here: https://ffmpeg.org/
 
 6. ScreenFlow - Caleb has paid version to render w/o watermark
-  - Posting YouTube links to Piazza with embedded video
-  - waiting for Caleb to convert a ScreenFlow recording.
+  - an example using Cursor enlargement, click radar, and displaying modifier keystrokes (e.g. `⌘ + v` for `paste`):
+
+![How to upload an embedded YouTube link](gif/piazzaEmbedYouTube.gif)
 
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
