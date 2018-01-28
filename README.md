@@ -158,7 +158,14 @@ Per Emily:
 <details><summary>How U Do Da'????</summary><p>
 
 ### Posting Links on Piazza
-- Just pasting the YouTube link won't result in an HTML link - it'll just be text:
+- Just pasting the YouTube link WON't result in an HTML link - it'll just be text.
+- MUCH more useful to students: EMBEDDED YouTube content!
+
+![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
+
+<details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
+
+- Just pasting a URL does NOT make a link:
 
 ![bOrInG!!!](art/piazza/text.png)
 
@@ -172,9 +179,7 @@ Per Emily:
 
 ![bOrInG!!!](art/piazza/link4.png)
 
-- MUCH more useful to students: EMBEDDED YouTube content!
-
-![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
+</p></details>
 
 ### Slack `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
