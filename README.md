@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Lambda School CS7</h1>
-  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/cs7lambda.png" alt="CS7 Lambda" height="300px" width="300px">
+  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/cs7lambda.png" alt="CS7 Lambda" height="200px" width="200px">
   <h1><b>WARNING</b></h1>
   <h2>~ If you are a student at Lambda School ~</h2>
   <h3>NO lookie-loo @ ANY of this!!!!!!</h3>
