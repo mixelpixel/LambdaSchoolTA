@@ -159,13 +159,21 @@ Per Emily:
 
 ### Posting Links on Piazza
 - Just pasting the YouTube link won't result in an HTML link - it'll just be text:
+
 ![bOrInG!!!](art/piazza/text.png)
+
 - Couple extra steps to make it a link
+
 ![click](art/piazza/link1.png)
+
 ![paste](art/piazza/link2.png)
+
 ![so (barely) helpful](art/piazza/link3.png)
+
 ![bOrInG!!!](art/piazza/link4.png)
+
 - MUCH more useful to students: EMBEDDED YouTube content!
+
 ![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
 
 ### Slack `/polly` polls
