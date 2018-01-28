@@ -165,11 +165,11 @@ Per Emily:
 
 <details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
 
-- Just pasting a URL does NOT make a link:
+### Just pasting a URL does NOT make a link:
 
 ![bOrInG!!!](art/piazza/text.png)
 
-- Couple extra steps to make it a link:
+### A couple extra steps to make it a link:
 
 ![click](art/piazza/link1.png)
 
@@ -179,7 +179,7 @@ Per Emily:
 
 ![bOrInG!!!](art/piazza/link4.png)
 
-- So, yeah, for all the work, embedding the content is easier and more effective!
+## [So, yeah, for all the work, embedding the content is easier and more effective!](#posting-links-on-piazza)
 
 </p></details>
 
