@@ -169,7 +169,7 @@ Per Emily:
 
 ![bOrInG!!!](art/piazza/text.png)
 
-- Couple extra steps to make it a link
+- Couple extra steps to make it a link:
 
 ![click](art/piazza/link1.png)
 
@@ -178,6 +178,8 @@ Per Emily:
 ![so (barely) helpful](art/piazza/link3.png)
 
 ![bOrInG!!!](art/piazza/link4.png)
+
+- So, yeah, for all the work, embedding the content is easier and more effective!
 
 </p></details>
 
