@@ -28,13 +28,15 @@
 ### OVERVIEW
 #### [LS CSA Syllabus on GitHub](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 
-<details><summary>Lambda School Sprint Structure</summary><p>
+<details>
+  <summary>Lambda School Sprint Structure</summary><p>
 
-- [Lambda School Sprint Structure](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
+  - [Lambda School Sprint Structure](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
 
-![Lambda School Sprint Structure](art/weeklySchedule.png)
+  ![Lambda School Sprint Structure](art/weeklySchedule.png)
 
-</p></details>
+  </p>
+</details>
 
 <details><summary>Google Calendar Week Example</summary><p>
 
