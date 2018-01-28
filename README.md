@@ -188,6 +188,9 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
 - Win: ???
 - 'nix: ???
 
+#### Posting YouTube links to Piazza with embedded video
+- waiting for Caleb to convert a ScreenFlow recording.
+
 #### Wanna know how to make these expandable sections in markdown?
 1. Click on this [README.md file](README.md), then
 2. click the `edit` icon:
@@ -469,8 +472,10 @@ function longestConsecutive(arr, k) {
 ***
 ### Day 14: Fri, Jan. 26
 #### [Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript) Sprint-Challenge-DOM-Javascript
-#### [Introduction to DOM and manipulation with Vanilla JS - Solution](https://youtu.be/LgFy3zAXK_o) w/Ivan Mora
-#### [Introduction to DOM and manipulation with Vanilla JS - Solution 1](https://youtu.be/sCnOgf-PifE) w/Ivan Mora
+#### [Introduction to DOM and manipulation with Vanilla JS - Solution 1](?????) w/Ivan Mora
+#### [Introduction to DOM and manipulation with Vanilla JS - Solution 2(Refactor)](https://youtu.be/LgFy3zAXK_o) w/Ivan Mora
+### Sat, Jan. 27
+#### [CS7 - Introduction to DOM and manipulation with Vanilla JS - Optional Review](https://youtu.be/xZfB890FWMw)
 
 
 ***
