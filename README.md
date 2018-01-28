@@ -7,7 +7,7 @@
   <h4>No, really: SRS BSNS!!</h4>
   <h5>Y U STILL LOOKIE LOOKIE??????</h5>
   <h6>u r in BIG trubble.</h6>
-  <img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="300px" width="300px">
+  <img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="200px" width="200px">
   <h1>CS7 Teaching Assistants</h1>
   <p><b>A repository for stuff while a Teaching Assistant for the CS7 cohort.</b></p>
   <p>(I'm not actually serious about students not looking at this stuff.)</p>
@@ -66,6 +66,10 @@
 
 <details><summary>TA Daily Schedule (PST)</summary><p>
 
+#### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
+
+## Monday through Thursday: Projects & Code Challenges
+
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 8        | `/jibble in` |
@@ -79,9 +83,33 @@
 | 9.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 10. | 5        | `jibble out` |
 
+## Friday: Sprint Challenges
+
+| # | Time (PST) | Activity |
+|:---|:---|:---|
+| 1.  | 8        | `/jibble in` |
+| 2.  | 8 - 915  | 1) GitHub PR code reviews 2) #cs7_help |
+| 3.  | 915      | CS7 TA standup meeting |
+| 4.  | 930 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
+| 5.  | 11       | `/jibble out` |
+| 6.  | 11 - 12  | LUNCH |
+| 7.  | 12       | `jibble in` |
+| 8.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 9.  | 5        | `jibble out` |
+
 </p></details>
 
 <details><summary>Lead TA Daily Schedule (PST)</summary><p>
+
+#### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
+##### In alphabetical order, ask all the TA's
+1. What did you work on yesterday?
+2. What are you working on today?
+3. What is causing you to get stuck?
+
+#### @9:30am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
+
+## Monday through Thursday: Projects & Code Challenges
 
 | # | Time (PST) | Activity |
 |:---|:---|:---|
@@ -98,13 +126,19 @@
 | 11. | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 12. | 5        | `jibble out` |
 
-#### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
-## In alphabetical order, ask all the TA's
-1. What did you work on yesterday?
-2. What are you working on today?
-3. What is causing you to get stuck?
+## Friday: Sprint Challenges
 
-#### @9:30am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
+| # | Time (PST) | Activity |
+|:---|:---|:---|
+| 1.  | 8        | `/jibble in` |
+| 2.  | 8 - 915  | 1) GitHub PR code reviews 2) #cs7_help |
+| 3.  | 915      | CS7 TA standup meeting |
+| 4.  | 930 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
+| 5.  | 11       | `/jibble out` |
+| 6.  | 11 - 12  | LUNCH |
+| 7.  | 12       | `jibble in` |
+| 8.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 9.  | 5        | `jibble out` |
 
 </p></details>
 
