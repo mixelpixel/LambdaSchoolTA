@@ -165,11 +165,11 @@ Per Emily:
 
 <details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
 
-### Just pasting a URL does NOT make a link:
+#### Just pasting a URL does NOT make a link:
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/text.png" alt="bOrInG!!!" height="100">
 
-### A couple extra steps to make it a link:
+#### A couple extra steps to make it a link:
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link1.png" alt="click" height="100">
 
@@ -179,7 +179,7 @@ Per Emily:
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link4.png" alt="bOrInG!!!" height="100">
 
-## [So, yeah, for all the work, embedding the content is easier and more effective!](#posting-links-on-piazza)
+#### [So, yeah, for all the work, embedding the content is easier and more effective!](#posting-links-on-piazza)
 
 </p></details>
 
