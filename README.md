@@ -130,17 +130,6 @@
 
 <details><summary>Set Up Notes</summary><p>
 
-### Posting Links on Piazza
-- Just pasting the YouTube link won't result in an HTML link - it'll just be text:
-![bOrInG!!!](piazza/text.png)
-- Couple extra steps to make it a link
-![click](piazza/link1.png)
-![paste](piazza/link2.png)
-![so (barely) helpful](piazza/link3.png)
-![bOrInG!!!](piazza/link4.png)
-- MUCH more useful to students: EMBEDDED YouTube content!
-![How to upload an embedded YouTube link](piazza/piazzaEmbedYouTube.gif)
-
 ### Setting up [repl.it](https://repl.it/teacher) code challenges
 Per Emily:
 1. Log into repl.it - you should see the classrooms
@@ -167,6 +156,17 @@ Per Emily:
 </p></details>
 
 <details><summary>How U Do Da'????</summary><p>
+
+### Posting Links on Piazza
+- Just pasting the YouTube link won't result in an HTML link - it'll just be text:
+![bOrInG!!!](art/piazza/text.png)
+- Couple extra steps to make it a link
+![click](art/piazza/link1.png)
+![paste](art/piazza/link2.png)
+![so (barely) helpful](art/piazza/link3.png)
+![bOrInG!!!](art/piazza/link4.png)
+- MUCH more useful to students: EMBEDDED YouTube content!
+![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
 
 ### Slack `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
