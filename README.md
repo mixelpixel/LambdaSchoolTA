@@ -82,7 +82,7 @@
   |:---|:---|:---|
   | 1.  | 8         | `/jibble in` |
   | 2.  | 805 - 820 | CS7 TA standup meeting |
-  | 3.  | 820 - 9   | Code challenge review help, lecture 845-9 |
+  | 3.  | 820 - 9   | Code challenge help, lecture@845-9 |
   | 5.  | 9 - 11    | 1) GitHub PR code reviews 2) #cs7_help |
   | 6.  | 11        | `/jibble out` |
   | 7.  | 11 - 12   | LUNCH |
@@ -124,7 +124,7 @@
   | 1.  | 450p day before or 750a | Schedule Code Challenge |
   | 2.  | 8         | `/jibble in` |
   | 3.  | 805 - 820 | CS7 TA standup |
-  | 4.  | 820 - 845 | 1) GitHub PR code reviews 2) #cs7_help |
+  | 4.  | 820 - 845 | Code challenge help |
   | 5.  | 845 - 9   | LECTURE: code challenge review |
   | 6.  | 930       | Lead TAs mtg: https://zoom.us/j/4558930151 |
   | 7.  | 945 - 11  | 1) GitHub PR code reviews 2) #cs7_help |
