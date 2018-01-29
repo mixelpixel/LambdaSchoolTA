@@ -606,35 +606,35 @@
   ##### Posted in Slack Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
 
   <details>
-    <summary>Setting up for LESS</summary><p>
+  <summary>Setting up for LESS</summary><p>
 
-    ```
-    *Q: Why LESS and not SASS or another preprocessor?*
+  ```
+  *Q: Why LESS and not SASS or another preprocessor?*
 
-    A: Learning one will be almost identical to the other but SASS compiles on Ruby and to install Ruby for PC and MAC would have been an unwanted side effect for teaching.  You will find that the time spent in LESS will prepare you for any pre processor.
+  A: Learning one will be almost identical to the other but SASS compiles on Ruby and to install Ruby for PC and MAC would have been an unwanted side effect for teaching.  You will find that the time spent in LESS will prepare you for any pre processor.
 
-    *Q: I have node installed, but when I try to install LESS or run any commands I get an error: *
+  *Q: I have node installed, but when I try to install LESS or run any commands I get an error: *
 
-    `npm ERR! Error: EACCES: permission denied, access '/usr/local/lib/node_modules'`
+  `npm ERR! Error: EACCES: permission denied, access '/usr/local/lib/node_modules'`
 
-    A: This is because of where your files for the node modules on your computer are stored.  The quick fix is to simply run "sudo" in front of your commands to override the permission error.
+  A: This is because of where your files for the node modules on your computer are stored.  The quick fix is to simply run "sudo" in front of your commands to override the permission error.
 
-    Example:
+  Example:
 
-    `sudo npm install -g less`
+  `sudo npm install -g less`
 
-    This command, known as "super user do" will grant the correct permissions after you enter a password.
+  This command, known as "super user do" will grant the correct permissions after you enter a password.
 
-    For a more permanent fix, you can follow this guide on the npm website:
+  For a more permanent fix, you can follow this guide on the npm website:
 
-    https://docs.npmjs.com/getting-started/fixing-npm-permissions
+  https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
-    *Q: The pre course video talks about using jet brains IDE to further optimize my LESS build but I don't have that IDE.  What gives?*
+  *Q: The pre course video talks about using jet brains IDE to further optimize my LESS build but I don't have that IDE.  What gives?*
 
-    A:  Don't worry about the IDE.  That was just a helpful tip and trick.  We will be going over every detail in our guided demo.  Just get LESS installed and attempt to write a few lines of LESS so you're familiar with it.  Don't stress!
-    ```
+  A:  Don't worry about the IDE.  That was just a helpful tip and trick.  We will be going over every detail in our guided demo.  Just get LESS installed and attempt to write a few lines of LESS so you're familiar with it.  Don't stress!
+  ```
 
-    </p>
+  </p>
   </details>
 
   ##### Day 1 - Preprocessors Intro
