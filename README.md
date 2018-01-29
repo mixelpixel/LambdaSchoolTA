@@ -603,6 +603,7 @@
   - https://github.com/lambdaschool/preprocessing-one
 
   ##### Prep w/ Josh Knell
+  - [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc)
   - https://codepen.io/bigknell/pen/zpgMbE
 
   ##### Posted in Slack Sunday prior: https://lambdaschoolstudents.slack.com/archives/C8ZM4HHD3/p1517169440000109
@@ -635,6 +636,16 @@
 
   A:  Don't worry about the IDE.  That was just a helpful tip and trick.  We will be going over every detail in our guided demo.  Just get LESS installed and attempt to write a few lines of LESS so you're familiar with it.  Don't stress!
   ```
+
+  ##### Notes for TAs to focus on
+  1. CSS nesting for specificity & inheritance
+  2. LESS Variables: all go on the top of the LESS script. LESS does not have hoisting like JS
+  3. Compiled CSS vs. Uncompiled LESS
+  4. Comment the closing bracket in LESS for _sanity's sake_
+  5. Use codepen error and analysis tools to troubleshoot.
+  6. When using the terminal for preprocessing with `lessc` the error msgs are big!!
+  7. Keep your cool ;)
+  8. use text minifying to catch scoping errors (especially with siblings)
 
   </p>
   </details>
