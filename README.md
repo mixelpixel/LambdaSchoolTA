@@ -493,93 +493,93 @@
   #### [Code Challenge 11: Consecutive Strings](https://youtu.be/Ft_nfW8GKiQ) w/Patrick Kennedy
 
   <details>
-    <summary>Consecutive Strings Solution</summary><p>
+  <summary>Consecutive Strings Solution</summary><p>
 
-    <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/pennywise.jpg" height="200px" width="200px">
+  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/pennywise.jpg" height="200px" width="200px">
 
-    - https://piazza.com/class/jc6vhnh8mdl5pw?cid=40
+  - https://piazza.com/class/jc6vhnh8mdl5pw?cid=40
 
-    ```js
-    /*
-      You are given an array of strings called arr and an integer k.
-      Your task is to return the longest string consisting of k consecutive
-      strings from the array.
+  ```js
+  /*
+    You are given an array of strings called arr and an integer k.
+    Your task is to return the longest string consisting of k consecutive
+    strings from the array.
 
-      n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
-     */
+    n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
+   */
 
-    function longestConsecutive(arr, k) {
-      // n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
-      // n = arr.length
-      if (arr.length === 0 || arr.length < k || k <= 0) return '';
+  function longestConsecutive(arr, k) {
+    // n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
+    // n = arr.length
+    if (arr.length === 0 || arr.length < k || k <= 0) return '';
 
-      // return the longest string consisting of k consecutive strings from the array.
-      return arr
-        .map((value, index) => (
-          arr.slice(index, index + k).join('')
-          ))
-        .reduce((longest, current) => (current.length > longest.length) ? current : longest);
-    }
+    // return the longest string consisting of k consecutive strings from the array.
+    return arr
+      .map((value, index) => (
+        arr.slice(index, index + k).join('')
+        ))
+      .reduce((longest, current) => (current.length > longest.length) ? current : longest);
+  }
 
-    // TEST SUITE - swEEt!
-    // console.log(longestConsecutive([], 1), "empty string")      // <--- '' - arr.length === 0
-    // console.log(longestConsecutive(["one"], 2), "empty string") // <--- '' - arr.length < k
-    // console.log(longestConsecutive(['something'], -1), "empty string")     // <--- '' - k <= 0
+  // TEST SUITE - swEEt!
+  // console.log(longestConsecutive([], 1), "empty string")      // <--- '' - arr.length === 0
+  // console.log(longestConsecutive(["one"], 2), "empty string") // <--- '' - arr.length < k
+  // console.log(longestConsecutive(['something'], -1), "empty string")     // <--- '' - k <= 0
 
-    // const array = ['1', '22', '333', '55555', '4444', 'xx', '666666', 'ggg', 'q', 'kk'];
-    // console.log(array.length);      // <--- 10
-    // console.log(array.slice(3, 6)); // <--- [ '55555', '4444', 'xx' ]
-    // console.log(array.join(''));    // <--- 122333555554444xx666666gggqkk
-    // console.log(array.map((value, index) => (array.slice(index, index + 2).join('')))); // <--- ugly
-    // console.log(array.reduce((longest, current) => current.length > longest.length ? current : longest)); // <--- six sixes
+  // const array = ['1', '22', '333', '55555', '4444', 'xx', '666666', 'ggg', 'q', 'kk'];
+  // console.log(array.length);      // <--- 10
+  // console.log(array.slice(3, 6)); // <--- [ '55555', '4444', 'xx' ]
+  // console.log(array.join(''));    // <--- 122333555554444xx666666gggqkk
+  // console.log(array.map((value, index) => (array.slice(index, index + 2).join('')))); // <--- ugly
+  // console.log(array.reduce((longest, current) => current.length > longest.length ? current : longest)); // <--- six sixes
 
 
-    // console.log(longestConsecutive(["zone", "abigail", "theta", "form", "libe", "zas"], 2)) // <--- "abigailtheta"
-    // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "form", "libe", "zas"], 3)) // <--- abi theta anti
-    // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
+  // console.log(longestConsecutive(["zone", "abigail", "theta", "form", "libe", "zas"], 2)) // <--- "abigailtheta"
+  // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "form", "libe", "zas"], 3)) // <--- abi theta anti
+  // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
 
-    /*
-     RESOURCES: google search "MDN <method name>", W3 schools, Free Code Camp
-     ARRAY METHODS
-     SLICE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
-     JOIN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
-     MAP: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-     REDUCE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
-     ALSO GOOD: https://medium.freecodecamp.org/reduce-f47a7da511a9
-     */
-    ```
+  /*
+   RESOURCES: google search "MDN <method name>", W3 schools, Free Code Camp
+   ARRAY METHODS
+   SLICE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+   JOIN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+   MAP: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+   REDUCE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+   ALSO GOOD: https://medium.freecodecamp.org/reduce-f47a7da511a9
+   */
+  ```
 
-    #### Truth Table: Inclusive Or
-    - If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
-    - There are three terms: `phi`, `psi` & `fry`.
-    - Each term has two possible states: `true` or `false`.
-    - The total number of _possible_ combination of three terms which each have two possible states is...?
-    - Number of ***states*** (either true or false) raised to the power of the number of ***terms*** (phi, psi & fry), i.e. 2<sup>3</sup>, or (2 \* 2 \* 2), a.k.a. *eight*:
+  #### Truth Table: Inclusive Or
+  - If ANY one of the variables evaluates to `true`, then the entire proposition evaluates to `true`.
+  - There are three terms: `phi`, `psi` & `fry`.
+  - Each term has two possible states: `true` or `false`.
+  - The total number of _possible_ combination of three terms which each have two possible states is...?
+  - Number of ***states*** (either true or false) raised to the power of the number of ***terms*** (phi, psi & fry), i.e. 2<sup>3</sup>, or (2 \* 2 \* 2), a.k.a. *eight*:
 
-    | # | phi | psi | fry | "phi inclusive_or psi inclusive_or fry" |
-    |:---|:---:|:---:|:---:|:---:|
-    | 1) | T | T | T | True |
-    | 2) | T | T | F | True |
-    | 3) | T | F | T | True |
-    | 4) | T | F | F | True |
-    | 5) | F | T | T | True |
-    | 6) | F | T | F | True |
-    | 7) | F | F | T | True |
-    | 8) | F | F | F | False |
+  | # | phi | psi | fry | "phi inclusive_or psi inclusive_or fry" |
+  |:---|:---:|:---:|:---:|:---:|
+  | 1) | T | T | T | True |
+  | 2) | T | T | F | True |
+  | 3) | T | F | T | True |
+  | 4) | T | F | F | True |
+  | 5) | F | T | T | True |
+  | 6) | F | T | F | True |
+  | 7) | F | F | T | True |
+  | 8) | F | F | F | False |
 
-    #### Exclusive Or (with only two terms)
-    - Just a quick explanation of the difference between exclusive and inclusive or logic.
-    - An _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
-    - i.e. "I will have either a cheese burger, or pizza, but _not both_"
+  #### Exclusive Or (with only two terms)
+  - Just a quick explanation of the difference between exclusive and inclusive or logic.
+  - An _exclusive_ "or" operator evaluates to true when ONLY one of the terms (operands) is true.
+  - i.e. "I will have either a cheese burger, or pizza, but _not both_"
 
-    | Φ | Ψ | "Φ exclusive_or Ψ" |
-    |:---:|:---:|:---:|
-    | T | T | False |
-    | T | F | True |
-    | F | T | True |
-    | F | F | False |
+  | Φ | Ψ | "Φ exclusive_or Ψ" |
+  |:---:|:---:|:---:|
+  | T | T | False |
+  | T | F | True |
+  | F | T | True |
+  | F | F | False |
 
-    </p>
+  </p>
   </details>
 
   #### [Introduction to DOM and manipulation with Vanilla JS - Q&A 2](https://youtu.be/qpI5z1DAiuY) w/Ivan Mora
