@@ -640,12 +640,17 @@
   ##### Notes for TAs to focus on
   1. CSS nesting for specificity & inheritance
   2. LESS Variables: all go on the top of the LESS script. LESS does not have hoisting like JS
-  3. Compiled CSS vs. Uncompiled LESS
+  3. Compiled CSS vs. Uncompiled LESS (in codepen compiled CSS is in red)
   4. Comment the closing bracket in LESS for _sanity's sake_
   5. Use codepen error and analysis tools to troubleshoot.
   6. When using the terminal for preprocessing with `lessc` the error msgs are big!!
   7. Keep your cool ;)
   8. use text minifying to catch scoping errors (especially with siblings)
+  9. @media queries are awesome.
+  10. Max-width number: everything skinnier gets the change applied.
+  11. LESS uses plus, minus, multiplication and division operators.
+  12. Escaping for string literals to setup media queries (D.R.Y.) - helpful when juggling laptop, tablet, phone development.
+  13. overview for the rest of the week: https://youtu.be/KikBMTsdQpc?t=1h2m36s
 
   </p>
   </details>
