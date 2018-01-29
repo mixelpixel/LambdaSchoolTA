@@ -80,30 +80,28 @@
 
   | # | Time (PST) | Activity |
   |:---|:---|:---|
-  | 1.  | 8        | `/jibble in` |
-  | 2.  | 8 - 845  | 1) GitHub PR code reviews 2) #cs7_help |
-  | 3.  | 845 - 9  | Lecture: code challenge review |
-  | 4.  | 915      | CS7 TA standup meeting |
-  | 5.  | 930 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
-  | 6.  | 11       | `/jibble out` |
-  | 7.  | 11 - 12  | LUNCH |
-  | 8.  | 12       | `jibble in` |
-  | 9.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-  | 10. | 5        | `jibble out` |
+  | 1.  | 8         | `/jibble in` |
+  | 2.  | 805 - 820 | CS7 TA standup meeting |
+  | 3.  | 820 - 9   | Code challenge review help, lecture 845-9 |
+  | 5.  | 9 - 11    | 1) GitHub PR code reviews 2) #cs7_help |
+  | 6.  | 11        | `/jibble out` |
+  | 7.  | 11 - 12   | LUNCH |
+  | 8.  | 12        | `jibble in` |
+  | 9.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 10. | 5         | `jibble out` |
 
   ## Friday: Sprint Challenges
 
   | # | Time (PST) | Activity |
   |:---|:---|:---|
-  | 1.  | 8        | `/jibble in` |
-  | 2.  | 8 - 915  | 1) GitHub PR code reviews 2) #cs7_help |
-  | 3.  | 915      | CS7 TA standup meeting |
-  | 4.  | 930 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
-  | 5.  | 11       | `/jibble out` |
-  | 6.  | 11 - 12  | LUNCH |
-  | 7.  | 12       | `jibble in` |
-  | 8.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-  | 9.  | 5        | `jibble out` |
+  | 1.  | 8         | `/jibble in` |
+  | 2.  | 805 - 820 | CS7 TA standup meeting |
+  | 3.  | 820 - 11  | 1) GitHub PR code reviews 2) #cs7_help |
+  | 4.  | 11        | `/jibble out` |
+  | 5.  | 11 - 12   | LUNCH |
+  | 6.  | 12        | `jibble in` |
+  | 7.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 8.  | 5         | `jibble out` |
 
   </p>
 </details>
@@ -124,31 +122,32 @@
   | # | Time (PST) | Activity |
   |:---|:---|:---|
   | 1.  | 450p day before or 750a | Schedule Code Challenge |
-  | 2.  | 8        | `/jibble in` |
-  | 3.  | 8 - 845  | 1) GitHub PR code reviews 2) #cs7_help |
-  | 4.  | 845 - 9  | Lecture: code challenge review |
-  | 5.  | 915      | cs7 TA standup |
-  | 6.  | 930      | Lead TA mtg: https://zoom.us/j/4558930151 |
-  | 7.  | 945 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
-  | 8.  | 11       | `/jibble out` |
-  | 9.  | 11 - 12  | LUNCH |
-  | 10. | 12       | `jibble in` |
-  | 11. | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-  | 12. | 5        | `jibble out` |
+  | 2.  | 8         | `/jibble in` |
+  | 3.  | 805 - 820 | CS7 TA standup |
+  | 4.  | 820 - 845 | 1) GitHub PR code reviews 2) #cs7_help |
+  | 5.  | 845 - 9   | LECTURE: code challenge review |
+  | 6.  | 930       | Lead TAs mtg: https://zoom.us/j/4558930151 |
+  | 7.  | 945 - 11  | 1) GitHub PR code reviews 2) #cs7_help |
+  | 8.  | 11        | `/jibble out` |
+  | 9.  | 11 - 12   | LUNCH |
+  | 10. | 12        | `jibble in` |
+  | 11. | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 12. | 5         | `jibble out` |
 
   ## Friday: Sprint Challenges
 
   | # | Time (PST) | Activity |
   |:---|:---|:---|
-  | 1.  | 8        | `/jibble in` |
-  | 2.  | 8 - 915  | 1) GitHub PR code reviews 2) #cs7_help |
-  | 3.  | 915      | CS7 TA standup meeting |
-  | 4.  | 930 - 11 | 1) GitHub PR code reviews 2) #cs7_help |
-  | 5.  | 11       | `/jibble out` |
-  | 6.  | 11 - 12  | LUNCH |
-  | 7.  | 12       | `jibble in` |
-  | 8.  | 12 - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-  | 9.  | 5        | `jibble out` |
+  | 1.  | 8         | `/jibble in` |
+  | 2.  | 805 - 820 | CS7 TA standup |
+  | 3.  | 820 - 915 | 1) GitHub PR code reviews 2) #cs7_help |
+  | 4.  | 930       | Lead TAs mtg: https://zoom.us/j/4558930151 |
+  | 5.  | 945 - 11  | 1) GitHub PR code reviews 2) #cs7_help |
+  | 6.  | 11        | `/jibble out` |
+  | 7.  | 11 - 12   | LUNCH |
+  | 8.  | 12        | `jibble in` |
+  | 9.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 10. | 5         | `jibble out` |
 
   </p>
 </details>
