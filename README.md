@@ -161,6 +161,7 @@
   2. Wesley "Pine Cone" Harvey (Vancouver, BC) PST
   3. Satish Vattikuti (Toledo, OH) EST
   4. Patrick Kennedy (Madison, NH) EST
+  5. Tyge Johnson (Salt Lake City, UT) MST
 
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
 
@@ -168,7 +169,8 @@
   1. Manisha M-F 8-5
   2. Wesley: M-F 8-5
   3. Patrick: M-F 8-5
-  4. Satish is Part Time: 20hrs total
+  4. Tyge Johnson: M-F 8-5
+  5. Satish is Part Time: 20hrs total
     - M Tu W Th F: 8AM - 9AM
     - M    W    F: NOON - 5PM
 
