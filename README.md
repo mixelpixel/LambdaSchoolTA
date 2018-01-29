@@ -162,7 +162,7 @@
   3. Satish Vattikuti (Toledo, OH) EST
   4. Patrick Kennedy (Madison, NH) EST
 
-  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAtimezones.jpeg" alt="TA Time Zones" width="300">
+  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
 
   ### CS7 TA Schedules (PST)
   1. Manisha M-F 8-5
