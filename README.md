@@ -74,7 +74,7 @@
 <details>
   <summary>TA Daily Schedule (PST)</summary><p>
 
-  #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
+  #### DAILY@9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
 
   ## Monday through Thursday: Projects & Code Challenges
 
@@ -111,7 +111,7 @@
 <details>
   <summary>Lead TA Daily Schedule (PST)</summary><p>
 
-  #### @9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
+  #### DAILY@9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
   ##### In alphabetical order, ask all the TA's
   1. What did you work on yesterday?
   2. What are you working on today?
