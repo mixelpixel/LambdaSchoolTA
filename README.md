@@ -173,6 +173,7 @@
   5. Satish is Part Time: 20hrs total
     - M Tu W Th F: 8AM - 9AM
     - M    W    F: NOON - 5PM
+    - week4: M (12-5) . Tuesday(8-10). Wednesday (8-9, 12-5). Thursday(8-9). Friday(8-9, 12-5).
 
   </p>
 </details>
@@ -324,7 +325,7 @@
   1. Aaron Burk
   2. Amanda Phillips
   3. Anthony Catalfo
-  4. Ashlei Jone
+  4. Ashlei Jones
   5. Boeun Kim
   6. Charlie Sparks
   7. Christopher Beards
@@ -637,12 +638,13 @@
   A:  Don't worry about the IDE.  That was just a helpful tip and trick.  We will be going over every detail in our guided demo.  Just get LESS installed and attempt to write a few lines of LESS so you're familiar with it.  Don't stress!
   ```
 
-  ##### Notes for TAs to focus on
+  #### My notes from Josh’s Friday night lecture on what to focus on for students in CS6/CS7 this week working on CSS Preprocessing with LESS (Leaner Style Sheets) http://lesscss.org/3.x/
+
   1. CSS nesting for specificity & inheritance
   2. LESS Variables: all go on the top of the LESS script. LESS does not have hoisting like JS
-  3. Compiled CSS vs. Uncompiled LESS (in codepen compiled CSS is in red)
+  3. Compiled CSS vs. Uncompiled LESS (in Codepen, compiled CSS is in red)
   4. Comment the closing bracket in LESS for _sanity's sake_
-  5. Use codepen error and analysis tools to troubleshoot.
+  5. Use Codepen error and analysis tools to troubleshoot.
   6. When using the terminal for preprocessing with `lessc` the error msgs are big!!
   7. Keep your cool ;)
   8. use text minifying to catch scoping errors (especially with siblings)
@@ -651,7 +653,6 @@
   11. LESS uses plus, minus, multiplication and division operators.
   12. Escaping for string literals to setup media queries (D.R.Y.) - helpful when juggling laptop, tablet, phone development.
   13. overview for the rest of the week: https://youtu.be/KikBMTsdQpc?t=1h2m36s
-
   </p>
   </details>
 
@@ -664,9 +665,6 @@
   ##### Day 4 - Responsive Web Design Advanced
   ***
   ### Day 15: Mon, Jan. 29
-
-  # NOTE: Post `@channel If you haven't already, join #cs6-cs7 for this week's lesson`
-
   #### [Code Challenge 12: Sum of Digits](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
   #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
   #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
