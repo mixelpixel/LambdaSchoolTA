@@ -591,7 +591,7 @@
   ***
   ### Day 14: Fri, Jan. 26
   #### [Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge-DOM-Javascript) Sprint-Challenge-DOM-Javascript
-  #### [Introduction to DOM and manipulation with Vanilla JS - Solution 1](?????) w/Ivan Mora
+  #### [Introduction to DOM and manipulation with Vanilla JS - Solution 1](VIDEO_RECORDED_NOT_POSTED) w/Ivan Mora
   #### [Introduction to DOM and manipulation with Vanilla JS - Solution 2(Refactor)](https://youtu.be/LgFy3zAXK_o) w/Ivan Mora
   ### Sat, Jan. 27
   #### [CS7 - Introduction to DOM and manipulation with Vanilla JS - Optional Review](https://youtu.be/xZfB890FWMw)
@@ -754,7 +754,7 @@
   #### [CSS Preprocessor Intro Q&A](https://youtu.be/5uffIhKvPUo) w/Josh Knell
   ***
   ### Day 16: Tue, Jan. 30
-  #### [Code Challenge 13: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
+  #### [Code Challenge 13: Common Elements](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
   #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
   #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
   ***
