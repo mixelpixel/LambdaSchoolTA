@@ -156,19 +156,21 @@
   <summary>CS7 Teaching Assistants</summary><p>
 
   ### CS7 TA's
-  1. Manisha LaL (Chicago, IL) CST
-  2. Wesley "Pine Cone" Harvey (Vancouver, BC) PST
-  3. Satish Vattikuti (Toledo, OH) EST
-  4. Patrick Kennedy (Madison, NH) EST
-  5. Tyge Johnson (Salt Lake City, UT) MST
+  | # | Name | Location | TimeZone | OS |
+  |---|:---|:---|:---|:---|
+  |1. | Manisha LaL               | (Chicago, IL) CST | macOS |
+  |2. | Wesley "Pine Cone" Harvey | (Vancouver, BC) PST | macOS |
+  |3. | Satish Vattikuti          | (Toledo, OH) EST | win10 |
+  |4. | Patrick Kennedy           | (Madison, NH) EST | macOS, win10, Ubuntu |
+  |5. | Tyge Johnson              | (Salt Lake City, UT) MST | macOS |
 
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
 
   ### CS7 TA Schedules (PST)
-  1. Manisha M-F 8-5
-  2. Wesley: M-F 8-5
-  3. Patrick: M-F 8-5
-  4. Tyge Johnson: M-F 8-5
+  1. Manisha M-F 8-11 LUNCH 12-5
+  2. Wesley: M-F 8-11 LUNCH 12-5
+  3. Patrick: M-F 8-11 LUNCH 12-5
+  4. Tyge Johnson: M-F 8-11 LUNCH 12-5
   5. Satish is Part Time: 20hrs total
     - M Tu W Th F: 8AM - 9AM
     - M    W    F: NOON - 5PM
@@ -660,18 +662,24 @@
   - Documentation: http://lesscss.org/3.x/
   - Install video (my version will be coming soon): https://www.youtube.com/watch?v=YQYJUeokqOY
   ##### Day 2 - Preprocessors Advanced
+  - *Read this first:* https://www.sitepoint.com/a-comprehensive-introduction-to-less-mixins/
+  - *After you have a decent handle on them, go try them out on your own!*
+  - Here are some examples to get your started:
+  - https://css-tricks.com/snippets/css/useful-css3-less-mixins/
+  - I looked for a *super short and succinct* video on LESS and this is a great review in practice:
+  - https://www.youtube.com/watch?v=EU1sUpPGIb4
   ##### Day 3 - Responsive Web Design Intro
   ##### Day 4 - Responsive Web Design Advanced
   ***
   ### Day 15: Mon, Jan. 29
-  #### [Code Challenge 12: Sum of Digits](VIDEO_RECORDED_NOT_POSTED) w/Patrick Kennedy
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+  #### [Code Challenge 12: Sum of Digits](https://youtu.be/udMpY37k7ng) w/Patrick Kennedy
+  #### [CSS Preprocessor Intro](https://youtu.be/YlYTye2UOzg) w/Josh Knell
+  #### [CSS Preprocessor Intro Q&A](https://youtu.be/5uffIhKvPUo) w/Josh Knell
   ***
   ### Day 16: Tue, Jan. 30
-  #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+  #### [Code Challenge 13: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
+  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
   ***
   ### Day 17: Wed, Jan. 31
   #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
