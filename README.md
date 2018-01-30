@@ -158,11 +158,11 @@
   ### CS7 TA's
   | # | Name | Location | TimeZone | OS |
   |---|:---|:---|:---|:---|
-  |1. | Manisha LaL               | (Chicago, IL) CST | macOS |
-  |2. | Wesley "Pine Cone" Harvey | (Vancouver, BC) PST | macOS |
-  |3. | Satish Vattikuti          | (Toledo, OH) EST | win10 |
-  |4. | Patrick Kennedy           | (Madison, NH) EST | macOS, win10, Ubuntu |
-  |5. | Tyge Johnson              | (Salt Lake City, UT) MST | macOS |
+  |1. | Manisha LaL               | (Chicago, IL) | CST | macOS |
+  |2. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS |
+  |3. | Satish Vattikuti          | (Toledo, OH) | EST | win10 |
+  |4. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu |
+  |5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS |
 
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
 
