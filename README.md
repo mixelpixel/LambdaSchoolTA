@@ -434,43 +434,43 @@
   <summary>Month 1: January, 2018</summary><p>
 
   <details>
-    <summary>Prior to Starting mid-Week 3</summary><p>
+  <summary>Prior to Starting mid-Week 3</summary><p>
 
-    ##### THIS LIST IS JUST AN EDUCATED GUESS RIGHT NOW
+  ##### THIS LIST IS JUST AN EDUCATED GUESS RIGHT NOW
 
-    ## Pre-Coursework
-    - https://github.com/LambdaSchool/Precourse (PR review???)
-    - https://github.com/LambdaSchool/Pre-Course-Git-Fu - Is this issued to students?
-    ***
-    ## Week 1: Jan. 8 - 12
-    ## JavaScript I - IV
-    - https://github.com/LambdaSchool/JavaScript-I-Mini
-    - https://github.com/LambdaSchool/JavaScript-I
-    - https://github.com/LambdaSchool/JavaScript-II-Mini
-    - https://github.com/LambdaSchool/JavaScript-II
-    - https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
-    ***
-    ## Week 2: Jan. 16 - 19 (1/15: MLK Jr.)
-    ## Data Structures
-    - https://github.com/LambdaSchool/Data-Structures-I
-    - https://github.com/LambdaSchool/LS-Data-Structures-I-Solution (PR review???)
-    - https://github.com/LambdaSchool/Data-Structures-II
-    - https://github.com/LambdaSchool/LS-Data-Structures-II-Solution (PR review???)
-    - https://github.com/LambdaSchool/Sprint-Challenge--Data-Structures
-    ***
-    #### Code Challenges 1 through 10
-    1. [reverseString](https://piazza.com/class/jc6vhnh8mdl5pw?cid=10)
-    2. longestString
-    3. [reverseCase](https://piazza.com/class/jc6vhnh8mdl5pw?cid=14)
-    4. [reverseNumber](https://piazza.com/class/jc6vhnh8mdl5pw?cid=20)
-    5. [moneyFormat](https://piazza.com/class/jc6vhnh8mdl5pw?cid=24)
-    6. [toCamepCase](https://piazza.com/class/jc6vhnh8mdl5pw?cid=28)
-    7. evenOccurences
-    8. [romanNumerals](https://piazza.com/class/jc6vhnh8mdl5pw?cid=33)
-    9. [stringCompression](https://piazza.com/class/jc6vhnh8mdl5pw?cid=34)
-    10. collatzSequence
+  ## Pre-Coursework
+  - https://github.com/LambdaSchool/Precourse (PR review???)
+  - https://github.com/LambdaSchool/Pre-Course-Git-Fu - Is this issued to students?
+  ***
+  ## Week 1: Jan. 8 - 12
+  ## JavaScript I - IV
+  - https://github.com/LambdaSchool/JavaScript-I-Mini
+  - https://github.com/LambdaSchool/JavaScript-I
+  - https://github.com/LambdaSchool/JavaScript-II-Mini
+  - https://github.com/LambdaSchool/JavaScript-II
+  - https://github.com/LambdaSchool/Sprint-Challenge--JavaScript
+  ***
+  ## Week 2: Jan. 16 - 19 (1/15: MLK Jr.)
+  ## Data Structures
+  - https://github.com/LambdaSchool/Data-Structures-I
+  - https://github.com/LambdaSchool/LS-Data-Structures-I-Solution (PR review???)
+  - https://github.com/LambdaSchool/Data-Structures-II
+  - https://github.com/LambdaSchool/LS-Data-Structures-II-Solution (PR review???)
+  - https://github.com/LambdaSchool/Sprint-Challenge--Data-Structures
+  ***
+  #### Code Challenges 1 through 10
+  1. [reverseString](https://piazza.com/class/jc6vhnh8mdl5pw?cid=10)
+  2. longestString
+  3. [reverseCase](https://piazza.com/class/jc6vhnh8mdl5pw?cid=14)
+  4. [reverseNumber](https://piazza.com/class/jc6vhnh8mdl5pw?cid=20)
+  5. [moneyFormat](https://piazza.com/class/jc6vhnh8mdl5pw?cid=24)
+  6. [toCamepCase](https://piazza.com/class/jc6vhnh8mdl5pw?cid=28)
+  7. evenOccurences
+  8. [romanNumerals](https://piazza.com/class/jc6vhnh8mdl5pw?cid=33)
+  9. [stringCompression](https://piazza.com/class/jc6vhnh8mdl5pw?cid=34)
+  10. collatzSequence
 
-    </p>
+  </p>
   </details>
 
   ***
