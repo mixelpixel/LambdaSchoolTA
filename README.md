@@ -760,19 +760,19 @@
   ***
   ### Day 17: Wed, Jan. 31
   #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
   ***
   ### Day 18: Thu, Feb. 1
   #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
   ***
   ### Day 19: Fri, Feb. 2
   #### [Sprint Challenge Repository on GitHub](https://github.com/LambdaSchool/NEW_SPRINT_CHALLENGE) NEW_SPRINT_CHALLENGE
   #### [Brown Bag](LINK) w/SPEAKER: TOPIC
-  #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
-  #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/SPEAKER
+  #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+  #### [Sprint Challenge Review](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
 
   </p>
 </details>
