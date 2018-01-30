@@ -499,7 +499,7 @@
   <details>
   <summary>Consecutive Strings Solution</summary><p>
 
-  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/pennywise.jpg" height="200px" width="200px">
+  <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/consolelog.png" height="200px" width="200px">
 
   - https://piazza.com/class/jc6vhnh8mdl5pw?cid=40
 
