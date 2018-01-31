@@ -18,6 +18,8 @@
   <h2>My mantra as a TA is this:</h2>
   <p><i><b>I don’t need to know a single thing about the students code, or even their project.</b></i></p>
   <p><i><b>I just need to help them to help themselves.</b></i></p>
+  <br><br>
+  <h4>"Fake it 'til you make it!" - <i>Emily Sperry</i></h4>
   <br><br><br>
   <p><b>!EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal EASTER EGGS!</b></p>
 </div>
@@ -432,6 +434,8 @@
 
 ***
 
+<details><summary>Weekly TA Support materials</summary><p>
+
 # week 4: CSS Preprocessor Prep w/ Josh Knell
 - [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc) w/Josh Knell
 - https://codepen.io/bigknell/pen/zpgMbE
@@ -447,6 +451,8 @@
 
 # week 5: React-I
 - prep video [CS6 - React I - Guided Demo](https://youtu.be/yH2FswgLdV8) w/Ivan Mora
+
+</p></details>
 
 ***
 
