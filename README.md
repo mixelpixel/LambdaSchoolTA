@@ -330,7 +330,7 @@
 # Students
 
 <details>
-  <summary>There are 52 CS7 students (list from repl.it)</summary><p>
+  <summary>There are 51 CS7 students (list from repl.it)</summary><p>
 
   1. Aaron Burk
   2. Amanda Phillips
@@ -383,7 +383,6 @@
   49. Tommy Coleman
   50. Tyson Williams
   51. Walter Woodward
-  52. Young L
 
   </p>
 </details>
