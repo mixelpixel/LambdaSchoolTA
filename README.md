@@ -202,6 +202,13 @@
   - https://app.jibble.io/ to access your time sheet and edit times if need be.
   - http://help.jibble.io/timesheets/how-can-i-add-or-edit-time-manually
 
+  ### Attendance on Airtable
+  - if a student hasn't been noted as being in attendance for 2 days, send a DM:
+  ```
+  Hi <student>,
+  Just checking in. <introduction if need be>. We may have simply missed you while we were taking attendance, but I’m writing to check in to make sure you have what you need for the course and are able to stay current with the coursework. Please let me know if you’re here and if there’s anything I can do to help.
+  ```
+
   ### 1099
   - https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee
 
@@ -755,11 +762,11 @@
   ***
   ### Day 16: Tue, Jan. 30
   #### [Code Challenge 13: Common Elements](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
-  #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
+  #### [CSS Preprocessor 2](https://youtu.be/GwIEh4R8AUY) w/Josh Knell
+  #### [CSS Preprocessor 2 Q&A](https://youtu.be/shXMYNQtg48) w/Josh Knell
   ***
   ### Day 17: Wed, Jan. 31
-  #### [Code Challenge ##: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
+  #### [Code Challenge 14: CODE_CHALLENGE](VIDEO_RECORDED_NOT_POSTED) w/Satish Vattikuti
   #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
   #### [LECTURE](VIDEO_RECORDED_NOT_POSTED) w/Josh Knell
   ***
