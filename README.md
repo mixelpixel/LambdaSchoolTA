@@ -205,8 +205,8 @@
   ### Attendance on Airtable
   - if a student hasn't been noted as being in attendance for 2 days, send a DM:
   ```
-  Hi <student>,
-  Just checking in. <introduction if need be>. We may have simply missed you while we were taking attendance, but I’m writing to check in to make sure you have what you need for the course and are able to stay current with the coursework. Please let me know if you’re here and if there’s anything I can do to help.
+  Hi {student},
+  Just checking in. {introduction if need be}. We may have simply missed you while we were taking attendance, but I’m writing to check in to make sure you have what you need for the course and are able to stay current with the coursework. Please let me know if you’re here and if there’s anything I can do to help.
   ```
 
   ### 1099
@@ -447,7 +447,7 @@
 
   ## Pre-Coursework
   - https://github.com/LambdaSchool/Precourse (PR review???)
-  - https://github.com/LambdaSchool/Pre-Course-Git-Fu - Is this issued to students?
+  - https://github.com/LambdaSchool/Pre-Course-Git-Fu - Is this still issued to students?
   ***
   ## Week 1: Jan. 8 - 12
   ## JavaScript I - IV
@@ -550,7 +550,7 @@
   // console.log(longestConsecutive(["zone", "abigail", "theta", "antidisestablishmentarianism", "capybara", "form", "libe", "zas"], 3)) // <--- theta anti capy
 
   /*
-   RESOURCES: google search "MDN <method name>", W3 schools, Free Code Camp
+   RESOURCES: google search "MDN {method name}", W3 schools, Free Code Camp
    ARRAY METHODS
    SLICE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
    JOIN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
