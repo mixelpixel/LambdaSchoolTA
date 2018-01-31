@@ -433,8 +433,20 @@
 ***
 
 # week 4: CSS Preprocessor Prep w/ Josh Knell
-- [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc)
+- [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc) w/Josh Knell
 - https://codepen.io/bigknell/pen/zpgMbE
+
+### Wednesday
+- #1 Inspect Element
+- #2 Adjust CSS in the the dev inspector
+- #3 Copy new styles into your actual project
+- #4 Save and watch terminal for updates
+- #5 refresh browser and start over again
+
+***
+
+# week 5: React-I
+- prep video [CS6 - React I - Guided Demo](https://youtu.be/yH2FswgLdV8) w/Ivan Mora
 
 ***
 
