@@ -105,7 +105,7 @@
   | 7.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
   | 8.  | 5         | `jibble out` |
 
-  ## Evening TA assistance
+  ## Afternoon TA assistance
 
   | # | Time (PST) | Activity |
   |:---|:---|:---|
