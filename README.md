@@ -105,6 +105,12 @@
   | 7.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
   | 8.  | 5         | `jibble out` |
 
+  ## Evening TA assistance
+
+  | # | Time (PST) | Activity |
+  |:---|:---|:---|
+  | 1.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+
   </p>
 </details>
 
@@ -170,7 +176,7 @@
 
   ### CS7 TA Schedules (PST)
   1. Manisha M-F 8-11 LUNCH 12-5
-  2. Wesley: M-F 8-11 LUNCH 12-5
+  2. Wesley: M-F 12-5 <--- ADD AJ IF HE IS ASSIGNED TO CS7
   3. Patrick: M-F 8-11 LUNCH 12-5
   4. Tyge Johnson: M-F 8-11 LUNCH 12-5
   5. Satish is Part Time: 20hrs total
@@ -329,8 +335,12 @@
 
 # Students
 
+#### Copied From Repl.it Student List
+- Strip out percentages
+- use: http://sortmylist.com/ to sort (by first or last name) and make csv if need be
+
 <details>
-  <summary>There are 51 CS7 students (list from repl.it)</summary><p>
+  <summary>There are 51 CS7 students SORTED BY FIRST NAME </summary><p>
 
   1. Aaron Burk
   2. Amanda Phillips
@@ -386,6 +396,62 @@
 
   </p>
 </details>
+
+<details><summary>SORTED BY LAST NAME</summary><p>
+
+1. Daniel Abbott
+2. Jon Anderson
+3. Devin Baldwin
+4. Russell Bates
+5. Christopher Beards
+6. Jonathan Brunt
+7. Jonathan Bry
+8. Aaron Burk
+9. Anthony Catalfo
+10. Kevin Chan
+11. Tommy Coleman
+12. Glenn-David Daniel
+13. Maximo Delarosa
+14. Eileen Eddy
+15. Nathan Flood
+16. Nathaniel Flory
+17. Sagdi Formanov
+18. German Go
+19. Peter Gray
+20. Eric Hechavarria
+21. Ashlei Jones
+22. Giraud Julemis
+23. Nikhil Kamineni
+24. Cliff Kang
+25. Boeun Kim
+26. Dixie Korley
+27. Daniel Lara
+28. Ronelle Lawson
+29. David Loveday
+30. Steven Magadan
+31. Michael Marshalkovich
+32. Ronnie Miksch
+33. Sergey Nam
+34. Lokesh Patel
+35. Amanda Phillips
+36. Shobana Ramesh
+37. Punit Rawal
+38. Richard Reis
+39. Lo Saephan
+40. Courtney Seitz
+41. David Soudryy"
+42. Charlie Sparks
+43. John Spraul
+44. Russell Stinson
+45. Mike Streltsoff
+46. Dani Tacheny
+47. Roy Tan
+48. Tyson Williams
+49. Cody Windeknecht
+50. Walter Woodward
+51. Igor Yermak
+
+</p></details>
 
 ### [LS Syllabus Training Kit](http://ls-training-kit.netlify.com/cs-master)
 ### [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
