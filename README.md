@@ -515,16 +515,16 @@
   Suggestion for GitHub Pull Requests and commits:
   - Get in the habit of committing more often!
   - Commit messages can be a valuable resource, and also help your focus on each step of the software development process.
-  - While `tried` and `done` might be _true_, they don't really describe the state of the project as you were developing it.
-  - Commit msgs don't have to be long, but often and succinct is good practice.
-  - The command `git log` will show you the history of your project (`space` to page through the longer histories. `q` will get you out of the history display)
+  - While things like `tried` and `done` might be _true_, they don't really describe the state of the project as you were developing it.
+  - Commit msgs don't have to be long, but often and succinct is good practice. The first fifty characters can be the whole commit message, but they can also be the title if you put a line in between the title and a longer explanatory description.
+  - The command `git log` will show you the history of your project (`space` to page through the longer histories. `q` will get you out of the history display). I try (and often fail) to get my commit message titles to tell the _story_ of my project development.
 
   As for PRs - it's helpful for TAs/Instructors if you put _your name_ as the title of the PR.
   Also, you can open a PR as soon as you fork and clone a repo.
   As you push commits to your repo, they'll get added to the PR.
   That way your work is available to us as you develop your project :)
-  For example, start a PR title with "**Eric Hech: w.i.p.**"
-  Then when you are done, you can edit the title to read, "**Eric Hech: done √**"
+  For example, start a PR title with "**Student NAME: w.i.p.**"
+  Then when you are done, you can edit the title to read, "**Student NAME: done √**"
   Will also be useful when pair programming to put both peeps names in the title.
 
   Great job!
