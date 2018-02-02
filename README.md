@@ -269,6 +269,15 @@
   I have not tried this, but I am told that to set VSC as the default text editor, this command _should_ do it:
   `git config --global core.editor "/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"`
 
+  ### So, you say you’ve _*already*_ pushed your ENTIRE `node_modules` folder up to GitHub, eh?
+  ```
+  # add 'node_modules' to .gitignore file
+
+  $ git rm -r --cached node_modules
+  $ git commit -m 'Remove the now ignored directory node_modules'
+  $ git push origin master
+  ```
+
   ### Posting Links on Piazza
   - Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
   - MUCH more useful to students: EMBEDDED YouTube content!
