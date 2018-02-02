@@ -226,6 +226,35 @@
 <details>
   <summary>How U Do Da'????</summary><p>
 
+  ### `git pull upstream master`
+  `git remote -v` will display your remote aliases and the associated URL
+
+  If you forked the LS repo and cloned _your_ fork, then `origin` should be set to _your_ GitHub repository
+
+  If you do not have a remote alias set to Lambda School’s GH repo, do this:
+  ```
+  git remote add upstream https://github.com/LambdaSchool/Responsive-Web-Design.git
+  ```
+  then confirm with
+  ```
+  git remote -v
+  ```
+  then you can:
+  ```
+  git pull upstream master
+  ```
+  …to pull in the updates.
+
+  Also, when you pull in new stuff from Lambda School, git will want a commit message. The VIM or NANO text editors may pop up at you expecting you to know how to use them.
+
+  VIM is a “mode based” text editor. When you encounter it in git
+  1) press `i` to enter “Insert” mode (may launch in Insert mode - look to the bottom left of the console display, does it say`— INSERT --`?
+  2) type your commit message
+  3) press `ESC` to enter the “command mode”
+  4) type `:wq: to “W”rite and “Q”uit
+  5) you should be back in your regular console.
+  6) type `git log` to confirm the committ message (press `q` to get back to your regular console)
+
   ### Posting Links on Piazza
   - Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
   - MUCH more useful to students: EMBEDDED YouTube content!
@@ -501,7 +530,7 @@
 
 <details><summary>Weekly TA Support materials</summary><p>
 
-# week 4: CSS Preprocessor Prep w/ Josh Knell
+# week 4: CSS Preprocessor Prep w/Josh Knell
 - [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc) w/Josh Knell
 - https://codepen.io/bigknell/pen/zpgMbE
 
@@ -514,8 +543,15 @@
 
 ***
 
-# week 5: React-I
+# week 5: React-I w/Luis Hernandez
 - prep video [CS6 - React I - Guided Demo](https://youtu.be/yH2FswgLdV8) w/Ivan Mora
+- https://github.com/LambdaSchool/React-I-Demo
+- https://github.com/LambdaSchool/React-I-Mini-Sprint
+- https://github.com/LambdaSchool/React-I
+- https://github.com/LambdaSchool/Sprint-Challenge---React
+- https://github.com/LambdaSchool/React-II-Demo
+- https://github.com/LambdaSchool/React-II-Mini-Sprint
+- https://github.com/LambdaSchool/React-II - Thursday
 
 </p></details>
 
