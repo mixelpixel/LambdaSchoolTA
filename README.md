@@ -503,7 +503,9 @@
   <summary>Pull Request Reviews</summary><p>
 
   ### DOM-JavaScript-mini
-  - [Erich Hechavarria](https://github.com/LambdaSchool/DOM-JavaScript-mini/pull/60)
+  - [Steve's Student Success Tracker](https://docs.google.com/spreadsheets/d/1OCF6om9bFTAbM_pWshCbV5KoOldfhxiaVjESO06oFGk/edit#gid=854893660)
+
+  - [Example early comments - examine web page, encourage good git and GitHub practice](https://github.com/LambdaSchool/DOM-JavaScript-mini/pull/60)
   ```
   Looks great - buttons work, layout's on point.
   I opened the page in Chrome, Firefox, Safari & Opera and the buttons all worked.
