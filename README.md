@@ -235,15 +235,15 @@
   ```
   git remote add upstream https://github.com/LambdaSchool/Responsive-Web-Design.git
   ```
-  then confirm with
+  ...then confirm with:
   ```
   git remote -v
   ```
-  then you can:
+  ...then you can:
   ```
   git pull upstream master
   ```
-  …to pull in the updates.
+  ...to pull in the updates.
 
   Also, when you pull in new stuff from Lambda School, git will want a commit message. The VIM or NANO text editors may pop up at you expecting you to know how to use them.
 
@@ -254,6 +254,8 @@
   4) type `:wq: to “W”rite and “Q”uit
   5) you should be back in your regular console.
   6) type `git log` to confirm the committ message (press `q` to get back to your regular console)
+
+  I do not know the NANO text editor. I _believe_ ctrl+X will exit w/o a commit msg.
 
   ### Posting Links on Piazza
   - Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
