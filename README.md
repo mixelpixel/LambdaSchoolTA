@@ -123,7 +123,7 @@
   2. What are you working on today?
   3. What is causing you to get stuck?
 
-  #### DAILY@9:30am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
+  #### DAILY@9:05am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
 
   ## Monday through Thursday: Projects & Code Challenges
 
@@ -134,8 +134,8 @@
   | 3.  | 805 - 820 | CS7 TA standup |
   | 4.  | 820 - 845 | Code challenge help |
   | 5.  | 845 - 9   | LECTURE: code challenge review |
-  | 6.  | 930       | Lead TAs mtg: https://zoom.us/j/4558930151 |
-  | 7.  | 945 - 11  | 1) GitHub PR code reviews 2) #cs7_help |
+  | 6.  | 905       | Lead TAs mtg: https://zoom.us/j/4558930151 |
+  | 7.  | 930 - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
   | 8.  | 11        | `/jibble out` |
   | 9.  | 11 - 12   | LUNCH |
   | 10. | 12        | `jibble in` |
@@ -149,8 +149,8 @@
   | 1.  | 8         | `/jibble in` |
   | 2.  | 805 - 820 | CS7 TA standup |
   | 3.  | 820 - 915 | 1) GitHub PR code reviews 2) #cs7_help |
-  | 4.  | 930       | Lead TAs mtg: https://zoom.us/j/4558930151 |
-  | 5.  | 945 - 11  | 1) GitHub PR code reviews 2) #cs7_help |
+  | 4.  | 905       | Lead TAs mtg: https://zoom.us/j/4558930151 |
+  | 5.  | 930 - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
   | 6.  | 11        | `/jibble out` |
   | 7.  | 11 - 12   | LUNCH |
   | 8.  | 12        | `jibble in` |
