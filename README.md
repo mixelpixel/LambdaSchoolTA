@@ -176,7 +176,7 @@
 
   ### CS7 TA Schedules (PST)
   1. Manisha M-F 8-11 LUNCH 12-5
-  2. Wesley: M-F 12-5 <--- ADD AJ IF HE IS ASSIGNED TO CS7
+  2. Wesley: M-F 12-4 (5-9 w/CS1PT)<--- ADD AJ IF HE IS ASSIGNED TO CS7
   3. Patrick: M-F 8-11 LUNCH 12-5
   4. Tyge Johnson: M-F 8-11 LUNCH 12-5
   5. Satish is Part Time: 20hrs total
