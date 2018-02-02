@@ -226,7 +226,7 @@
 <details>
   <summary>How U Do Da'????</summary><p>
 
-  ### `git pull upstream master`
+  ### HOW TO `git pull upstream master`
   `git remote -v` will display your remote aliases and the associated URL
 
   If you forked the LS repo and cloned _your_ fork, then `origin` should be set to _your_ GitHub repository
@@ -255,7 +255,19 @@
   5) you should be back in your regular console.
   6) type `git log` to confirm the committ message (press `q` to get back to your regular console)
 
-  I do not know the NANO text editor. I _believe_ ctrl+X will exit w/o a commit msg.
+  If you are set up with the NANO text editor, `ctrl-o` is the save command. At the bottom of the NANO text editor, you should see a list of command options.
+
+  To set git’s default editor to your preference:
+
+  `git config --global core.editor vim`
+  …maybe you might need quotes:
+  `git config --global core.editor "vim"`
+  or
+  `git config --global core.editor "nano"`
+  and there are ways to associate a text editor with git: https://help.github.com/articles/associating-text-editors-with-git/
+
+  I have not tried this, but I am told that to set VSC as the default text editor, this command _should_ do it:
+  `git config --global core.editor "/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"`
 
   ### Posting Links on Piazza
   - Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
