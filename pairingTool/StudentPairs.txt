@@ -1,3 +1,5 @@
+Odd number of students, you need to put David Soudry in a triplet
+
 Igor Yermak, Nikhil Kamineni
 Ashlei Jones, Dani Tacheny
 Steven Magadan, Boeun Kim
