@@ -53,11 +53,12 @@ for (let i = 0; i < numOfPairs - 1; i++) {
     pairs.push(Array(studentHalf_1[i], studentHalf_2[i]));
     pairs.push('\n');
   }
-  pairs.push("BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK\n\n");
+  pairs.push('BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK\n\n');
 }
 
 for (let i = 0; i < pairs.length; i++) {
-  fs.writeFile("test", pairs.toString(), (err) => {
+  // fs.writeFile('test', pairs.toString(), (err) => {
+  fs.writeFile('studentPairs.txt', pairs.toString(), (err) => {
       if(err) {
           return console.log(err);
       }
