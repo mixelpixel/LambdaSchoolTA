@@ -572,7 +572,7 @@
 
 # week 5: React-I w/Luis Hernandez
 - prep video [CS6 - React I - Guided Demo](https://youtu.be/yH2FswgLdV8) w/Ivan Mora 2hr
-- prep video released to class [React I Pre-Class Video](https://www.youtube.com/watch?v=Ty9DTVIaATY) w/Sean Chen 46 min
+- prep video released to class [React I Pre-Class Video](https://youtu.be/Ty9DTVIaATY) w/Sean Chen 46 min
 - https://github.com/LambdaSchool/React-I-Demo
 - https://github.com/LambdaSchool/React-I-Mini-Sprint
 - https://github.com/LambdaSchool/React-I
@@ -580,7 +580,6 @@
 - https://github.com/LambdaSchool/React-II-Demo
 - https://github.com/LambdaSchool/React-II-Mini-Sprint
 - https://github.com/LambdaSchool/React-II - Thursday
-
 
 </p></details>
 
