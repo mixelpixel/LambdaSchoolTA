@@ -178,6 +178,53 @@
 
 <details><summary>Set Up Notes</summary><p>
 
+### Setting up new Lead TAs
+1) CS# on Piazza
+2) CS# on Repl.it,
+3) Zoom logins (one for lead, one for CS# TA’s)
+4) YouTube: Lambda School account access
+5) Airtable access for Attendance and the Watchlist, submitting to Watchlist: https://airtable.com/shrgF26kb3wrdEpGr
+6) CS# Google calendar
+7) `jibble`
+8) `/question` & `/queue`
+
+### Posting Links on Piazza
+- `Manage Class` tab to add students and instructors
+- `New Post` - add week# tag for letures, and code challenges week# & coding_challenge tags
+- NOTE: Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
+- MUCH more useful to students: EMBEDDED YouTube content!
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/embed.png" alt="select 'Insert'" height="100">
+<br>
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/piazzaEmbedYouTube.gif" alt="How to embed YouTube links on Piazza" height="338" width="600">
+</div>
+
+<details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
+
+#### Just pasting a URL does NOT make a link:
+
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/text.png" alt="bOrInG!!!" height="100">
+
+#### A couple extra steps to make it a link:
+
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link1.png" alt="click" height="100">
+
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link2.png" alt="paste" height="100">
+
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link3.png" alt="so very (barely) helpful" height="100">
+
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link4.png" alt="bOrInG!!!" height="100">
+
+#### [So, yeah, for all the work, embedding the content is easier and more effective!](#posting-links-on-piazza)
+
+***
+
+</p></details>
+
+### Repl.it review
+- use it to monitor students progress with CC's. If they aren't completing them, check in.
+
 ### Setting up [repl.it](https://repl.it/teacher) code challenges
 Per Emily:
 1. Log into repl.it - you should see the classrooms
@@ -291,38 +338,6 @@ git checkout <first 7 or 10 letters in the git commit ID>
 i.e. `git checkout master`
 
 For example, use `git log` to see your commit history, find the commit you want to make current, copy it’s commit ID, then use `git checkout <commit ID>` to make a temporary branch from the commit. Use `git branch -a` to list the branch and note the star next to the “current” branch. In your text editor, you should see the changes have reverted to the old commit. Copy what you need. Then switch back to the master branch with `git checkout master`. In your text editor, you should see that the files are back to where you left off. `git branch -a` will report that you are on “master again” and the temp branch is gone. `git log` will also confirm that your latest commit is the current one. You can now paste the code you copied out of the old commit into your current work :slightly_smiling_face:
-
-### Posting Links on Piazza
-- Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
-- MUCH more useful to students: EMBEDDED YouTube content!
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/embed.png" alt="select 'Insert'" height="100">
-<br>
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/piazzaEmbedYouTube.gif" alt="How to embed YouTube links on Piazza" height="338" width="600">
-</div>
-
-<details><summary>Less awesome ways to post YouTube links on Piazza</summary><p>
-
-#### Just pasting a URL does NOT make a link:
-
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/text.png" alt="bOrInG!!!" height="100">
-
-#### A couple extra steps to make it a link:
-
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link1.png" alt="click" height="100">
-
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link2.png" alt="paste" height="100">
-
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link3.png" alt="so very (barely) helpful" height="100">
-
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/piazza/link4.png" alt="bOrInG!!!" height="100">
-
-#### [So, yeah, for all the work, embedding the content is easier and more effective!](#posting-links-on-piazza)
-
-***
-
-</p></details>
 
 ### Slack `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
