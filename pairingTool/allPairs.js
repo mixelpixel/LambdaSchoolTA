@@ -31,15 +31,11 @@ for (let i = 0; i < pairedClassSize - 1; i++) {
   }
   pairs.push("BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK\n\n");
 }
-// console.log(pairs);
-// fs.writeFile("test", JSON.stringify(pairs), (err) => {
 
 for (let i = 0; i < pairs.length; i++) {
-  // fs.writeFile("test", JSON.stringify(pairs), (err) => {
   fs.writeFile("test", pairs.toString(), (err) => {
       if(err) {
           return console.log(err);
       }
-      // console.log("The file was saved!");
   });
 }
