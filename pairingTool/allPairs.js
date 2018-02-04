@@ -2,15 +2,21 @@
  * I just copied the list of names from the cohorts student list on Repl.it
  * Ideally there's a better way (Airtable?) to access said list, but...
  * This program is expecting a text file with just a lit of names, e.g.
- Ronelle Lawson
- Igor Yermak
- Ashlei Jones
- Steven Magadan
- Glenn-David Daniel
- Dixie Korley
- * names, newlines. That's all. It will cut out the empty string if there's an newline at the text file end.
- * there's a lot of room for improvement
- * the resulting text file still needs some massaging.
+ *
+ * Ronelle Lawson
+ * Igor Yermak
+ * Ashlei Jones
+ * Steven Magadan
+ * Glenn-David Daniel
+ * Dixie Korley
+ * ...
+ *
+ * Names and newlines. That's all. It will cut out the empty string if there's an newline at the text file end.
+ * There's a lot of room for improvement:
+ * 1) The resulting text file still needs some massaging.
+ * 2) I'd like to randomly arrange the list prior to splitting it in half.
+ * 3) Also, if an odd sized class, would like to randomly assign a triplet (currently just the last student in the list).
+ * 4) Would love to use regex to bettter prepare the final text file.
  */
 
 const fs = require('fs');
@@ -64,3 +70,57 @@ for (let i = 0; i < pairs.length; i++) {
       }
   });
 }
+
+/* This is the list of CS7 students from Repl.it (after removing the percentage signs):
+Ronelle Lawson
+Igor Yermak
+Ashlei Jones
+Steven Magadan
+Glenn-David Daniel
+Dixie Korley
+Giraud Julemis
+Anthony Catalfo
+Mike Streltsoff
+Maximo Delarosa
+John Spraul
+Charlie Sparks
+Richard Reis
+Michael Marshalkovich
+Daniel Lara
+Cliff Kang
+Courtney Seitz
+Russell Stinson
+Tommy Coleman
+Daniel Abbott
+Shobana Ramesh
+Peter Gray
+Punit Rawal
+Jonathan Brunt
+David Loveday
+Nikhil Kamineni
+Dani Tacheny
+Boeun Kim
+Lokesh Patel
+Nathaniel Flory
+Eileen Eddy
+Jon Anderson
+Sergey Nam
+Eric Hechavarria
+Lo Saephan
+Roy Tan
+Nathan Flood
+Christopher Beards
+Amanda Phillips
+Cody Windeknecht
+Aaron Burk
+Kevin Chan
+Russell Bates
+Jonathan Bry
+German Go
+Devin Baldwin
+Tyson Williams
+Ronnie Miksch
+Sagdi Formanov
+Walter Woodward
+David Soudry
+*/
