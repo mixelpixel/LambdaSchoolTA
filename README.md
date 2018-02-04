@@ -85,11 +85,11 @@
   | 1.  | 8         | `/jibble in` |
   | 2.  | 805 - 820 | CS7 TA standup meeting |
   | 3.  | 820 - 9   | Code challenge help, lecture@845-9 |
-  | 5.  | 9 - 11    | 1) GitHub PR code reviews 2) #cs7_help |
+  | 5.  | 9   - 11  | 1) GitHub PR code reviews 2) #cs7_help |
   | 6.  | 11        | `/jibble out` |
-  | 7.  | 11 - 12   | LUNCH |
+  | 7.  | 11  - 12  | LUNCH |
   | 8.  | 12        | `jibble in` |
-  | 9.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 9.  | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
   | 10. | 5         | `jibble out` |
 
   ## Friday: Sprint Challenges
@@ -100,16 +100,16 @@
   | 2.  | 805 - 820 | CS7 TA standup meeting |
   | 3.  | 820 - 11  | 1) GitHub PR code reviews 2) #cs7_help |
   | 4.  | 11        | `/jibble out` |
-  | 5.  | 11 - 12   | LUNCH |
+  | 5.  | 11  - 12  | LUNCH |
   | 6.  | 12        | `jibble in` |
-  | 7.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 7.  | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
   | 8.  | 5         | `jibble out` |
 
   ## Afternoon TA assistance
 
   | # | Time (PST) | Activity |
   |:---|:---|:---|
-  | 1.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 1.  | 12 - 5 | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 
   </p>
 </details>
@@ -134,12 +134,12 @@
   | 3.  | 805 - 820 | CS7 TA standup |
   | 4.  | 820 - 845 | Code challenge help |
   | 5.  | 845 - 9   | LECTURE: code challenge review |
-  | 6.  | 905       | Lead TAs mtg: https://zoom.us/j/4558930151 |
-  | 7.  | 930 - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
+  | 6.  | 905 - ... | Lead TAs mtg: https://zoom.us/j/4558930151 |
+  | 7.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
   | 8.  | 11        | `/jibble out` |
-  | 9.  | 11 - 12   | LUNCH |
+  | 9.  | 11  - 12  | LUNCH |
   | 10. | 12        | `jibble in` |
-  | 11. | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 11. | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
   | 12. | 5         | `jibble out` |
 
   ## Friday: Sprint Challenges
@@ -149,12 +149,12 @@
   | 1.  | 8         | `/jibble in` |
   | 2.  | 805 - 820 | CS7 TA standup |
   | 3.  | 820 - 915 | 1) GitHub PR code reviews 2) #cs7_help |
-  | 4.  | 905       | Lead TAs mtg: https://zoom.us/j/4558930151 |
-  | 5.  | 930 - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
+  | 4.  | 905 - ... | Lead TAs mtg: https://zoom.us/j/4558930151 |
+  | 5.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
   | 6.  | 11        | `/jibble out` |
-  | 7.  | 11 - 12   | LUNCH |
+  | 7.  | 11  - 12  | LUNCH |
   | 8.  | 12        | `jibble in` |
-  | 9.  | 12 - 5    | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+  | 9.  | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
   | 10. | 5         | `jibble out` |
 
   </p>
@@ -176,13 +176,14 @@
 
   ### CS7 TA Schedules (PST)
   1. Manisha M-F 8-11 LUNCH 12-5
-  2. Wesley: M-F 12-4 (5-9 w/CS1PT)<--- ADD AJ IF HE IS ASSIGNED TO CS7
+  2. Tyge Johnson: M-F 8-11 LUNCH 12-5
   3. Patrick: M-F 8-11 LUNCH 12-5
-  4. Tyge Johnson: M-F 8-11 LUNCH 12-5
+  4. Wesley: M-F 12-4 LUNCH _(5-9 w/CS1PT)_
   5. Satish is Part Time: 20hrs total
     - M Tu W Th F: 8AM - 9AM
     - M    W    F: NOON - 5PM
     - week4: M (12-5) . Tuesday(8-10). Wednesday (8-9, 12-5). Thursday(8-9). Friday(8-9, 12-5).
+    - week5: M (12-5) . Tuesday(8-10). Wednesday (8-9, 12-5). Thursday(8-9). Friday(8-9, 12-5).
 
   </p>
 </details>
@@ -226,16 +227,17 @@
 <details>
   <summary>How U Do Da'????</summary><p>
 
-  ### HOW TO `git pull upstream master`
+  ### HOW TO get updates from Lambda School’s repositories with `git pull upstream master`:
+
   `git remote -v` will display your remote aliases and the associated URL
 
-  If you forked the LS repo and cloned _your_ fork, then `origin` should be set to _your_ GitHub repository
+  If you forked the Lambda School repository and cloned _your_ fork, then `origin` should be set to _your_ GitHub repository. The name `origin` is just a convention for signifying the GitHub repository which corresponds with your local Git repository.
 
-  If you do not have a remote alias set to Lambda School’s GH repo, do this:
+  If you do not have a remote alias set to Lambda School’s GitHub repository, you can add an _alias_ for the remote unique resource locater specifying Lambda School’s GitHub repository. To do that, the `git` tool uses this syntax: `git remote add upstream {URL}`. For example:
   ```
   git remote add upstream https://github.com/LambdaSchool/Responsive-Web-Design.git
   ```
-  ...then confirm with:
+  ...then confirm that the alias is set with:
   ```
   git remote -v
   ```
@@ -243,9 +245,9 @@
   ```
   git pull upstream master
   ```
-  ...to pull in the updates.
+  ...to pull in the updates from Lambda School’s GitHub repository to your local Git repository.
 
-  Also, when you pull in new stuff from Lambda School, git will want a commit message. The VIM or NANO text editors may pop up at you expecting you to know how to use them.
+  Also, when you pull in new stuff from Lambda School’s GitHub repo, your local Git repository will want a commit message to log the update. The VIM or NANO text editors may pop up at you expecting you to know how to use them.
 
   VIM is a “mode based” text editor. When you encounter it in git
   1) press `i` to enter “Insert” mode (may launch in Insert mode - look to the bottom left of the console display, does it say`— INSERT --`?
@@ -253,18 +255,18 @@
   3) press `ESC` to enter the “command mode”
   4) type `:wq: to “W”rite and “Q”uit
   5) you should be back in your regular console.
-  6) type `git log` to confirm the committ message (press `q` to get back to your regular console)
+  6) type `git log` to confirm the commit message (press `q` to get back to your regular console)
 
-  If you are set up with the NANO text editor, `ctrl-o` is the save command. At the bottom of the NANO text editor, you should see a list of command options.
+  If you are set up with the NANO text editor, `ctrl-o` is the save command. Type your commit msg, the use `ctrl-o`. At the bottom of the NANO text editor, you should see a list of command options.
 
-  To set git’s default editor to your preference:
+  To set Git’s default editor to your preference:
 
   `git config --global core.editor vim`
-  …maybe you might need quotes:
+  …maybe you might need quotes around “vim”:
   `git config --global core.editor "vim"`
   or
   `git config --global core.editor "nano"`
-  and there are ways to associate a text editor with git: https://help.github.com/articles/associating-text-editors-with-git/
+  and there are ways to associate a text editor (Atom, Sublime) with git: https://help.github.com/articles/associating-text-editors-with-git/
 
   I have not tried this, but I am told that to set VSC as the default text editor, this command _should_ do it:
   `git config --global core.editor "/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"`
