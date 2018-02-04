@@ -23,9 +23,10 @@ Punit Rawal, Tyson Williams
 Jonathan Brunt, Ronnie Miksch
 David Loveday, Sagdi Formanov
 Ronelle Lawson, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Ashlei Jones, Nikhil Kamineni
+
+
+Ashlei Jones, Nikhil Kamineni
 Steven Magadan, Dani Tacheny
 Glenn-David Daniel, Boeun Kim
 Dixie Korley, Lokesh Patel
@@ -50,9 +51,10 @@ Jonathan Brunt, Tyson Williams
 David Loveday, Ronnie Miksch
 Ronelle Lawson, Sagdi Formanov
 Igor Yermak, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Steven Magadan, Nikhil Kamineni
+
+
+Steven Magadan, Nikhil Kamineni
 Glenn-David Daniel, Dani Tacheny
 Dixie Korley, Boeun Kim
 Giraud Julemis, Lokesh Patel
@@ -77,9 +79,10 @@ David Loveday, Tyson Williams
 Ronelle Lawson, Ronnie Miksch
 Igor Yermak, Sagdi Formanov
 Ashlei Jones, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Glenn-David Daniel, Nikhil Kamineni
+
+
+Glenn-David Daniel, Nikhil Kamineni
 Dixie Korley, Dani Tacheny
 Giraud Julemis, Boeun Kim
 Anthony Catalfo, Lokesh Patel
@@ -104,9 +107,10 @@ Ronelle Lawson, Tyson Williams
 Igor Yermak, Ronnie Miksch
 Ashlei Jones, Sagdi Formanov
 Steven Magadan, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Dixie Korley, Nikhil Kamineni
+
+
+Dixie Korley, Nikhil Kamineni
 Giraud Julemis, Dani Tacheny
 Anthony Catalfo, Boeun Kim
 Mike Streltsoff, Lokesh Patel
@@ -131,9 +135,10 @@ Igor Yermak, Tyson Williams
 Ashlei Jones, Ronnie Miksch
 Steven Magadan, Sagdi Formanov
 Glenn-David Daniel, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Giraud Julemis, Nikhil Kamineni
+
+
+Giraud Julemis, Nikhil Kamineni
 Anthony Catalfo, Dani Tacheny
 Mike Streltsoff, Boeun Kim
 Maximo Delarosa, Lokesh Patel
@@ -158,9 +163,10 @@ Ashlei Jones, Tyson Williams
 Steven Magadan, Ronnie Miksch
 Glenn-David Daniel, Sagdi Formanov
 Dixie Korley, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Anthony Catalfo, Nikhil Kamineni
+
+
+Anthony Catalfo, Nikhil Kamineni
 Mike Streltsoff, Dani Tacheny
 Maximo Delarosa, Boeun Kim
 John Spraul, Lokesh Patel
@@ -185,9 +191,10 @@ Steven Magadan, Tyson Williams
 Glenn-David Daniel, Ronnie Miksch
 Dixie Korley, Sagdi Formanov
 Giraud Julemis, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Mike Streltsoff, Nikhil Kamineni
+
+
+Mike Streltsoff, Nikhil Kamineni
 Maximo Delarosa, Dani Tacheny
 John Spraul, Boeun Kim
 Charlie Sparks, Lokesh Patel
@@ -212,9 +219,10 @@ Glenn-David Daniel, Tyson Williams
 Dixie Korley, Ronnie Miksch
 Giraud Julemis, Sagdi Formanov
 Anthony Catalfo, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Maximo Delarosa, Nikhil Kamineni
+
+
+Maximo Delarosa, Nikhil Kamineni
 John Spraul, Dani Tacheny
 Charlie Sparks, Boeun Kim
 Richard Reis, Lokesh Patel
@@ -239,9 +247,10 @@ Dixie Korley, Tyson Williams
 Giraud Julemis, Ronnie Miksch
 Anthony Catalfo, Sagdi Formanov
 Mike Streltsoff, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, John Spraul, Nikhil Kamineni
+
+
+John Spraul, Nikhil Kamineni
 Charlie Sparks, Dani Tacheny
 Richard Reis, Boeun Kim
 Michael Marshalkovich, Lokesh Patel
@@ -266,9 +275,10 @@ Giraud Julemis, Tyson Williams
 Anthony Catalfo, Ronnie Miksch
 Mike Streltsoff, Sagdi Formanov
 Maximo Delarosa, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Charlie Sparks, Nikhil Kamineni
+
+
+Charlie Sparks, Nikhil Kamineni
 Richard Reis, Dani Tacheny
 Michael Marshalkovich, Boeun Kim
 Daniel Lara, Lokesh Patel
@@ -293,9 +303,10 @@ Anthony Catalfo, Tyson Williams
 Mike Streltsoff, Ronnie Miksch
 Maximo Delarosa, Sagdi Formanov
 John Spraul, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Richard Reis, Nikhil Kamineni
+
+
+Richard Reis, Nikhil Kamineni
 Michael Marshalkovich, Dani Tacheny
 Daniel Lara, Boeun Kim
 Cliff Kang, Lokesh Patel
@@ -320,9 +331,10 @@ Mike Streltsoff, Tyson Williams
 Maximo Delarosa, Ronnie Miksch
 John Spraul, Sagdi Formanov
 Charlie Sparks, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Michael Marshalkovich, Nikhil Kamineni
+
+
+Michael Marshalkovich, Nikhil Kamineni
 Daniel Lara, Dani Tacheny
 Cliff Kang, Boeun Kim
 Courtney Seitz, Lokesh Patel
@@ -347,9 +359,10 @@ Maximo Delarosa, Tyson Williams
 John Spraul, Ronnie Miksch
 Charlie Sparks, Sagdi Formanov
 Richard Reis, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Daniel Lara, Nikhil Kamineni
+
+
+Daniel Lara, Nikhil Kamineni
 Cliff Kang, Dani Tacheny
 Courtney Seitz, Boeun Kim
 Russell Stinson, Lokesh Patel
@@ -374,9 +387,10 @@ John Spraul, Tyson Williams
 Charlie Sparks, Ronnie Miksch
 Richard Reis, Sagdi Formanov
 Michael Marshalkovich, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Cliff Kang, Nikhil Kamineni
+
+
+Cliff Kang, Nikhil Kamineni
 Courtney Seitz, Dani Tacheny
 Russell Stinson, Boeun Kim
 Tommy Coleman, Lokesh Patel
@@ -401,9 +415,10 @@ Charlie Sparks, Tyson Williams
 Richard Reis, Ronnie Miksch
 Michael Marshalkovich, Sagdi Formanov
 Daniel Lara, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Courtney Seitz, Nikhil Kamineni
+
+
+Courtney Seitz, Nikhil Kamineni
 Russell Stinson, Dani Tacheny
 Tommy Coleman, Boeun Kim
 Daniel Abbott, Lokesh Patel
@@ -428,9 +443,10 @@ Richard Reis, Tyson Williams
 Michael Marshalkovich, Ronnie Miksch
 Daniel Lara, Sagdi Formanov
 Cliff Kang, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Russell Stinson, Nikhil Kamineni
+
+
+Russell Stinson, Nikhil Kamineni
 Tommy Coleman, Dani Tacheny
 Daniel Abbott, Boeun Kim
 Shobana Ramesh, Lokesh Patel
@@ -455,9 +471,10 @@ Michael Marshalkovich, Tyson Williams
 Daniel Lara, Ronnie Miksch
 Cliff Kang, Sagdi Formanov
 Courtney Seitz, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Tommy Coleman, Nikhil Kamineni
+
+
+Tommy Coleman, Nikhil Kamineni
 Daniel Abbott, Dani Tacheny
 Shobana Ramesh, Boeun Kim
 Peter Gray, Lokesh Patel
@@ -482,9 +499,10 @@ Daniel Lara, Tyson Williams
 Cliff Kang, Ronnie Miksch
 Courtney Seitz, Sagdi Formanov
 Russell Stinson, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Daniel Abbott, Nikhil Kamineni
+
+
+Daniel Abbott, Nikhil Kamineni
 Shobana Ramesh, Dani Tacheny
 Peter Gray, Boeun Kim
 Punit Rawal, Lokesh Patel
@@ -509,9 +527,10 @@ Cliff Kang, Tyson Williams
 Courtney Seitz, Ronnie Miksch
 Russell Stinson, Sagdi Formanov
 Tommy Coleman, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Shobana Ramesh, Nikhil Kamineni
+
+
+Shobana Ramesh, Nikhil Kamineni
 Peter Gray, Dani Tacheny
 Punit Rawal, Boeun Kim
 Jonathan Brunt, Lokesh Patel
@@ -536,9 +555,10 @@ Courtney Seitz, Tyson Williams
 Russell Stinson, Ronnie Miksch
 Tommy Coleman, Sagdi Formanov
 Daniel Abbott, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Peter Gray, Nikhil Kamineni
+
+
+Peter Gray, Nikhil Kamineni
 Punit Rawal, Dani Tacheny
 Jonathan Brunt, Boeun Kim
 David Loveday, Lokesh Patel
@@ -563,9 +583,10 @@ Russell Stinson, Tyson Williams
 Tommy Coleman, Ronnie Miksch
 Daniel Abbott, Sagdi Formanov
 Shobana Ramesh, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Punit Rawal, Nikhil Kamineni
+
+
+Punit Rawal, Nikhil Kamineni
 Jonathan Brunt, Dani Tacheny
 David Loveday, Boeun Kim
 Ronelle Lawson, Lokesh Patel
@@ -590,9 +611,10 @@ Tommy Coleman, Tyson Williams
 Daniel Abbott, Ronnie Miksch
 Shobana Ramesh, Sagdi Formanov
 Peter Gray, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, Jonathan Brunt, Nikhil Kamineni
+
+
+Jonathan Brunt, Nikhil Kamineni
 David Loveday, Dani Tacheny
 Ronelle Lawson, Boeun Kim
 Igor Yermak, Lokesh Patel
@@ -617,9 +639,10 @@ Daniel Abbott, Tyson Williams
 Shobana Ramesh, Ronnie Miksch
 Peter Gray, Sagdi Formanov
 Punit Rawal, Walter Woodward
-BREAKBREAKBREAKBREAKBREAKBREAKBREAKBREAK
 
-, David Loveday, Nikhil Kamineni
+
+
+David Loveday, Nikhil Kamineni
 Ronelle Lawson, Dani Tacheny
 Igor Yermak, Boeun Kim
 Ashlei Jones, Lokesh Patel
