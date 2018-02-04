@@ -564,29 +564,6 @@
 
 ***
 
-<details><summary>Weekly TA Support materials</summary><p>
-
-# week 4: CSS Preprocessor Prep w/Josh Knell
-- [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc) w/Josh Knell
-- https://codepen.io/bigknell/pen/zpgMbE
-
-***
-
-# week 5: React-I w/Luis Hernandez
-- prep video [CS6 - React I - Guided Demo](https://youtu.be/yH2FswgLdV8) w/Ivan Mora 2hr
-- prep video released to class [React I Pre-Class Video](https://youtu.be/Ty9DTVIaATY) w/Sean Chen 46 min
-- https://github.com/LambdaSchool/React-I-Demo
-- https://github.com/LambdaSchool/React-I-Mini-Sprint
-- https://github.com/LambdaSchool/React-I
-- https://github.com/LambdaSchool/Sprint-Challenge---React
-- https://github.com/LambdaSchool/React-II-Demo
-- https://github.com/LambdaSchool/React-II-Mini-Sprint
-- https://github.com/LambdaSchool/React-II - Thursday
-
-</p></details>
-
-***
-
 # Errata, Addenda & Miscellany
 
 <details>
