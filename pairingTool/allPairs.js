@@ -1,6 +1,6 @@
 const fs = require('fs');
 const os = require('os');
-const filePath = '../csv/students'; // or wherever your list is - note, not actuall a csv file, just a text list of names and line breajs
+const filePath = './students'; // or wherever your list is - note, not actuall a csv file, just a text list of names and line breajs
 
 let students = fs.readFileSync(filePath, 'utf8').split(os.EOL);
 students.pop(); // gets ride of trailing comma
