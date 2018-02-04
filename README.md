@@ -269,14 +269,23 @@
   I have not tried this, but I am told that to set VSC as the default text editor, this command _should_ do it:
   `git config --global core.editor "/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"`
 
-  ### So, you say you’ve _*already*_ pushed your ENTIRE `node_modules` folder up to GitHub, eh?
-  ```
-  # add 'node_modules' to .gitignore file
+  ### Remove committed content that's been pushed to GitHub
+  So, you say you’ve _*already*_ pushed your ENTIRE `node_modules` folder up to GitHub, eh?
+  1) add ‘node_modules’ to .gitignore file
+  2) `$ git rm -r --cached node_modules`
+  3) `$ git commit -m 'Remove the now ignored directory node_modules'`
+  4) `$ git push origin master`
 
-  $ git rm -r --cached node_modules
-  $ git commit -m 'Remove the now ignored directory node_modules'
-  $ git push origin master
+  ### git TIME TRAVEL
+  If you want to go “back in time” to a previous commit, copy something, return to your current commit and use the old code: https://stackoverflow.com/a/4114122/5225057
+  > If you want to temporarily go back to it, fool around, then come back to where you are, all you have to do is check out the desired commit:
   ```
+  git checkout <first 7 or 10 letters in the git commit ID>
+  ```
+  > To go back to where you were, just check out the branch you were on again.
+  i.e. `git checkout master`
+
+  For example, use `git log` to see your commit history, find the commit you want to make current, copy it’s commit ID, then use `git checkout <commit ID>` to make a temporary branch from the commit. Use `git branch -a` to list the branch and note the star next to the “current” branch. In your text editor, you should see the changes have reverted to the old commit. Copy what you need. Then switch back to the master branch with `git checkout master`. In your text editor, you should see that the files are back to where you left off. `git branch -a` will report that you are on “master again” and the temp branch is gone. `git log` will also confirm that your latest commit is the current one. You can now paste the code you copied out of the old commit into your current work :slightly_smiling_face:
 
   ### Posting Links on Piazza
   - Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
@@ -559,17 +568,11 @@
 - [Friday prior prep walkthrough for TAs](https://youtu.be/KikBMTsdQpc) w/Josh Knell
 - https://codepen.io/bigknell/pen/zpgMbE
 
-### Wednesday
-- #1 Inspect Element
-- #2 Adjust CSS in the the dev inspector
-- #3 Copy new styles into your actual project
-- #4 Save and watch terminal for updates
-- #5 refresh browser and start over again
-
 ***
 
 # week 5: React-I w/Luis Hernandez
-- prep video [CS6 - React I - Guided Demo](https://youtu.be/yH2FswgLdV8) w/Ivan Mora
+- prep video [CS6 - React I - Guided Demo](https://youtu.be/yH2FswgLdV8) w/Ivan Mora 2hr
+- prep video released to class [React I Pre-Class Video](https://www.youtube.com/watch?v=Ty9DTVIaATY) w/Sean Chen 46 min
 - https://github.com/LambdaSchool/React-I-Demo
 - https://github.com/LambdaSchool/React-I-Mini-Sprint
 - https://github.com/LambdaSchool/React-I
@@ -577,6 +580,7 @@
 - https://github.com/LambdaSchool/React-II-Demo
 - https://github.com/LambdaSchool/React-II-Mini-Sprint
 - https://github.com/LambdaSchool/React-II - Thursday
+
 
 </p></details>
 
