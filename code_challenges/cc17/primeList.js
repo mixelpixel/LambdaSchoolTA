@@ -49,6 +49,38 @@ function primeList(start, end) {
 //   return primes;
 // }
 
+// // Satish Solution:
+// function primeList(start, end) {
+//   const primes = [];
+//   const upperLimit = Math.sqrt(end);
+//   const output = [];
+//
+//   for(let  i = 0; i <= end ; i++) {
+//     primes.push(true);
+//   }
+//
+//   // console.log(primes);
+//
+//   for( let i = 2; i <= upperLimit; i++) {
+//     if(primes[i]) {
+//       for(j = i * i; j <= end; j = j + i) {
+//         primes[j] = false;
+//       }
+//     }
+//   }
+//
+//   //console.log(primes);
+//   for(let i = 2; i <= end; i++) {
+//     if(primes[i] && i >= start) {
+//       output.push(i);
+//     }
+//   }
+//
+//   return output;
+// }
+//
+// console.log(primeList(2,66758))
+
 // TEST SUITE
 console.log(primeList(-9, 10));  // doesn't handle negatives!
 console.log(primeList(1, 10));   // [ 2, 3, 5, 7 ]
