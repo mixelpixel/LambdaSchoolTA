@@ -179,12 +179,12 @@
 <details><summary>Set Up Notes</summary><p>
 
 ### Setting up new Lead TAs
-1) CS# on Piazza
-2) CS# on Repl.it,
-3) Zoom logins (one for lead, one for CS# TA’s)
-4) YouTube: Lambda School account access
-5) Airtable access for Attendance and the Watchlist, submitting to Watchlist: https://airtable.com/shrgF26kb3wrdEpGr
-6) CS# Google calendar
+1) CS# on Piazza - Tai
+2) CS# on Repl.it - Tai
+3) Zoom logins (one for lead, one for CS# TA’s) - Tai
+4) YouTube: Lambda School account access - Caleb
+5) Airtable access for Attendance and the Watchlist, submitting to Watchlist: https://airtable.com/shrgF26kb3wrdEpGr?prefill_Status=New - Caleb
+6) CS# Google calendar - Jocelyn
 7) `jibble`
 8) `/question` & `/queue`
 
