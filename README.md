@@ -184,14 +184,16 @@
 3) Zoom logins (one for lead, one for CS# TA’s) - Tai
 4) YouTube: Lambda School account access - Caleb
 5) Airtable access for Attendance and the Watchlist, submitting to Watchlist: https://airtable.com/shrgF26kb3wrdEpGr?prefill_Status=New - Caleb
+General Feedback: https://airtable.com/shrdcxEM3ORh4DpJ9
+Lesson Feedback: https://airtable.com/shreRpwjZj16E9KDF
 6) CS# Google calendar - Jocelyn
 7) `jibble`
 8) `/question` & `/queue`
 
 ### Posting Links on Piazza
 - `Manage Class` tab to add students and instructors
-- `New Post` - add week# tag for letures, and code challenges week# & coding_challenge tags
-- NOTE: Just pasting the YouTube link WON'T result in an HTML link - it'll just be text.
+- `New Post` - add week# tag for letures; & the code challenges week# & coding_challenge tags for code challenges
+- NOTE: Just pasting the YouTube link WON'T necessarily result in an HTML link - it'll just be text. Piazza will make the URL hypertext, but only if you add a space after it (so their text editor evluates the link).
 - MUCH more useful to students: EMBEDDED YouTube content!
 
 <div align="center">
