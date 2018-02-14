@@ -53,6 +53,8 @@
 
 <details><summary>Priorities</summary><p>
 
+- [Student per TA](https://docs.google.com/spreadsheets/d/1U7f93fjcB02d33--bMgC1-eEEyXrw_eH55duABnnurY/edit#gid=0)
+
 > When possible (which should be almost always…), code reviews should be done during instruction in the morning.
 > Emphasis is on the current PR’s, not the past ones.
 > Then the queue of questions should be covered in the afternoon.
