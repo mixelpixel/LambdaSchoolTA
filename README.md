@@ -346,8 +346,10 @@ i.e. `git checkout master`
 
 For example, use `git log` to see your commit history, find the commit you want to make current, copy it’s commit ID, then use `git checkout <commit ID>` to make a temporary branch from the commit. Use `git branch -a` to list the branch and note the star next to the “current” branch. In your text editor, you should see the changes have reverted to the old commit. Copy what you need. Then switch back to the master branch with `git checkout master`. In your text editor, you should see that the files are back to where you left off. `git branch -a` will report that you are on “master again” and the temp branch is gone. `git log` will also confirm that your latest commit is the current one. You can now paste the code you copied out of the old commit into your current work :slightly_smiling_face:
 
-### Slack `/polly` polls
+### Slack
+#### `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
+#### `/remind`ers
 - `/remind` e.g. `/remind #cs7_staff @channel 805aPST - CS7 TAs Stand Up mtg: https://zoom.us/j/373539169 every weekday at 11:05am` (see Zoom prefs to make a regular meeting URL)
 
 ### Chat
