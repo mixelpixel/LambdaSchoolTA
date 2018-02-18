@@ -227,7 +227,10 @@ Lesson Feedback: https://airtable.com/shreRpwjZj16E9KDF
 </p></details>
 
 ### Repl.it review
-- use it to monitor students progress with CC's. If they aren't completing them, check in.
+- use it to monitor students progress with CC's.
+- If they aren't completing them, check in.
+- If they aren't even submitting them, show them how and remind them to submit them.
+- Export CSV to analyze performance
 
 ### Setting up [repl.it](https://repl.it/teacher) code challenges
 Per Emily:
