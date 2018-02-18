@@ -378,6 +378,7 @@ $ ffmpeg -i "concat:temp1.ts|temp2.ts" -c copy -bsf:a aac_adtstoasc OUTPUT.mp4
 ![How to upload an embedded YouTube link](art/piazza/piazzaEmbedYouTube.gif)
 
 7. Convert .mp4 to .gif: https://ezgif.com/video-to-gif
+8. https://gifox.io
 
 ### Markdown Preview
 #### GitHub Flavored Markdown (GFM)
@@ -436,104 +437,100 @@ Nested text/markdown
 7. Christopher Beards
 8. Cliff Kang
 9. Cody Windeknecht
-10. Courtney Seitz
-11. Daniel Abbott
-12. Daniel Lara
-13. Dani Tacheny
-14. David Loveday
-15. David Soudry
-16. Devin Baldwin
-17. Dixie Korley
-18. Eileen Eddy
-19. Eric Hechavarria
-20. German Go
-21. Giraud Julemis
-22. Glenn-David Daniel
-23. Igor Yermak
-24. John Spraul
-25. Jon Anderson
-26. Jonathan Brunt
-27. Jonathan Bry
-28. Kevin Chan
-29. Lokesh Patel
-30. Lo Saephan
-31. Maximo Delarosa
-32. Michael Marshalkovich
-33. Mike Streltsoff
-34. Nathan Flood
-35. Nathaniel Flory
-36. Nikhil Kamineni
-37. Peter Gray
-38. Punit Rawal
-39. Richard Reis
-40. Ronelle Lawson
-41. Ronnie Miksch
-42. Roy Tan
-43. Russell Bates
-44. Russell Stinson
-45. Sagdi Formanov
-46. Sergey Nam
-47. Shobana Ramesh
-48. Steven Magadan
-49. Tommy Coleman
-50. Tyson Williams
-51. Walter Woodward
+10. Daniel Abbott
+11. Daniel Lara
+12. Dani Tacheny
+13. David Loveday
+14. David Soudry
+15. Devin Baldwin
+16. Dixie Korley
+17. Eileen Eddy
+18. Eric Hechavarria
+19. German Go
+20. Giraud Julemis
+21. Glenn-David Daniel
+22. Igor Yermak
+23. John Spraul
+24. Jon Anderson
+25. Jonathan Brunt
+26. Jonathan Bry
+27. Kevin Chan
+28. Lo Saephan
+29. Maximo Delarosa
+30. Michael Marshalkovich
+31. Mike Streltsoff
+32. Nathan Flood
+33. Nathaniel Flory
+34. Nikhil Kamineni
+35. Peter Gray
+36. Punit Rawal
+37. Richard Reis
+38. Ronelle Lawson
+39. Ronnie Miksch
+40. Roy Tan
+41. Russell Bates
+42. Russell Stinson
+43. Sagdi Formanov
+44. Sergey Nam
+45. Shobana Ramesh
+46. Steven Magadan
+47. Tiffany Robbins
+48. Tommy Coleman
+49. Tyson Williams
 
 </p></details>
 
 <details><summary>SORTED BY LAST NAME</summary><p>
 
-1. Daniel Abbott
-2. Jon Anderson
-3. Devin Baldwin
-4. Russell Bates
-5. Christopher Beards
-6. Jonathan Brunt
-7. Jonathan Bry
-8. Aaron Burk
-9. Anthony Catalfo
-10. Kevin Chan
-11. Tommy Coleman
-12. Glenn-David Daniel
-13. Maximo Delarosa
-14. Eileen Eddy
-15. Nathan Flood
-16. Nathaniel Flory
-17. Sagdi Formanov
-18. German Go
-19. Peter Gray
-20. Eric Hechavarria
-21. Ashlei Jones
-22. Giraud Julemis
-23. Nikhil Kamineni
-24. Cliff Kang
-25. Boeun Kim
-26. Dixie Korley
-27. Daniel Lara
-28. Ronelle Lawson
-29. David Loveday
-30. Steven Magadan
-31. Michael Marshalkovich
-32. Ronnie Miksch
-33. Sergey Nam
-34. Lokesh Patel
-35. Amanda Phillips
-36. Shobana Ramesh
-37. Punit Rawal
-38. Richard Reis
-39. Lo Saephan
-40. Courtney Seitz
-41. David Soudryy"
-42. Charlie Sparks
-43. John Spraul
-44. Russell Stinson
-45. Mike Streltsoff
-46. Dani Tacheny
-47. Roy Tan
-48. Tyson Williams
-49. Cody Windeknecht
-50. Walter Woodward
-51. Igor Yermak
+Daniel Abbott
+Jon Anderson
+Devin Baldwin
+Russell Bates
+Christopher Beards
+Jonathan Brunt
+Jonathan Bry
+Aaron Burk
+Anthony Catalfo
+Kevin Chan
+Tommy Coleman
+Glenn-David Daniel
+Maximo Delarosa
+Eileen Eddy
+Nathan Flood
+Nathaniel Flory
+Sagdi Formanov
+German Go
+Peter Gray
+Eric Hechavarria
+Ashlei Jones
+Giraud Julemis
+Nikhil Kamineni
+Cliff Kang
+Boeun Kim
+Dixie Korley
+Daniel Lara
+Ronelle Lawson
+David Loveday
+Steven Magadan
+Michael Marshalkovich
+Ronnie Miksch
+Sergey Nam
+Amanda Phillips
+Shobana Ramesh
+Punit Rawal
+Richard Reis
+Tiffany Robbins
+Lo Saephan
+David Soudryy"
+Charlie Sparks
+John Spraul
+Russell Stinson
+Mike Streltsoff
+Dani Tacheny
+Roy Tan
+Tyson Williams
+Cody Windeknecht
+Igor Yermak
 
 </p></details>
 
