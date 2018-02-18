@@ -1,5 +1,5 @@
 .DS_Store
-/node_modules
+node_modules
 *.swo
 *.swm
 *.swp
@@ -7,4 +7,4 @@ secretsquirrel
 /csv
 curation_order.md
 /pairingTool
-/curation
+curation
