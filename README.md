@@ -426,7 +426,7 @@ Nested text/markdown
 - Strip out percentages
 - use: http://sortmylist.com/ to sort (by first or last name) and make csv if need be
 
-<details><summary>There are 51 CS7 students SORTED BY FIRST NAME </summary><p>
+<details><summary>There are 49 CS7 students SORTED BY FIRST NAME </summary><p>
 
 1. Aaron Burk
 2. Amanda Phillips
