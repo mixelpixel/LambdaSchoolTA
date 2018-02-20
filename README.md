@@ -155,13 +155,16 @@
 <details><summary>CS7 Teaching Assistants</summary><p>
 
 ### CS7 TA's
-| # | Name | Location | TimeZone | OS |
-|---|:---|:---|:---|:---|
-| 1. | Manisha LaL               | (Chicago, IL) | CST | macOS |
-| 2. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS |
-| 3. | Satish Vattikuti          | (Toledo, OH) | EST | win10 |
-| 4. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu |
-| 5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS |
+| # | Name | Location | TimeZone | OS | Text Editor |
+|---|:---|:---|:---|:---|:---|
+| 1. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC |
+| 2. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS | Emacs |
+| 3. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC |
+| 4. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ |
+| 5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
+| 5. | Matt Jackson              | ??? | PST | macOS | VSC, VIM |
+| 5. | Dylan Scheidt             | ??? | EST | macOS | VSC |
+| 5. | Ryan Lowe                 | ??? | EST | Linux | VSC |
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
 
