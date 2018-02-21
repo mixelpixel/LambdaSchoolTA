@@ -164,7 +164,7 @@
 | 5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
 | 5. | Matt Jackson              | ??? | PST | macOS | VSC, VIM |
 | 5. | Dylan Scheidt             | ??? | EST | macOS | VSC |
-| 5. | Ryan Lowe                 | ??? | EST | Linux | VSC |
+| 5. | Ryan Lowe                 | ??? | EST | Ubuntu | VSC |
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
 
@@ -172,7 +172,10 @@
 1. Manisha M-F 8-11 LUNCH 12-5
 2. Tyge Johnson: M-F 8-11 LUNCH 12-5
 3. Patrick: M-F 8-11 LUNCH 12-5
-4. Wesley: M-F 12-4 LUNCH _(5-9 w/CS1PT)_
+4. Matt Jackson: M-F 8-11 LUNCH 12-4
+4. Ryan Lowe: M-F 8-11 LUNCH 12-4
+4. Dylan Scheidt: M-F 8-11 LUNCH 12-4
+4. Wesley: M-F 8-9, 1-4 _(5-9 w/CS1PT)_
 5. Satish is Part Time: 20hrs total
   - M Tu W Th F: 8AM - 9AM
   - M    W    F: NOON - 5PM
