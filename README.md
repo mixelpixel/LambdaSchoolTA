@@ -172,9 +172,9 @@
 1. Manisha M-F 8-11 LUNCH 12-5
 2. Tyge Johnson: M-F 8-11 LUNCH 12-5
 3. Patrick: M-F 8-11 LUNCH 12-5
-4. Matt Jackson: M-F 8-11 LUNCH 12-4
+4. Matt Jackson: M-F 8-11 LUNCH 1-5
 4. Ryan Lowe: M-F 8-11 LUNCH 12-4
-4. Dylan Scheidt: M-F 8-11 LUNCH 12-4
+4. Dylan Scheidt: M-F 8-11 LUNCH 1-5
 4. Wesley: M-F 8-9, 1-4 _(5-9 w/CS1PT)_
 5. Satish is Part Time: 20hrs total
   - M Tu W Th F: 8AM - 9AM
