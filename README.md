@@ -191,9 +191,13 @@
 2) CS# on Repl.it - Kevin
 3) Zoom logins (one for lead, one for CS# TA’s) - Tai
 4) YouTube: Lambda School account access - Caleb
-5) Airtable access for Attendance and the Watchlist, submitting to Watchlist: https://airtable.com/shrgF26kb3wrdEpGr?prefill_Status=New - Caleb
-General Feedback: https://airtable.com/shrdcxEM3ORh4DpJ9
-Lesson Feedback: https://airtable.com/shreRpwjZj16E9KDF
+5) Airtable access for Attendance and the Watchlist - Caleb
+    FORMS:
+    Submitting issues to the Watchlist: https://airtable.com/shrgF26kb3wrdEpGr?prefill_Status=New
+    Equipment Request: https://airtable.com/shrEHS8dPFyhcYBMI
+    General Feedback: https://airtable.com/shrdcxEM3ORh4DpJ9
+    Weekly Feedback: https://airtable.com/shrauv6kJhXYab0q2
+    Lesson Feedback: https://airtable.com/shreRpwjZj16E9KDF
 6) CS# Google calendar - Jocelyn
 7) `jibble`
 8) `/question` & `/queue`
