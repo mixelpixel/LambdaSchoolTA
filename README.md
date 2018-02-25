@@ -188,7 +188,7 @@
 
 ### Setting up new Lead TAs
 1) CS# on Piazza - Tai
-2) CS# on Repl.it - Tai
+2) CS# on Repl.it - Kevin
 3) Zoom logins (one for lead, one for CS# TA’s) - Tai
 4) YouTube: Lambda School account access - Caleb
 5) Airtable access for Attendance and the Watchlist, submitting to Watchlist: https://airtable.com/shrgF26kb3wrdEpGr?prefill_Status=New - Caleb
