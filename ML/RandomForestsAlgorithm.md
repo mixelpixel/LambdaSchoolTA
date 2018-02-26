@@ -6,7 +6,7 @@ In this article, you are going to learn one of the most famous Machine Learning 
 3. A programming example of Random Forests.
 4. Advantages of a Random Forests algorithm.
 
-## _1. What is the Random Forests algorithm?_
+## 1. _What is the Random Forests algorithm?_
 To understand the Random Forests algorithm, you must understand a few basic concepts. I will cover those first. There are different types of Machine Learning Algorithms: Supervised, Unsupervised, and Semi-Supervised. The Random Forests algorithm falls under the _Supervised_ category. This means that you teach the algorithm what to do. Supervised learning is so named because the data scientist acts as a guide to teach the algorithm which kinds of conclusions it should come up with. Supervised learning is like the way a child might learn arithmetic from a teacher by repeated demonstration of addition examples. Having seen and calculated addition repeatedly, the child will have learned a pattern, e.g. the result of adding any set of two natural numbers can be derived correctly by counting to the sum of both numbers. In Supervised learning, we train the algorithm with a given data set that has correctly corresponding labels. For example, a supervised algorithm will be trained on thousands of images of cats and dogs. Each data point in the training set has the proper label. The algorithm uses the given data relationships between features and labels as a baseline. For example, if the animal’s legs are longer than a certain number of centimeters, then the algorithm classifies that data point as an image of a dog.
 
 Now, let’s talk about _Ensemble Learning,_ a sub-category of Supervised Machine Learning. Ensemble Learning uses _trees_ to make decisions. This means that we _train the algorithm_ with trees to make decisions. The greater the number of trees, the better the decision making (i.e. classification). One analogy that might prove useful is to think about how your doctor goes about performing a diagnosis for a health complaint that you describe to her. If she cannot find the problem directly, then she may ask for an appropriate variety of tests to be performed, e.g., X-ray scans, fMRI, blood tests, consultations with experts, _et cetera._ She will then _aggregate_ the data and expert opinions to make a diagnostic conclusion. Each of the individual tests will suggest a diagnosis, but only by putting them all together can an informed decision be reached. We now have all the basics to talk about Random Forests.
@@ -21,7 +21,7 @@ The more trees in the forest, the more robust the prediction and thus, a more in
 
 The “random” in “Random Forests” comes from the fact that the algorithm trains each individual decision tree with different subsets of the training data. Each node of every decision tree is split using a randomly selected attribute of the data. By introducing this element of randomness, the algorithm can create models that are not correlated with each other. This results in dispersing possible errors throughout the model evenly. This means that the potential for errors will eventually be canceled out through the majority voting decision strategy of the Random Forests algorithm.
 
-## _2. How does the Random Forests algorithm work?_
+## 2. _How does the Random Forests algorithm work?_
 Let’s talk about the algorithm now. These are steps that happen when training a single decision tree. For each tree in the forest:
 
 1. Create a subset of the given training data set.
@@ -38,7 +38,7 @@ We build our “forest” by repeating each of these steps for every “tree”.
 ![Random Forests Simplified](https://cdn-images-1.medium.com/max/800/1*i0o8mjFfCn-uD79-F1Cqkw.png)
 ##### image attributed to: https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d
 
-## _3. A programming example of Random Forests._
+## 3. _A programming example of Random Forests._
 
 ```py
 import numpy as np
@@ -90,7 +90,7 @@ The objective here is to illustrate an example of how to use the Random Forests 
 The second line of the code is where the RandomForestClassifier algorithm gets imported. Line numbers eight and fifteen are where it is used. The RandomForestClassifier has two parameters specified. The first is **criterion**: which names a method to calculate the _information gain._ The second is the **estimators**: the number of trees in the forest. Different data sets need different numbers of trees. The best way to find an optimal number of estimators is by trial and error. This model was trained on 1200 data points. The objective was to classify between spam and non-spam email. The number of trees I chose here was 41. This amount of trees gave me maximum (97%) _accuracy and efficiency._ If the estimator is too large, it will take too long to process - possibly even _forever._
 
 
-## 4. Advantages of a Random Forests algorithm.
+## 4. _Advantages of a Random Forests algorithm._
 
 - Can be used for both _classification_ and _regression_.
 - Deals with the _overfitting_ problem and is therefore more _accurate._
