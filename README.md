@@ -104,7 +104,7 @@
 
 | # | Time (PST) | Activity |
 |:---|:---|:---|
-| 1.  | 12 - 5 | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 1.  | 12 - 5 | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, Q&A lecture help |
 
 </p></details>
 
@@ -132,7 +132,7 @@
 | 8.  | 11        | `/jibble out` |
 | 9.  | 11  - 12  | LUNCH |
 | 10. | 12        | `jibble in` |
-| 11. | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 11. | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, Q&A lecture help |
 | 12. | 5         | `jibble out` |
 
 ## Friday: Sprint Challenges
@@ -162,9 +162,9 @@
 | 3. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC |
 | 4. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ |
 | 5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
-| 5. | Matt Jackson              | ??? | PST | macOS | VSC, VIM |
-| 5. | Dylan Scheidt             | ??? | EST | macOS | VSC |
-| 5. | Ryan Lowe                 | ??? | EST | Ubuntu | VSC |
+| 6. | Matt Jackson              | ??? | PST | macOS | VSC, VIM |
+| 7. | Dylan Scheidt             | ??? | EST | macOS | VSC |
+| 8. | Ryan Lowe                 | ??? | EST | Ubuntu | VSC |
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
 
