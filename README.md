@@ -333,9 +333,14 @@ $ git config --global core.editor "nano"
 
 and there are ways to associate a text editor (Atom, Sublime) with Git: https://help.github.com/articles/associating-text-editors-with-git/
 
-I have not tried this, but I am told that to set VSC as the default text editor, this command _should_ do it:
+I have not tried this, but I am told that to set VSC as the default text editor, this command _should_ do it with GitBash:
 ```bash
 git config --global core.editor "/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
+```
+
+Othherwise for folks using CMD/PShell:
+```cmd
+git config --global core.editor "C:\\Program files\path...to\Visual\ Studio\ Code.app/Contents/Resources/app/bin/code.exe"
 ```
 
 ### Remove committed content that's been pushed to GitHub
