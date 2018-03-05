@@ -584,6 +584,25 @@ Great job!
 
 </p></details>
 
+<details><summary>Afternoon Pair Programming Checklist</summary><p>
+
+https://github.com/LambdaSchool/pair-programming-checklist
+
+Pairing:
+@channel Reminder: for pair programming “collaboration” through :github:
+```
+1. Person A forks the Lambda School repository.
+2. Person A adds person B as a Collaborator.
+3. Person B accepts invite.
+4. Both clone person A's repository.
+5. Work together, switch coding roles every half hour.
+6. Upon the first switch, save all changes, commit, push to person A's repository and makes a Pull Request.
+7. Push and pull changes as you switch.
+8. Commit often!
+```
+
+</p></details>
+
 <details><summary>Brown Bag Presentation Scheduling</summary><p>
 
 ### Interested
