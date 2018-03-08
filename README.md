@@ -84,7 +84,7 @@
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `jibble in` |
-| 9.  | 12  - 5   | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, 4) Q&A lecture help |
+| 9.  | 12  - 5   | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, 4) Q&A lecture help/host 2-3pst |
 | 10. | 5         | `jibble out` |
 
 ## Friday: Sprint Challenges
@@ -104,7 +104,7 @@
 
 | # | Time (PST) | Activity |
 |:---|:---|:---|
-| 1.  | 12 - 5 | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, Q&A lecture help |
+| 1.  | 12 - 5 | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, Q&A lecture help/host 2-3pst |
 
 </p></details>
 
@@ -132,7 +132,7 @@
 | 8.  | 11        | `/jibble out` |
 | 9.  | 11  - 12  | LUNCH |
 | 10. | 12        | `jibble in` |
-| 11. | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, 4) Q&A lecture help |
+| 11. | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, 4) Q&A lecture help/host 2-3pst |
 | 12. | 5         | `jibble out` |
 
 ## Friday: Sprint Challenges
