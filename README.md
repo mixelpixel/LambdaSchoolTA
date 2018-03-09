@@ -366,6 +366,7 @@ For example, use `git log` to see your commit history, find the commit you want 
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
 #### `/remind`ers
 - `/remind` e.g. `/remind #cs7_staff @channel 805aPST - CS7 TAs Stand Up mtg: https://zoom.us/j/373539169 every weekday at 11:05am` (see Zoom prefs to make a regular meeting URL)
+- `/remind #cs7 @channel Before you go to lunch, update your Sprint Challenge PR by saving your work locally, committing all your changes and pushing them up to GitHub. You did submit a PR, right? Once you've done that, please fill out the Sprint Challenge Submission form: https://airtable.com/shrZZKYVu5SITs2R8 every friday at 1:55pm`
 
 ### Chat
 1. Slack chat supports mouse sharing and screen drawing
