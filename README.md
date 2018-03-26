@@ -609,8 +609,10 @@ Great job!
 
 https://github.com/LambdaSchool/pair-programming-checklist
 
-Pairing:
+# Pairing
+
 @channel Reminder: for pair programming “collaboration” through :github:
+
 ```
 1. Person A forks the Lambda School repository.
 2. Person A adds person B as a Collaborator.
@@ -620,6 +622,7 @@ Pairing:
 6. Upon the first switch, save all changes, commit, push to person A's repository and makes a Pull Request.
 7. Push and pull changes as you switch.
 8. Commit often!
+9. Attend the end of day stand up meeting.
 ```
 
 </p></details>
