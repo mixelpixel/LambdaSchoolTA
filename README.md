@@ -9,8 +9,8 @@
   <h6>u r in BIG trubble.</h6>
   <img src="https://orig00.deviantart.net/d0b8/f/2015/167/8/5/blue_lambda_as_hecu_marine_by_hanif1807-d8xkuq4.png" height="100px" width="100px">
   <br><br><br><br><br><br><br><br><br><br>
-  <h1>CS7 Teaching Assistants</h1>
-  <p><b>A repository for stuff while a Teaching Assistant for the CS7 cohort.</b></p>
+  <h1>CS7 Project Managers</h1>
+  <p><b>A repository for stuff while a Section Lead Project Manager for the CS7 cohort.</b></p>
   <p>(I'm not actually serious about students not looking at this stuff.)</p>
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/what-a-dork.jpg" alt="What a dork.">
   <p>OR, am I???????</p>
@@ -48,7 +48,7 @@
 
 ***
 
-# Teaching Assistants
+# Project Managers
 #### Top Priority: `If you’re clocked in, code review is the top priority.`
 
 <details><summary>Priorities</summary><p>
@@ -170,7 +170,7 @@
 
 </p></details>
 
-<details><summary>CS7 Teaching Assistants</summary><p>
+<details><summary>CS7 Project Managers</summary><p>
 
 ### CS7 PM's
 | # | Name | Location | TimeZone | OS | Text Editor |
