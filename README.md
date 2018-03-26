@@ -145,7 +145,7 @@
 | 3.  | 805 - 820 | CS7 PM standup |
 | 4.  | 820 - 845 | 1) GitHub PR code reviews, 2) Code challenge help |
 | 5.  | 845 - 9   | LECTURE: code challenge review |
-| 6.  | 905 - ... | WEDNESDAY Section Leads mtg: https://zoom.us/j/4558930151 or #staff_lead_tas report |
+| 6.  | 905 - ... | WEDNESDAY Section Leads mtg: https://zoom.us/j/4558930151 or #staff_section_leads report |
 | 7.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist 5) AM Lecture |
 | 8.  | 11        | `/jibble out` |
 | 9.  | 11  - 12  | LUNCH |
