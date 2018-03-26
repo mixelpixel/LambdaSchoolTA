@@ -80,7 +80,7 @@
 | 1.  | 8         | `/jibble in` |
 | 2.  | 805 - 820 | CS7 PM standup meeting |
 | 3.  | 820 - 9   | 1) GitHub PR code reviews, 2) Code challenge help, 3) SOLUTION LECTURE @845-9 |
-| 5.  | 9   - 11  | 1) GitHub PR code reviews, 2) #cs7_help |
+| 5.  | 9   - 11  | 1) GitHub PR code reviews, 2) #cs7_help, 3) AM Lecture |
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `jibble in` |
@@ -96,8 +96,8 @@
 |:---|:---|:---|
 | 1.  | 8         | `/jibble in` |
 | 2.  | 805 - 9   | CS7 PM standup meeting |
-| 3.  | 9 - 10    | CS7 PM Open Q&A with Instructor |
-| 4.  | 10 - 11   | 1) GitHub PR code reviews, 2) #cs7_help |
+| 3.  | 9   - 10  | CS7 PM Open Q&A with Instructor |
+| 4.  | 10  - 11  | 1) GitHub PR code reviews, 2) #cs7_help |
 | 5.  | 11        | `/jibble out` |
 | 6.  | 11  - 12  | LUNCH |
 | 7.  | 12        | `jibble in` |
@@ -119,9 +119,9 @@
 
 ## Afternoon Part-time PM assistance Friday: Sprint Challenges
 
-| 1.  | 12        | `jibble in` |
-| 2.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Assessments, PR reviews, 1-on-1 meetings |
-| 3.  | 5         | `jibble out` |
+| 1.  | 12     | `jibble in` |
+| 2.  | 12 - 5 | Sprint Challenge: 12-1 Instructor Review, Assessments, PR reviews, 1-on-1 meetings |
+| 3.  | 5      | `jibble out` |
 
 
 </p></details>
