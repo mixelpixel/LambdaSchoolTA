@@ -180,9 +180,7 @@
 | 3. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC |
 | 4. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ |
 | 5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
-| 6. | Matt Jackson              | ??? | PST | macOS | VSC, VIM |
-| 7. | Dylan Scheidt             | ??? | EST | macOS | VSC |
-| 8. | Ryan Lowe                 | ??? | EST | Ubuntu | VSC |
+| 6. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM |
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="PM Time Zones" width="300">
 
