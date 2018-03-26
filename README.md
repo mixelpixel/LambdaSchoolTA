@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/what-a-dork.jpg" alt="What a dork.">
   <p>OR, am I???????</p>
   <br>
-  <h2>My mantra as a TA is this:</h2>
+  <h2>My mantra as a Project Manager is this:</h2>
   <p><i><b>I don’t need to know a single thing about the students code, or even their project.</b></i></p>
   <p><i><b>I just need to help them to help themselves.</b></i></p>
   <br><br>
@@ -53,7 +53,7 @@
 
 <details><summary>Priorities</summary><p>
 
-- [Student per TA](https://docs.google.com/spreadsheets/d/1U7f93fjcB02d33--bMgC1-eEEyXrw_eH55duABnnurY/edit#gid=0)
+- [Student per PM](https://docs.google.com/spreadsheets/d/1U7f93fjcB02d33--bMgC1-eEEyXrw_eH55duABnnurY/edit#gid=0)
 
 > When possible (which should be almost always…), code reviews should be done during instruction in the morning.
 > Emphasis is on the current PR’s, not the past ones.
@@ -69,54 +69,72 @@
 
 </p></details>
 
-<details><summary>TA Daily Schedule (PST)</summary><p>
+<details><summary>PM Daily Schedule (PST)</summary><p>
 
-#### DAILY@9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
+#### DAILY@9:15am PST CS7 PM Stand Up Meeting (5 - 10 minutes)
 
 ## Monday through Thursday: Projects & Code Challenges
 
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 8         | `/jibble in` |
-| 2.  | 805 - 820 | CS7 TA standup meeting |
-| 3.  | 820 - 9   | 1) GitHub PR code reviews, 2) Code challenge help, SOLUTION LECTURE @845-9 |
+| 2.  | 805 - 820 | CS7 PM standup meeting |
+| 3.  | 820 - 9   | 1) GitHub PR code reviews, 2) Code challenge help, 3) SOLUTION LECTURE @845-9 |
 | 5.  | 9   - 11  | 1) GitHub PR code reviews, 2) #cs7_help |
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `jibble in` |
-| 9.  | 12  - 5   | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, 4) Q&A lecture help/host 2-3pst |
-| 10. | 5         | `jibble out` |
+| 9.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 10. | 345 - 415 | Daily Retrospective Form review |
+| 11. | 415 - 430 | PM Team Meeting Standup Reports |
+| 12. | 415 - 5   | PM Team Meeting Group Discussion |
+| 13. | 5         | `jibble out` |
 
 ## Friday: Sprint Challenges
 
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 8         | `/jibble in` |
-| 2.  | 805 - 820 | CS7 TA standup meeting |
-| 3.  | 820 - 11  | 1) GitHub PR code reviews, 2) #cs7_help |
-| 4.  | 11        | `/jibble out` |
-| 5.  | 11  - 12  | LUNCH |
-| 6.  | 12        | `jibble in` |
-| 7.  | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-| 8.  | 5         | `jibble out` |
+| 2.  | 805 - 9   | CS7 PM standup meeting |
+| 3.  | 9 - 10    | CS7 PM Open Q&A with Instructor |
+| 4.  | 10 - 11   | 1) GitHub PR code reviews, 2) #cs7_help |
+| 5.  | 11        | `/jibble out` |
+| 6.  | 11  - 12  | LUNCH |
+| 7.  | 12        | `jibble in` |
+| 8.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Assessments, PR reviews, 1-on-1 meetings |
+| 9.  | 5         | `jibble out` |
 
-## Afternoon Part-time TA assistance
+***
+
+## Afternoon Part-time PM assistance M - Th
 
 | # | Time (PST) | Activity |
 |:---|:---|:---|
-| 1.  | 12 - 5 | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, Q&A lecture help/host 2-3pst |
+| 1.  | 12        | `jibble in` |
+| 2.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 3.  | 345 - 415 | Daily Retrospective Form review |
+| 4.  | 415 - 430 | PM Team Meeting Standup Reports |
+| 5.  | 415 - 5   | PM Team Meeting Group Discussion |
+| 6.  | 5         | `jibble out` |
+
+## Afternoon Part-time PM assistance Friday: Sprint Challenges
+
+| 1.  | 12        | `jibble in` |
+| 2.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Assessments, PR reviews, 1-on-1 meetings |
+| 3.  | 5         | `jibble out` |
+
 
 </p></details>
 
-<details><summary>Lead TA Daily Schedule (PST)</summary><p>
+<details><summary>Lead PM Daily Schedule (PST)</summary><p>
 
-#### DAILY@9:15am PST CS7 TA Stand Up Meeting (5 - 10 minutes)
-##### In alphabetical order, ask all the TA's
+#### DAILY@9:15am PST CS7 PM Stand Up Meeting (5 - 10 minutes)
+##### In alphabetical order, ask all the PM's
 1. What did you work on yesterday?
 2. What are you working on today?
 3. What is causing you to get stuck?
 
-#### DAILY@9:05am PST  [Lead TA Stand Up Meeting](https://zoom.us/j/4558930151)
+#### DAILY@9:05am PST  [Lead PM Stand Up Meeting](https://zoom.us/j/4558930151)
 
 ## Monday through Thursday: Projects & Code Challenges
 
@@ -124,10 +142,10 @@
 |:---|:---|:---|
 | 1.  | 450p day before or 750a | Schedule Code Challenge |
 | 2.  | 8         | `/jibble in` |
-| 3.  | 805 - 820 | CS7 TA standup |
+| 3.  | 805 - 820 | CS7 PM standup |
 | 4.  | 820 - 845 | 1) GitHub PR code reviews, 2) Code challenge help |
 | 5.  | 845 - 9   | LECTURE: code challenge review |
-| 6.  | 905 - ... | Lead TAs mtg: https://zoom.us/j/4558930151 or #staff_lead_tas report |
+| 6.  | 905 - ... | Lead PMs mtg: https://zoom.us/j/4558930151 or #staff_lead_tas report |
 | 7.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
 | 8.  | 11        | `/jibble out` |
 | 9.  | 11  - 12  | LUNCH |
@@ -140,9 +158,9 @@
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 8         | `/jibble in` |
-| 2.  | 805 - 820 | CS7 TA standup |
+| 2.  | 805 - 820 | CS7 PM standup |
 | 3.  | 820 - 915 | 1) GitHub PR code reviews 2) #cs7_help |
-| 4.  | 905 - ... | Lead TAs mtg: https://zoom.us/j/4558930151 |
+| 4.  | 905 - ... | Lead PMs mtg: https://zoom.us/j/4558930151 |
 | 5.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
@@ -154,7 +172,7 @@
 
 <details><summary>CS7 Teaching Assistants</summary><p>
 
-### CS7 TA's
+### CS7 PM's
 | # | Name | Location | TimeZone | OS | Text Editor |
 |---|:---|:---|:---|:---|:---|
 | 1. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC |
@@ -166,9 +184,9 @@
 | 7. | Dylan Scheidt             | ??? | EST | macOS | VSC |
 | 8. | Ryan Lowe                 | ??? | EST | Ubuntu | VSC |
 
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="TA Time Zones" width="300">
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="PM Time Zones" width="300">
 
-### CS7 TA Schedules (PST)
+### CS7 PM Schedules (PST)
 1. Manisha M-F 8-11 LUNCH 12-5
 2. Tyge Johnson: M-F 8-11 LUNCH 12-5
 3. Patrick: M-F 8-11 LUNCH 12-5
@@ -186,10 +204,10 @@
 
 <details><summary>Set Up Notes</summary><p>
 
-### Setting up new Lead TAs
+### Setting up new Lead PMs
 1) CS# on Piazza - Tai
 2) CS# on Repl.it - Kevin
-3) Zoom logins (one for lead, one for CS# TA’s) - Tai
+3) Zoom logins (one for lead, one for CS# PM’s) - Tai
 4) YouTube: Lambda School account access - Caleb
 5) Airtable access for Attendance and the Watchlist - Caleb
     FORMS:
@@ -367,7 +385,7 @@ For example, use `git log` to see your commit history, find the commit you want 
 #### `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
 #### `/remind`ers
-- `/remind` e.g. `/remind #cs7_staff @channel 805aPST - CS7 TAs Stand Up mtg: https://zoom.us/j/373539169 every weekday at 11:05am` (see Zoom prefs to make a regular meeting URL)
+- `/remind` e.g. `/remind #cs7_staff @channel 805aPST - CS7 PMs Stand Up mtg: https://zoom.us/j/373539169 every weekday at 11:05am` (see Zoom prefs to make a regular meeting URL)
 - `/remind #cs7 @channel Before you go to lunch, update your Sprint Challenge PR by saving your work locally, committing all your changes and pushing them up to GitHub. You did submit a PR, right? Once you've done that, please fill out the Sprint Challenge Submission form: https://airtable.com/shrZZKYVu5SITs2R8 every friday at 1:55pm`
 
 ### Chat
@@ -574,7 +592,7 @@ Suggestion for GitHub Pull Requests and commits:
 - Commit msgs don't have to be long, but often and succinct is good practice. The first fifty characters can be the whole commit message, but they can also be the title if you put a line in between the title and a longer explanatory description.
 - The command `git log` will show you the history of your project (`space` to page through the longer histories. `q` will get you out of the history display). I try (and often fail) to get my commit message titles to tell the _story_ of my project development.
 
-As for PRs - it's helpful for TAs/Instructors if you put _your name_ as the title of the PR.
+As for PRs - it's helpful for PMs/Instructors if you put _your name_ as the title of the PR.
 Also, you can open a PR as soon as you fork and clone a repo.
 As you push commits to your repo, they'll get added to the PR.
 That way your work is available to us as you develop your project :)
