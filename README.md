@@ -623,13 +623,6 @@ https://github.com/LambdaSchool/pair-programming-checklist
 
 </p></details>
 
-<details><summary>Brown Bag Presentation Scheduling</summary><p>
-
-### Interested
-1. Aaron Burk: soft skills / people skills, request 1/26
-
-</p></details>
-
 ***
 
 # Errata, Addenda & Miscellany
