@@ -119,6 +119,8 @@
 
 ## Afternoon Part-time PM assistance Friday: Sprint Challenges
 
+| # | Time (PST) | Activity |
+|:---|:---|:---|
 | 1.  | 12     | `/jibble in` |
 | 2.  | 12 - 5 | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
 | 3.  | 5      | `/jibble out` |
