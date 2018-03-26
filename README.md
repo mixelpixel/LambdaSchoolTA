@@ -126,7 +126,7 @@
 
 </p></details>
 
-<details><summary>Lead PM Daily Schedule (PST)</summary><p>
+<details><summary>Section Lead Daily Schedule (PST)</summary><p>
 
 #### DAILY@9:15am PST CS7 PM Stand Up Meeting (5 - 10 minutes)
 ##### In alphabetical order, ask all the PM's
@@ -134,7 +134,7 @@
 2. What are you working on today?
 3. What is causing you to get stuck?
 
-#### DAILY@9:05am PST  [Lead PM Stand Up Meeting](https://zoom.us/j/4558930151)
+#### DAILY@9:05am PST  [Section Lead Stand Up Meeting](https://zoom.us/j/4558930151)
 
 ## Monday through Thursday: Projects & Code Challenges
 
@@ -145,7 +145,7 @@
 | 3.  | 805 - 820 | CS7 PM standup |
 | 4.  | 820 - 845 | 1) GitHub PR code reviews, 2) Code challenge help |
 | 5.  | 845 - 9   | LECTURE: code challenge review |
-| 6.  | 905 - ... | Lead PMs mtg: https://zoom.us/j/4558930151 or #staff_lead_tas report |
+| 6.  | 905 - ... | Section Leads mtg: https://zoom.us/j/4558930151 or #staff_lead_tas report |
 | 7.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
 | 8.  | 11        | `/jibble out` |
 | 9.  | 11  - 12  | LUNCH |
@@ -160,7 +160,7 @@
 | 1.  | 8         | `/jibble in` |
 | 2.  | 805 - 820 | CS7 PM standup |
 | 3.  | 820 - 915 | 1) GitHub PR code reviews 2) #cs7_help |
-| 4.  | 905 - ... | Lead PMs mtg: https://zoom.us/j/4558930151 |
+| 4.  | 905 - ... | Section Leads mtg: https://zoom.us/j/4558930151 |
 | 5.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
@@ -204,7 +204,7 @@
 
 <details><summary>Set Up Notes</summary><p>
 
-### Setting up new Lead PMs
+### Setting up new Section Leads
 1) CS# on Piazza - Tai
 2) CS# on Repl.it - Kevin
 3) Zoom logins (one for lead, one for CS# PM’s) - Tai
