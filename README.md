@@ -80,7 +80,7 @@
 | 1.  | 8         | `/jibble in` |
 | 2.  | 805 - 820 | CS7 PM standup meeting |
 | 3.  | 820 - 9   | 1) GitHub PR code reviews, 2) Code challenge help, 3) SOLUTION LECTURE @845-9 |
-| 5.  | 9   - 11  | 1) GitHub PR code reviews, 2) #cs7_help, 3) AM Lecture |
+| 5.  | 9   - 11  | 1) GitHub PR code reviews, 2) #cs7_help, 3) AM Lecture 4) Attendance |
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `jibble in` |
@@ -101,7 +101,7 @@
 | 5.  | 11        | `/jibble out` |
 | 6.  | 11  - 12  | LUNCH |
 | 7.  | 12        | `jibble in` |
-| 8.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Assessments, PR reviews, 1-on-1 meetings |
+| 8.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
 | 9.  | 5         | `jibble out` |
 
 ***
@@ -146,12 +146,15 @@
 | 4.  | 820 - 845 | 1) GitHub PR code reviews, 2) Code challenge help |
 | 5.  | 845 - 9   | LECTURE: code challenge review |
 | 6.  | 905 - ... | WEDNESDAY Section Leads mtg: https://zoom.us/j/4558930151 or #staff_lead_tas report |
-| 7.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
+| 7.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist 5) AM Lecture |
 | 8.  | 11        | `/jibble out` |
 | 9.  | 11  - 12  | LUNCH |
 | 10. | 12        | `jibble in` |
-| 11. | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms, 4) Q&A lecture help/host 2-3pst |
-| 12. | 5         | `jibble out` |
+| 11. | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 12. | 345 - 415 | Daily Retrospective Form review |
+| 13. | 415 - 430 | PM Team Meeting Standup Reports |
+| 14. | 415 - 5   | PM Team Meeting Group Discussion |
+| 15. | 5         | `jibble out` |
 
 ## Friday: Sprint Challenges
 
@@ -165,8 +168,11 @@
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `jibble in` |
-| 9.  | 12  - 5   | 1) GitHub PR code reviews 2) #cs7_help 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-| 10. | 5         | `jibble out` |
+| 9.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 10. | 345 - 415 | Daily Retrospective Form review |
+| 11. | 415 - 430 | PM Team Meeting Standup Reports |
+| 12. | 415 - 5   | PM Team Meeting Group Discussion |
+| 13. | 5         | `jibble out` |
 
 </p></details>
 
