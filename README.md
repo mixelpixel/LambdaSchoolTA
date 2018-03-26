@@ -87,7 +87,7 @@
 | 9.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 10. | 345 - 415 | Daily Retrospective Form review |
 | 11. | 415 - 430 | PM Team Meeting Standup Reports |
-| 12. | 415 - 5   | PM Team Meeting Group Discussion |
+| 12. | 430 - 5   | PM Team Meeting Group Discussion |
 | 13. | 5         | `jibble out` |
 
 ## Friday: Sprint Challenges
@@ -114,7 +114,7 @@
 | 2.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 3.  | 345 - 415 | Daily Retrospective Form review |
 | 4.  | 415 - 430 | PM Team Meeting Standup Reports |
-| 5.  | 415 - 5   | PM Team Meeting Group Discussion |
+| 5.  | 430 - 5   | PM Team Meeting Group Discussion |
 | 6.  | 5         | `jibble out` |
 
 ## Afternoon Part-time PM assistance Friday: Sprint Challenges
@@ -153,7 +153,7 @@
 | 11. | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
 | 12. | 345 - 415 | Daily Retrospective Form review |
 | 13. | 415 - 430 | PM Team Meeting Standup Reports |
-| 14. | 415 - 5   | PM Team Meeting Group Discussion |
+| 14. | 430 - 5   | PM Team Meeting Group Discussion |
 | 15. | 5         | `jibble out` |
 
 ## Friday: Sprint Challenges
@@ -168,7 +168,7 @@
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `jibble in` |
-| 9.  | 12  - 345 | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
+| 9.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
 | 13. | 5         | `jibble out` |
 
 </p></details>
