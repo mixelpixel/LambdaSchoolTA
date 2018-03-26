@@ -182,7 +182,7 @@
 | 5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
 | 6. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM |
 
-<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/TAbyTimezones.jpeg" alt="PM Time Zones" width="300">
+<img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/PMbyTimezones.jpeg" alt="PM Time Zones" width="300">
 
 ### CS7 PM Schedules (PST)
 1. Manisha M-F 8-11 LUNCH 12-5
