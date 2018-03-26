@@ -462,107 +462,103 @@ Nested text/markdown
 - Strip out percentages
 - use: http://sortmylist.com/ to sort (by first or last name) and make csv if need be
 
-<details><summary>There are 49 CS7 students SORTED BY FIRST NAME </summary><p>
+<details><summary>There are 47 CS7 students SORTED BY FIRST NAME </summary><p>
 
-1. Aaron Burk
-2. Amanda Phillips
-3. Anthony Catalfo
-4. Ashlei Jones
-5. Boeun Kim
-6. Charlie Sparks
-7. Christopher Beards
-8. Cliff Kang
-9. Cody Windeknecht
-10. Daniel Abbott
-11. Daniel Lara
-12. Dani Tacheny
-13. David Loveday
-14. David Soudry
-15. Devin Baldwin
-16. Dixie Korley
-17. Eileen Eddy
-18. Eric Hechavarria
-19. German Go
-20. Giraud Julemis
-21. Glenn-David Daniel
-22. Igor Yermak
-23. John Spraul
-24. Jon Anderson
-25. Jonathan Brunt
-26. Jonathan Bry
-27. Kevin Chan
-28. Lo Saephan
-29. Maximo Delarosa
-30. Michael Marshalkovich
-31. Mike Streltsoff
-32. Nathan Flood
-33. Nathaniel Flory
-34. Nikhil Kamineni
-35. Peter Gray
-36. Punit Rawal
-37. Richard Reis
-38. Ronelle Lawson
-39. Ronnie Miksch
-40. Roy Tan
-41. Russell Bates
-42. Russell Stinson
-43. Sagdi Formanov
-44. Sergey Nam
-45. Shobana Ramesh
-46. Steven Magadan
-47. Tiffany Robbins
-48. Tommy Coleman
-49. Tyson Williams
+Aaron Burk
+Ala Ayaad
+Amanda Phillips
+Anthony Catalfo
+Ashlei Jones
+Charlie Sparks
+Christopher Beards
+Cliff Kang
+Cody Windeknecht
+Daniel J. Abbott
+Daniel Lara
+Danielle Tacheny
+David Loveday
+David Soudry
+Devin Baldwin
+Dixie Korley
+Eileen Eddy
+Eric Hechavarria
+German Gonzalez
+Giraud Julemis
+Glenn-David Daniel "David"
+Igor Yermak
+John Elijah Spraul
+John Paul Correia
+Jonathan Brunt
+Jonathan Bry
+Kevin Chan
+Lo Saephan
+Maximo De La Rosa
+Michael Marshalkovich
+Mike Streltsoff
+Nathan Daniel Flood
+Nathaniel Flory
+Nikhil Kamineni
+Peter A Gray
+Punit Rawal
+Richard Reis
+Ronald Miksch (Ronnie)
+Ronelle Mirron Lawson (Rain)
+Roy Tan
+Russell Leon Bates IV
+Russell Stinson
+Sergey Nam
+Shobana Ramesh
+Steven Magadan
+Terrie Boeun Kim
+Tyson Williams
 
 </p></details>
 
 <details><summary>SORTED BY LAST NAME</summary><p>
 
-Daniel Abbott
-Jon Anderson
+Daniel J. Abbott
+Ala Ayaad
 Devin Baldwin
-Russell Bates
+Russell Leon Bates IV
 Christopher Beards
 Jonathan Brunt
 Jonathan Bry
 Aaron Burk
 Anthony Catalfo
 Kevin Chan
-Tommy Coleman
-Glenn-David Daniel
-Maximo Delarosa
+John Paul Correia
+Glenn-David Daniel "David"
 Eileen Eddy
-Nathan Flood
+Nathan Daniel Flood
 Nathaniel Flory
-Sagdi Formanov
-German Go
-Peter Gray
+German Gonzalez
+Peter A Gray
 Eric Hechavarria
 Ashlei Jones
 Giraud Julemis
 Nikhil Kamineni
 Cliff Kang
-Boeun Kim
+Terrie Boeun Kim
 Dixie Korley
 Daniel Lara
-Ronelle Lawson
+Ronelle Mirron Lawson (Rain)
 David Loveday
 Steven Magadan
 Michael Marshalkovich
-Ronnie Miksch
+Ronald Miksch (Ronnie)
 Sergey Nam
 Amanda Phillips
 Shobana Ramesh
 Punit Rawal
 Richard Reis
-Tiffany Robbins
+Maximo De La Rosa
 Lo Saephan
-David Soudryy"
+David Soudry
 Charlie Sparks
-John Spraul
+John Elijah Spraul
 Russell Stinson
 Mike Streltsoff
-Dani Tacheny
+Danielle Tacheny
 Roy Tan
 Tyson Williams
 Cody Windeknecht
