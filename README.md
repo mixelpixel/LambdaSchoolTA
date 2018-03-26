@@ -167,9 +167,9 @@
 | 5.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
-| 8.  | 12        | `jibble in` |
+| 8.  | 12        | `/jibble in` |
 | 9.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
-| 13. | 5         | `jibble out` |
+| 13. | 5         | `/jibble out` |
 
 </p></details>
 
