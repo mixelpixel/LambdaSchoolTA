@@ -468,7 +468,6 @@ Nested text/markdown
 <details><summary>There are 47 CS7 students SORTED BY FIRST NAME </summary><p>
 
 Aaron Burk
-Ala Ayaad
 Amanda Phillips
 Anthony Catalfo
 Ashlei Jones
@@ -481,7 +480,6 @@ Daniel Lara
 Danielle Tacheny
 David Loveday
 David Soudry
-Devin Baldwin
 Dixie Korley
 Eileen Eddy
 Eric Hechavarria
@@ -520,8 +518,6 @@ Tyson Williams
 <details><summary>SORTED BY LAST NAME</summary><p>
 
 Daniel J. Abbott
-Ala Ayaad
-Devin Baldwin
 Russell Leon Bates IV
 Christopher Beards
 Jonathan Brunt
