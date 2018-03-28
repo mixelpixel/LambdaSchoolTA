@@ -85,7 +85,7 @@
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `/jibble in` |
 | 9.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-| 10. | 345 - 415 | Daily Retrospective Form review |
+| 10. | 345 - 415 | Daily Standup Form review |
 | 11. | 415 - 430 | PM Team Meeting Standup Reports |
 | 12. | 430 - 5   | PM Team Meeting Group Discussion |
 | 13. | 5         | `/jibble out` |
@@ -112,7 +112,7 @@
 |:---|:---|:---|
 | 1.  | 12        | `/jibble in` |
 | 2.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-| 3.  | 345 - 415 | Daily Retrospective Form review |
+| 3.  | 345 - 415 | Daily Standup Form review |
 | 4.  | 415 - 430 | PM Team Meeting Standup Reports |
 | 5.  | 430 - 5   | PM Team Meeting Group Discussion |
 | 6.  | 5         | `/jibble out` |
@@ -153,7 +153,7 @@
 | 9.  | 11  - 12  | LUNCH |
 | 10. | 12        | `/jibble in` |
 | 11. | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
-| 12. | 345 - 415 | Daily Retrospective Form review |
+| 12. | 345 - 415 | Daily Standup Form review |
 | 13. | 415 - 430 | PM Team Meeting Standup Reports |
 | 14. | 430 - 5   | PM Team Meeting Group Discussion |
 | 15. | 5         | `/jibble out` |
@@ -180,22 +180,25 @@
 ### CS7 PM's
 | # | Name | Location | TimeZone | OS | Text Editor |
 |---|:---|:---|:---|:---|:---|
-| 1. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC |
-| 2. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS | Emacs |
-| 3. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC |
-| 4. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ |
-| 5. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
-| 6. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM |
+| 1. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS | Emacs |
+| 2. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM |
+| 3. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
+| 4. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC |
+| 5. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC |
+| 6. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ |
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/PMbyTimezones.jpeg" alt="PM Time Zones" width="300">
 
 ### CS7 PM Schedules (PST)
+#### FT 40
 1. Manisha M-F 8-11 LUNCH 12-5
 2. Tyge Johnson: M-F 8-11 LUNCH 12-5
 3. Patrick: M-F 8-11 LUNCH 12-5
+#### FT 32-35
 4. Matt Jackson: M-F 8-11 LUNCH 1-5
-7. Wesley: M-F 12-5 _(5-9 w/CS1PT)_
-8. Satish is Part Time: 20hrs total
+#### PT
+5. Wesley: M-F 12-5 _(5-9 w/CS1PT)_
+6. Satish is Part Time: 20hrs total
   - M    W    F: 8AM  - 9AM
   - M    W    F: NOON - 5PM
   -   Tu   Th  : 4PM  - 5PM
