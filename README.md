@@ -121,9 +121,9 @@
 
 | # | Time (PST) | Activity |
 |:---|:---|:---|
-| 1.  | 12     | `/jibble in` |
-| 2.  | 12 - 5 | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
-| 3.  | 5      | `/jibble out` |
+| 1.  | 12      | `/jibble in` |
+| 2.  | 12  - 5 | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
+| 3.  | 5       | `/jibble out` |
 
 
 </p></details>
@@ -163,15 +163,14 @@
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 8         | `/jibble in` |
-| 2.  | 805 - 820 | CS7 PM standup |
-| 3.  | 820 - 915 | 1) GitHub PR code reviews 2) #cs7_help |
-| 4.  | 905 - ... | Section Leads mtg: https://zoom.us/j/4558930151 |
-| 5.  | ... - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
-| 6.  | 11        | `/jibble out` |
-| 7.  | 11  - 12  | LUNCH |
-| 8.  | 12        | `/jibble in` |
-| 9.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
-| 13. | 5         | `/jibble out` |
+| 2.  | 805 - 9   | CS7 PM standup meeting |
+| 3.  | 9   - 10  | CS7 PM Open Q&A with Instructor |
+| 4.  | 10  - 11  | 1) GitHub PR code reviews 2) #cs7_help 3) Attendance 4) Watchlist |
+| 5.  | 11        | `/jibble out` |
+| 6.  | 11  - 12  | LUNCH |
+| 7.  | 12        | `/jibble in` |
+| 8.  | 12  - 5   | Sprint Challenge: 12-1 Instructor Review, Attendance, Assessments, PR reviews, 1-on-1 meetings |
+| 9.  | 5         | `/jibble out` |
 
 </p></details>
 
