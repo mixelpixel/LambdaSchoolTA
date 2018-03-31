@@ -207,9 +207,9 @@
 <details><summary>Set Up Notes</summary><p>
 
 ### Setting up new Section Leads
-1) CS# on Piazza - Tai
+1) CS# on Piazza - Tai >>> Kevin
 2) CS# on Repl.it - Kevin
-3) Zoom logins (one for lead, one for CS# PM’s) - Tai
+3) Zoom logins (one for lead, one for CS# PM’s) - Tai >>> Kevin
 4) YouTube: Lambda School account access - Caleb
 5) Airtable access for Attendance and the Watchlist - Caleb
     FORMS:
