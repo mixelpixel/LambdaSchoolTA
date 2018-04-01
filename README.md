@@ -265,12 +265,6 @@ Per Emily:
 5. Select tomorrow and set the time to 7:59 AM (I do 8, but I'm a rebel)
 6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
 
-### Setting up BrownBags
-Per Emily:
-1. So right now I'm scheduling them a week at a time. I contact students individually and occasionally ask for volunteers in the channels. When I get a volunteer I add them to the calendar. The next two weeks are reserved for Sean and Caleb.
-2. The reason I do a week in advance is because sometimes we have to reschedule to make room for guests, and it makes it easier to just move the students back one week as opposed to scheduling them all out three months and having to figure out where to put them
-3. They're 20 minutes long, we aim for 3 per Friday
-
 ### Slack `/jibble` timeclock
 - In the jibble App channel, use `in` and `out`, see also: `help`
 - https://app.jibble.io/ to access your time sheet and edit times if need be.
