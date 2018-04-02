@@ -179,12 +179,12 @@
 ### CS7 PM's
 | # | Name | Location | TimeZone | OS | Text Editor | Console |
 |---|:---|:---|:---|:---|:---|---|
-| 1. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS | Emacs | |
-| 2. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM | |
-| 3. | Aaron Wilder              |  | PST | macOS | VSC, Atom | Iterm |
-| 4. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom | |
-| 5. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC | |
-| 6. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC | |
+| 1. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM | |
+| 2. | Aaron Wilder              |  | PST | macOS | VSC, Atom | Iterm |
+| 3. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom | |
+| 4. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC | |
+| 5. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC | |
+| 6. | Andy Lavor                | (PA) | EST | Linux: Kubuntu, Ubunutu, Fedora, CentOS | VSC | Terminator, bash, zsh |
 | 7. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ | Terminal.app/Bash, GitBash, CMD, PowerShell |
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/PMbyTimezones.jpeg" alt="PM Time Zones" width="300">
@@ -196,9 +196,10 @@
 3. Patrick: M-F 8-11 LUNCH 12-5
 #### FT 32-35
 4. Matt Jackson: M-F 8-11 LUNCH 1-5
+5. Aaron Wilder: M-F 8-11 LUNCH 1-5
+6. Andy Lavor: M-F 8-11 LUNCH 1-5
 #### PT
-5. Wesley: M-F 12-5 _(5-9 w/CS1PT)_
-6. Satish is Part Time: 20hrs total
+7. Satish is Part Time: 20hrs total
   - M    W    F: 8AM  - 9AM
   - M    W    F: NOON - 5PM
   -   Tu   Th  : 4PM  - 5PM
@@ -264,7 +265,13 @@ Per Emily:
 3. Under drafts, find the code challenge and click on it.
 4. On it's main page on the top right you can schedule it.
 5. Select tomorrow and set the time to 7:59 AM (I do 8, but I'm a rebel)
-6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one.
+6. You can always go back to the scheduled version, click to open it up and you'll have options to edit the tests etc. If you scroll all the way to the bottom, there's a link to the model solution. That's the one the students will see after submission, and the one you can share if you don't want to write one
+
+### Set up a recurring Zoom meeting
+1. Log in to the section lead Zoom account
+2. Go to "My Profile"
+3. Select the "Meetings" tab on the sidebar
+4. Set up a recurring meeting.
 
 ### Slack `/jibble` timeclock
 - In the jibble App channel, use `in` and `out`, see also: `help`
@@ -374,7 +381,8 @@ For example, use `git log` to see your commit history, find the commit you want 
 #### `/polly` polls
 - oh, it's a thing now with [a web interface](https://app.polly.ai/authoring)... templates... all that.
 #### `/remind`ers
-- `/remind` e.g. `/remind #cs7_staff @channel 805aPST - CS7 PMs Stand Up mtg: https://zoom.us/j/373539169 every weekday at 11:05am` (see Zoom prefs to make a regular meeting URL)
+- `/remind` e.g. `/remind #cs7_staff @channel 805aPST - CS7 PMs Stand Up mtg: https://zoom.us/j/931925949 every weekday at 11:05am`
+  - (see Zoom prefs to make a regular meeting URL)
 - `/remind #cs7 @channel Before you go to lunch, update your Sprint Challenge PR by saving your work locally, committing all your changes and pushing them up to GitHub. You did submit a PR, right? Once you've done that, please fill out the Sprint Challenge Submission form: https://airtable.com/shrZZKYVu5SITs2R8 every friday at 1:55pm`
 
 ### Chat
