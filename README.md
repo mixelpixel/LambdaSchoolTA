@@ -178,7 +178,7 @@
 
 ### CS7 PM's
 | # | Name | Location | TimeZone | OS | Text Editor | Console |
-|---|:---|:---|:---|:---|:---|
+|---|:---|:---|:---|:---|:---|---|
 | 1. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS | Emacs | |
 | 2. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM | |
 | 3. | Aaron Wilder              |  | PST | macOS | VSC, Atom | Iterm |
