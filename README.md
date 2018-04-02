@@ -84,7 +84,7 @@
 | 6.  | 11        | `/jibble out` |
 | 7.  | 11  - 12  | LUNCH |
 | 8.  | 12        | `/jibble in` |
-| 9.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 9.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://zoom.us/j/931925949">Breakout</a> rooms |
 | 10. | 345 - 415 | Daily Standup Form review |
 | 11. | 415 - 430 | PM Team Meeting Standup Reports |
 | 12. | 430 - 5   | PM Team Meeting Group Discussion |
@@ -111,7 +111,7 @@
 | # | Time (PST) | Activity |
 |:---|:---|:---|
 | 1.  | 12        | `/jibble in` |
-| 2.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 2.  | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://zoom.us/j/931925949">Breakout</a> rooms |
 | 3.  | 345 - 415 | Daily Standup Form review |
 | 4.  | 415 - 430 | PM Team Meeting Standup Reports |
 | 5.  | 430 - 5   | PM Team Meeting Group Discussion |
@@ -152,7 +152,7 @@
 | 8.  | 11        | `/jibble out` |
 | 9.  | 11  - 12  | LUNCH |
 | 10. | 12        | `/jibble in` |
-| 11. | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://youtu.be/-P67b07z7Qw">Breakout</a> rooms |
+| 11. | 12  - 345 | 1) GitHub PR code reviews, 2) #cs7_help, 3) Zoom <a href="https://zoom.us/j/931925949">Breakout</a> rooms |
 | 12. | 345 - 415 | Daily Standup Form review |
 | 13. | 415 - 430 | PM Team Meeting Standup Reports |
 | 14. | 430 - 5   | PM Team Meeting Group Discussion |
