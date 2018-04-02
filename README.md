@@ -177,14 +177,15 @@
 <details><summary>CS7 Project Managers</summary><p>
 
 ### CS7 PM's
-| # | Name | Location | TimeZone | OS | Text Editor |
+| # | Name | Location | TimeZone | OS | Text Editor | Console |
 |---|:---|:---|:---|:---|:---|
-| 1. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS | Emacs |
-| 2. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM |
-| 3. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom |
-| 4. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC |
-| 5. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC |
-| 6. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ |
+| 1. | Wesley "Pine Cone" Harvey | (Vancouver, BC) | PST | macOS | Emacs | |
+| 2. | Matt Jackson              | (Oakland, CA) | PST | macOS | VSC, VIM | |
+| 3. | Aaron Wilder              |  | PST | macOS | VSC, Atom | Iterm |
+| 4. | Tyge Johnson              | (Salt Lake City, UT) | MST | macOS | Atom | |
+| 5. | Manisha LaL               | (Chicago, IL) | CST | macOS | VSC | |
+| 6. | Satish Vattikuti          | (Toledo, OH) | EST | win10 | VSC | |
+| 7. | Patrick Kennedy           | (Madison, NH) | EST | macOS, win10, Ubuntu | Atom, VSC, Vim, Sublime, Notepad++ | Terminal.app/Bash, GitBash, CMD, PowerShell |
 
 <img src="https://raw.githubusercontent.com/mixelpixel/LambdaSchoolTA/master/art/PMbyTimezones.jpeg" alt="PM Time Zones" width="300">
 
