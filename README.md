@@ -449,6 +449,75 @@ Nested text/markdown
 </details>
 ```
 
+# Useful stuff
+## Mongo
+```
+$  mongo     <---- invoke the MongoDB
+   MongoDB shell version v3.6.3
+   connecting to: mongodb://127.0.0.1:27017
+   MongoDB server version: 3.6.3
+   ...
+> show dbs     <---- list all the databases
+   admin   0.000GB
+   config  0.000GB
+   local   0.000GB
+   users   0.000GB
+> use users     <---- use a particular database
+   switched to db users
+> db.users.find().pretty()     <---- display contents nicely
+   {
+           "_id" : ObjectId("5ab457b6103d0e1cb6597d16"),
+           "username" : "bob",
+           "passwordHash" : "$2a$11$dsFfbj6ETxWbMtNJLEQEEOZnCKqFjjyFR2BA0gdO/sBvhJMkuFfSy",
+           "__v" : 0
+   }
+> db.dropDatabase()     <---- nuke db out of existence
+   { "dropped" : "users", "ok" : 1 }
+> quit()     <---- well... this should be fairly obvious?
+$
+```
+
+## cURL
+For folks like working in the console, there are `cURL` equivalents for Postman commands. You can access these through the `Code` snippets link in the Postman app:
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/generate_code_snippets
+
+The Postman snippets are a little more verbose, but as an example, instead of using Postman for the Authentication Sprint routes and HTTP methods, these are the `cURL` equivalents:
+
+*/api/users/*
+i.e. `curl -x HTTP_METHOD {URL} -H {CONTENT:TYPE} -d '{"JSON":"DATA"}`
+```
+$ curl -X POST http://localhost:5000/api/users -H 'Content-Type: application/json' -d '{"username":"cool_name","password":"reallydifficult"}'
+    {
+        "__v":0,
+        "username":"cool_name",
+        "password":"$2a$11$ZziXrc/QXfPxm42WWLPPJ.JyvQS.ClyBnPDYvdclDUv06v9Uaiwhu",
+        "_id":"5ab6c702ae098de170987a00"
+    }
+```
+
+*/api/login/*
+i.e. `curl -x HTTP_METHOD {URL} -H {CONTENT:TYPE} -d '{"JSON":"DATA"}`
+```
+$ curl -X POST http://localhost:5000/api/login -H 'Content-Type: application/json' -d '{"username":"cool_name","password":"reallydifficult"}'
+    {
+"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNvb2xfbmFtZSIsImlhdCI6MTUyMTkyODA5Mn0.8aSKqHzQkprobO5w4oo-SuC03M4YIYFyPCD9EVNXu_s"
+    }
+```
+
+*/api/jokes:*
+i.e. `curl {URL} -H "Authorization:{TOKEN}"`
+```
+$ curl http://localhost:5000/api/jokes -H "Authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNvb2xfbmFtZSIsImlhdCI6MTUyMTkyODA5Mn0.8aSKqHzQkprobO5w4oo-SuC03M4YIYFyPCD9EVNXu_s"
+    [
+        {
+            "id": 30,
+            "type": "programming",
+            "setup": "Two bytes meet. The first byte asks, \"Are you ill?\"",
+            "punchline": "The second byte replies, \"No, just feeling a bit off.\""
+        },
+        et cetera...
+```
+
 </p></details>
 
 ***
