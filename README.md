@@ -194,7 +194,7 @@
 1. Manisha M-F 8-11 LUNCH 12-5
 2. Tyge Johnson: M-F 8-11 LUNCH 12-5
 3. Patrick: M-F 8-11 LUNCH 12-5
-#### FT 32-35
+#### PT 32-35
 4. Matt Jackson: M-F 8-11 LUNCH 1-5
 5. Aaron Wilder: M-F 8-11 LUNCH 1-5
 6. Andy Lavor: M-F 8-11 LUNCH 1-5
