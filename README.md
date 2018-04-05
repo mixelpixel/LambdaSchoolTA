@@ -50,6 +50,7 @@
 
 # Project Managers
 #### Top Priority: `If you’re clocked in, code review is the top priority.`
+- [Project Manager Pull Request Review Demo](https://youtu.be/B8okm2R9rOI) w/Patrick Kennedy
 
 <details><summary>Priorities</summary><p>
 
