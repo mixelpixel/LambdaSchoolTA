@@ -453,18 +453,22 @@ Nested text/markdown
 # Useful stuff
 ## Mongo
 ```
-$  mongo     <---- invoke the MongoDB
+$  mongo        <---- invoke the MongoDB
    MongoDB shell version v3.6.3
    connecting to: mongodb://127.0.0.1:27017
    MongoDB server version: 3.6.3
    ...
-> show dbs     <---- list all the databases
+> show dbs      <---- list all the databases
    admin   0.000GB
    config  0.000GB
    local   0.000GB
    users   0.000GB
+> db            <---- display which db is active (test is the default)
+   test
 > use users     <---- use a particular database
    switched to db users
+> db
+   users        <---- see?
 > db.users.find().pretty()     <---- display contents nicely
    {
            "_id" : ObjectId("5ab457b6103d0e1cb6597d16"),
@@ -472,9 +476,9 @@ $  mongo     <---- invoke the MongoDB
            "passwordHash" : "$2a$11$dsFfbj6ETxWbMtNJLEQEEOZnCKqFjjyFR2BA0gdO/sBvhJMkuFfSy",
            "__v" : 0
    }
-> db.dropDatabase()     <---- nuke db out of existence
+> db.dropDatabase()            <---- nuke db out of existence
    { "dropped" : "users", "ok" : 1 }
-> quit()     <---- well... this should be fairly obvious?
+> quit()                       <---- well... this should be fairly obvious?
 $
 ```
 
